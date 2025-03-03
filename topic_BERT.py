@@ -4,9 +4,10 @@ import umap
 import umap.umap_ as umap_module
 from preprocess_patch_notes import load_preprocessed_notes
 
-# Attempt to import cuML's UMAP for GPU acceleration
+# Attempt to import cuML's UMAP and HDBSCAN for GPU acceleration
 try:
     from cuml.manifold import UMAP as cumlUMAP
+    from cuml.cluster import HDBSCAN as cumlHDBSCAN
     gpu_available = True
 except ImportError:
     gpu_available = False
@@ -39,15 +40,26 @@ if not processed_docs:
 # Initialize embedding model
 embedding_model = SentenceTransformer("sentence-transformers/all-mpnet-base-v2", device="cuda" if gpu_available else "cpu")
 
-# Initialize BERTopic with appropriate UMAP
+# Initialize BERTopic with appropriate UMAP and HDBSCAN
 if gpu_available:
-    print("cuML is available. Using GPU-accelerated UMAP.")
+    print("cuML is available. Using GPU-accelerated UMAP and HDBSCAN.")
     custom_umap = cumlUMAP(n_neighbors=2, n_components=2, metric="cosine", init="random", random_state=42)
+    custom_hdbscan = cumlHDBSCAN(min_samples=10, gen_min_span_tree=True, prediction_data=True)
 else:
-    print("cuML is not available. Using CPU-based UMAP.")
+    print("cuML is not available. Using CPU-based UMAP and HDBSCAN.")
     custom_umap = umap.UMAP(n_neighbors=2, n_components=2, metric="cosine", init="random", random_state=42)
+    from hdbscan import HDBSCAN
+    custom_hdbscan = HDBSCAN(min_samples=10, gen_min_span_tree=True, prediction_data=True)
 
-topic_model = BERTopic(embedding_model=embedding_model, umap_model=custom_umap, language="english", nr_topics=8, calculate_probabilities=True, verbose=True)
+topic_model = BERTopic(
+    embedding_model=embedding_model,
+    umap_model=custom_umap,
+    hdbscan_model=custom_hdbscan,
+    language="english",
+    nr_topics=8,
+    calculate_probabilities=True,
+    verbose=True
+)
 topics, probabilities = topic_model.fit_transform(processed_docs)
 
 # Save results to CSV
