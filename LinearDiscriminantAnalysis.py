@@ -15,42 +15,7 @@ from wordcloud import WordCloud
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from gensim.matutils import sparse2full
-
-def load_patch_notes(directory='patch_notes', appid=None, return_all=False):
-    """
-    Load patch notes from JSON files in the specified directory.
-
-    :param directory: Directory where JSON files are stored.
-    :param appid: The AppID of the game to fetch patch notes for (optional).
-    :param return_all: If True, fetch patch notes for all games (default is False).
-    :return: List of patch notes.
-    """
-    all_patch_notes = []
-    
-    # Check if directory exists
-    if not os.path.exists(directory):
-        print(f"Directory '{directory}' does not exist.")
-        return []
-
-    # Iterate through all files in the directory
-    for filename in os.listdir(directory):
-        if filename.endswith('_patch_notes.json'):
-            file_appid = filename.split('_')[0]  # Extract AppID from filename
-            
-            # If specific AppID is provided, only load that file
-            if appid and file_appid != str(appid):
-                continue
-            
-            filepath = os.path.join(directory, filename)
-            with open(filepath, 'r', encoding='utf-8') as file:
-                patch_notes = json.load(file)
-                all_patch_notes.extend(patch_notes)
-
-            # If specific AppID was requested, return immediately after loading
-            if appid:
-                return all_patch_notes
-    
-    return all_patch_notes if return_all else []
+from steamWebAPI_scrape import load_patch_notes
 
 all_notes = load_patch_notes(return_all=True)
 
@@ -59,36 +24,16 @@ nltk.download('punkt')
 nltk.download('stopwords')
 
 # Define custom stopwords
-custom_ignore_words = ['game', 'http', 'ubisoft', 'quot', 'csgo', 'strong', 'read', 'new', 'added', 'removed', 'noopener', 'nbsp', 'apos', 'valve', 'like', 'really', 'https', 'also', 'one', 'two', 'update', 'patch', 'steam', 'play', 'rust', 'dayz', 'pubg', 'apex', 'legends', 'team', 'fortress', '2', 'counter', 'strike', 'global', 'offensive', 'cs', 'go', 'rainbow', 'six', 'siege', 'delta', 'force', 'x', 'marvel', 'rivals']
+# Define custom stopwords
+custom_ignore_words = [
+    'game', 'http', 'ubisoft', 'quot', 'csgo', 'strong', 'read', 'new',
+    'added', 'removed', 'noopener', 'nbsp', 'apos', 'valve', 'like',
+    'really', 'https', 'also', 'one', 'two', 'update', 'patch', 'steam',
+    'play', 'rust', 'dayz', 'pubg', 'apex', 'legends', 'team', 'fortress',
+    '2', 'counter', 'strike', 'global', 'offensive', 'cs', 'go', 'rainbow',
+    'six', 'siege', 'delta', 'force', 'x', 'marvel', 'rivals'
+]
 stop_words = set(stopwords.words('english')).union(set(custom_ignore_words))
-
-def load_patch_notes(directory='patch_notes', appid=None, return_all=False):
-    """
-    Load patch notes from JSON files in the specified directory.
-
-    :param directory: Directory where JSON files are stored.
-    :param appid: The AppID of the game to fetch patch notes for (optional).
-    :param return_all: If True, fetch patch notes for all games (default is False).
-    :return: List of patch notes.
-    """
-    all_patch_notes = []
-
-    for filename in os.listdir(directory):
-        if filename.endswith('_patch_notes.json'):
-            file_appid = filename.split('_')[0] 
-            
-            if appid and file_appid != str(appid):
-                continue
-
-            filepath = os.path.join(directory, filename)
-            with open(filepath, 'r', encoding='utf-8') as file:
-                patch_notes = json.load(file)
-                all_patch_notes.extend(note['contents'] for note in patch_notes)
-
-            if appid:
-                return all_patch_notes
-    
-    return all_patch_notes if return_all else []
 
 all_documents = load_patch_notes(appid=252490) # Load patch notes for Rust
 # Preprocess documents
