@@ -34,7 +34,7 @@ if not processed_docs:
 
 embedding_model = SentenceTransformer("sentence-transformers/all-mpnet-base-v2", device="cuda")
 
-topic_model = BERTopic(embedding_model=embedding_model, language="english", nr_topics=5,
+topic_model = BERTopic(embedding_model=embedding_model, language="english", nr_topics=8,
                        calculate_probabilities=True, verbose=True)
 topics, probabilities = topic_model.fit_transform(processed_docs)
 
