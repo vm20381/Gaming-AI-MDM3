@@ -2,10 +2,19 @@ import pandas as pd
 from matplotlib.lines import Line2D
 import matplotlib.pyplot as plt
 import numpy as np
+import os
 
-# Load datasets
-game_data = pd.read_csv(r"C:\Users\szymc\Desktop\PythonProjects\Game Analysis\Gaming-AI-MDM3\datasets\merged_game_twitch_data.csv")
-patch_data = pd.read_excel(r"C:\Users\szymc\Desktop\PythonProjects\Game Analysis\apex_patch_notes.xlsx")
+script_dir = os.path.dirname(__file__)
+
+relative_path = r"..\datasets\merged_game_twitch_data.csv"
+game_data_path = os.path.join(script_dir, relative_path)
+
+game_data = pd.read_csv(game_data_path)
+
+relative_path = r"apex_patch_notes.xlsx"
+patch_data_path = os.path.join(script_dir, relative_path)
+
+patch_data = pd.read_excel(patch_data_path)
 
 # Ensure column names are stripped of spaces
 game_data.rename(columns=lambda x: x.strip(), inplace=True)

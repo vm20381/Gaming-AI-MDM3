@@ -1,616 +1,2032 @@
 Topic,Topic_Name,Probability
-1,1_player_server_animation_issue,[4.74035673e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.02624797 0.97375203]
-1,1_player_server_animation_issue,[4.73464869e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.05555634 0.94444366]
-1,1_player_server_animation_issue,[1.05292831e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.04534682 0.95465318]
-1,1_player_server_animation_issue,[0.05182973 0.94817027]
-1,1_player_server_animation_issue,[0.00593844 0.99406156]
-1,1_player_server_animation_issue,[1.07015363e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.04278493 0.95721507]
-1,1_player_server_animation_issue,[0.05134573 0.94865427]
-1,1_player_server_animation_issue,[0.06257954 0.93742046]
-1,1_player_server_animation_issue,[0.02546187 0.97453813]
-1,1_player_server_animation_issue,[1.08257478e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.06683241e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.0270723 0.9729277]
-1,1_player_server_animation_issue,[0.07979203 0.88922308]
-1,1_player_server_animation_issue,[0.01408776 0.98591224]
-1,1_player_server_animation_issue,[1.0961481e-309 1.0000000e+000]
-1,1_player_server_animation_issue,[0.20813197 0.79186803]
-1,1_player_server_animation_issue,[0.01730433 0.98269567]
-1,1_player_server_animation_issue,[0.02180413 0.97819587]
-1,1_player_server_animation_issue,[0.04354882 0.95645118]
-1,1_player_server_animation_issue,[1.08538188e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.20932596 0.77217179]
-1,1_player_server_animation_issue,[0.13182739 0.86817261]
-1,1_player_server_animation_issue,[0.05346269 0.94653731]
-1,1_player_server_animation_issue,[4.7068696e-309 1.0000000e+000]
-1,1_player_server_animation_issue,[0.16644493 0.83355507]
-1,1_player_server_animation_issue,[0.0272712 0.9727288]
-1,1_player_server_animation_issue,[0.01108404 0.98891596]
-1,1_player_server_animation_issue,[0.09502652 0.68609379]
-1,1_player_server_animation_issue,[0.0429152 0.9570848]
-1,1_player_server_animation_issue,[1.05324072e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.03638751 0.96361249]
-1,1_player_server_animation_issue,[0.00911771 0.99088229]
-1,1_player_server_animation_issue,[0.04459962 0.95540038]
-1,1_player_server_animation_issue,[1.0709288e-309 1.0000000e+000]
-1,1_player_server_animation_issue,[4.55171519e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.02537175 0.97462825]
-1,1_player_server_animation_issue,[0.07204668 0.92795332]
-1,1_player_server_animation_issue,[0.0475103 0.9524897]
-1,1_player_server_animation_issue,[9.4480261e-310 1.0000000e+000]
-1,1_player_server_animation_issue,[0.00991699 0.99008301]
-1,1_player_server_animation_issue,[1.07864305e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.03188001 0.96811999]
-1,1_player_server_animation_issue,[0.02397405 0.97602595]
-1,1_player_server_animation_issue,[4.66424806e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.01341645 0.98658355]
-1,1_player_server_animation_issue,[0.14161567 0.85838433]
-1,1_player_server_animation_issue,[9.4107057e-310 1.0000000e+000]
-1,1_player_server_animation_issue,[0.03922271 0.96077729]
-1,1_player_server_animation_issue,[0.0543912 0.9456088]
-1,1_player_server_animation_issue,[0.02186704 0.97813296]
-1,1_player_server_animation_issue,[0.04191851 0.95808149]
-1,1_player_server_animation_issue,[0.01747333 0.98252667]
-1,1_player_server_animation_issue,[0.0102894 0.9897106]
-1,1_player_server_animation_issue,[1.36518097e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.01910878 0.98089122]
-1,1_player_server_animation_issue,[0.03712866 0.96287134]
-1,1_player_server_animation_issue,[0.04271247 0.95728753]
-1,1_player_server_animation_issue,[4.56133481e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.0269733 0.9730267]
-1,1_player_server_animation_issue,[0.06412278 0.93587722]
-1,1_player_server_animation_issue,[4.46991695e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.26180421 0.73819579]
-1,1_player_server_animation_issue,[0.25820741 0.74179259]
-1,1_player_server_animation_issue,[1.07978459e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.00804424 0.99195576]
-1,1_player_server_animation_issue,[0.00825577 0.99174423]
-1,1_player_server_animation_issue,[0.27382702 0.72617298]
-1,1_player_server_animation_issue,[0.17474234 0.44608587]
-1,1_player_server_animation_issue,[0.25666042 0.74333958]
-1,1_player_server_animation_issue,[9.39561682e-310 1.00000000e+000]
-1,1_player_server_animation_issue,[0.09908681 0.90091319]
-1,1_player_server_animation_issue,[9.31691962e-310 1.00000000e+000]
-1,1_player_server_animation_issue,[0.021968 0.978032]
-1,1_player_server_animation_issue,[0.15245266 0.84754734]
-1,1_player_server_animation_issue,[0.03520811 0.96479189]
-1,1_player_server_animation_issue,[0.01347913 0.98652087]
-1,1_player_server_animation_issue,[0.00936128 0.99063872]
-1,1_player_server_animation_issue,[0.03548628 0.96451372]
-1,1_player_server_animation_issue,[0.03220028 0.96779972]
-1,1_player_server_animation_issue,[4.46948532e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.07852607 0.92147393]
-1,1_player_server_animation_issue,[0.05611719 0.94388281]
-1,1_player_server_animation_issue,[9.33146025e-310 1.00000000e+000]
-1,1_player_server_animation_issue,[1.11545153e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.00617469 0.99382531]
-1,1_player_server_animation_issue,[0.24119001 0.72304304]
-1,1_player_server_animation_issue,[0.24650924 0.75349076]
-1,1_player_server_animation_issue,[1.07574022e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.32282761 0.67717239]
-1,1_player_server_animation_issue,[0.03735533 0.96264467]
-1,1_player_server_animation_issue,[1.05802166e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.27885172 0.72114828]
-1,1_player_server_animation_issue,[9.32759858e-310 1.00000000e+000]
-1,1_player_server_animation_issue,[0.2898538 0.7101462]
-1,1_player_server_animation_issue,[0.32176281 0.67823719]
-1,1_player_server_animation_issue,[0.00595975 0.99404025]
-1,1_player_server_animation_issue,[0.03089076 0.96910924]
-1,1_player_server_animation_issue,[0.24581027 0.6591868 ]
-1,1_player_server_animation_issue,[4.68164566e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.00553271 0.99446729]
-1,1_player_server_animation_issue,[4.77390577e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.06301613 0.93698387]
-1,1_player_server_animation_issue,[0.24800973 0.65368016]
-1,1_player_server_animation_issue,[0.0670952 0.9329048]
-1,1_player_server_animation_issue,[0.0582611 0.9417389]
-1,1_player_server_animation_issue,[0.03095511 0.96904489]
-1,1_player_server_animation_issue,[0.02333614 0.97666386]
-1,1_player_server_animation_issue,[0.08992446 0.5486271 ]
-1,1_player_server_animation_issue,[0.22328313 0.77237519]
-1,1_player_server_animation_issue,[0.15561278 0.84438722]
-1,1_player_server_animation_issue,[0.05114397 0.94885603]
-1,1_player_server_animation_issue,[0.05765657 0.94234343]
-1,1_player_server_animation_issue,[1.75386734e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.00771382 0.99228618]
-1,1_player_server_animation_issue,[1.58381767e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[9.22129872e-310 1.00000000e+000]
-1,1_player_server_animation_issue,[0.06858795 0.93141205]
-1,1_player_server_animation_issue,[0.03588065 0.96411935]
-1,1_player_server_animation_issue,[0.1838889 0.8161111]
-1,1_player_server_animation_issue,[0.1203706  0.67325902]
-1,1_player_server_animation_issue,[0.00546658 0.99453342]
-1,1_player_server_animation_issue,[1.36973694e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[4.59294813e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.25182442 0.74817558]
-1,1_player_server_animation_issue,[0.02509413 0.97490587]
-1,1_player_server_animation_issue,[0.0539304 0.9460696]
-1,1_player_server_animation_issue,[0.03505813 0.96494187]
-1,1_player_server_animation_issue,[0.01466806 0.98533194]
-1,1_player_server_animation_issue,[9.30052574e-310 1.00000000e+000]
-1,1_player_server_animation_issue,[1.20470679e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.04712663 0.95287337]
-1,1_player_server_animation_issue,[0.05108969 0.94891031]
-1,1_player_server_animation_issue,[9.28620041e-310 1.00000000e+000]
-0,0_issue_server_fixed_player,[1.00000000e+000 4.76640718e-309]
-1,1_player_server_animation_issue,[0.06065839 0.93934161]
-1,1_player_server_animation_issue,[0.02752969 0.97247031]
-1,1_player_server_animation_issue,[0.00787014 0.99212986]
-1,1_player_server_animation_issue,[0.00628479 0.99371521]
-1,1_player_server_animation_issue,[0.00983811 0.99016189]
-1,1_player_server_animation_issue,[0.03320628 0.96679372]
-1,1_player_server_animation_issue,[0.00848198 0.99151802]
-1,1_player_server_animation_issue,[0.20820733 0.79179267]
-1,1_player_server_animation_issue,[0.09079118 0.46657588]
-1,1_player_server_animation_issue,[0.09069956 0.47027008]
-1,1_player_server_animation_issue,[0.090613   0.47002484]
-1,1_player_server_animation_issue,[0.0903384  0.50958055]
-1,1_player_server_animation_issue,[0.09078829 0.46928061]
-1,1_player_server_animation_issue,[0.0907128  0.47774913]
-1,1_player_server_animation_issue,[1.08106097e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.09043137 0.46550724]
-1,1_player_server_animation_issue,[0.04921302 0.95078698]
-1,1_player_server_animation_issue,[0.04446349 0.95553651]
-1,1_player_server_animation_issue,[1.22496235e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.23689023 0.76310977]
-1,1_player_server_animation_issue,[1.06275163e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.20532062 0.79467938]
-1,1_player_server_animation_issue,[0.23112518 0.76887482]
-1,1_player_server_animation_issue,[0.04326007 0.95673993]
-1,1_player_server_animation_issue,[0.03813811 0.96186189]
-1,1_player_server_animation_issue,[0.20455589 0.79544411]
-1,1_player_server_animation_issue,[2.50216934e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.08276065 0.91723935]
-1,1_player_server_animation_issue,[2.10813349e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.01677583 0.98322417]
-1,1_player_server_animation_issue,[1.10412247e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.01281873 0.98718127]
-1,1_player_server_animation_issue,[1.33536027e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.17517353e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.02026863 0.97973137]
-1,1_player_server_animation_issue,[0.0240433 0.9759567]
-1,1_player_server_animation_issue,[0.03014056 0.96985944]
-1,1_player_server_animation_issue,[0.13475052 0.86524948]
-1,1_player_server_animation_issue,[0.05935744 0.94064256]
-1,1_player_server_animation_issue,[1.19384901e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.09745069 0.90254931]
-1,1_player_server_animation_issue,[0.03270044 0.96729956]
-1,1_player_server_animation_issue,[0.14653974 0.85346026]
-1,1_player_server_animation_issue,[2.58276441e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.11733769 0.76016755]
-1,1_player_server_animation_issue,[0.01864653 0.98135347]
-1,1_player_server_animation_issue,[0.0745522 0.9254478]
-1,1_player_server_animation_issue,[1.21744456e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.02865717 0.97134283]
-1,1_player_server_animation_issue,[0.06125548 0.93874452]
-1,1_player_server_animation_issue,[0.05611701 0.94388299]
-1,1_player_server_animation_issue,[0.13922647 0.86077353]
-1,1_player_server_animation_issue,[2.39718146e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.08885666 0.91114334]
-1,1_player_server_animation_issue,[0.08163933 0.91836067]
-1,1_player_server_animation_issue,[0.11831066 0.88168934]
-1,1_player_server_animation_issue,[0.02128706 0.97871294]
-1,1_player_server_animation_issue,[0.14048932 0.85951068]
-1,1_player_server_animation_issue,[0.14906277 0.84613022]
-1,1_player_server_animation_issue,[0.16423716 0.83576284]
-1,1_player_server_animation_issue,[0.11995449 0.88004551]
-1,1_player_server_animation_issue,[0.04782954 0.95217046]
-1,1_player_server_animation_issue,[0.0661579 0.9338421]
-1,1_player_server_animation_issue,[0.05712798 0.94287202]
-1,1_player_server_animation_issue,[0.07015294 0.92984706]
-1,1_player_server_animation_issue,[0.04270833 0.95729167]
-1,1_player_server_animation_issue,[1.92098041e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.07989865 0.92010135]
-1,1_player_server_animation_issue,[0.07847232 0.92152768]
-1,1_player_server_animation_issue,[0.10107271 0.89892729]
-1,1_player_server_animation_issue,[0.10017335 0.89982665]
-1,1_player_server_animation_issue,[0.05442761 0.94557239]
-1,1_player_server_animation_issue,[0.00528261 0.99471739]
-1,1_player_server_animation_issue,[1.57284751e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.27470329e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.26567181e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.21740916e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.25059914e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.10095893 0.89904107]
-1,1_player_server_animation_issue,[0.10119376 0.89880624]
-1,1_player_server_animation_issue,[2.2403477e-309 1.0000000e+000]
-1,1_player_server_animation_issue,[2.24999979e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.34851451e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.34785023e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.32186836e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.32657948e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.02113356 0.97886644]
-1,1_player_server_animation_issue,[0.12150911 0.87849089]
-1,1_player_server_animation_issue,[0.01405383 0.98594617]
-1,1_player_server_animation_issue,[0.07431152 0.92568848]
-1,1_player_server_animation_issue,[0.073767 0.926233]
-1,1_player_server_animation_issue,[1.90083198e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.89182573e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.91540165e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.91924892e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.89204945e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.89407524e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.05113187 0.94886813]
-1,1_player_server_animation_issue,[0.04832409 0.95167591]
-1,1_player_server_animation_issue,[1.85500154e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.01649648 0.98350352]
-1,1_player_server_animation_issue,[2.22811653e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.00577421 0.99422579]
-1,1_player_server_animation_issue,[0.17320246 0.80932996]
-1,1_player_server_animation_issue,[1.91053523e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.92312451e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.37236623e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.05340373 0.94659627]
-1,1_player_server_animation_issue,[0.05082443 0.94917557]
-1,1_player_server_animation_issue,[2.07293827e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.3433468e-309 1.0000000e+000]
-1,1_player_server_animation_issue,[2.33592152e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.89926513e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.0102441 0.9897559]
-1,1_player_server_animation_issue,[2.36256525e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.33496093e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.22909789e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.24195764e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.8827653e-309 1.0000000e+000]
-1,1_player_server_animation_issue,[1.89004833e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.93769218e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.93166025e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.16699459 0.83300541]
-1,1_player_server_animation_issue,[0.18216168 0.81783832]
-1,1_player_server_animation_issue,[1.84992357e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.86735441e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.25145531e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.11634188 0.88365812]
-1,1_player_server_animation_issue,[0.12008251 0.87991749]
-1,1_player_server_animation_issue,[3.18660673e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.16194267e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.01776831 0.98223169]
-1,1_player_server_animation_issue,[0.05982072 0.94017928]
-1,1_player_server_animation_issue,[0.07080296 0.92919704]
-1,1_player_server_animation_issue,[0.15368463 0.84631537]
-1,1_player_server_animation_issue,[0.15368434 0.84631566]
-1,1_player_server_animation_issue,[3.22581685e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.20568267e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.01723795 0.98276205]
-1,1_player_server_animation_issue,[3.75314026e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.03345195 0.96654805]
-1,1_player_server_animation_issue,[3.28897258e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.87140551e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.26994686e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.27774919e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.21791974e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.60110047e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.60815089e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.07879467e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.01041131 0.98958869]
-1,1_player_server_animation_issue,[0.03336057 0.96663943]
-1,1_player_server_animation_issue,[3.06308337e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.08319525e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.07872137e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.08633506e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.0717999 0.9282001]
-1,1_player_server_animation_issue,[0.07184881 0.92815119]
-1,1_player_server_animation_issue,[0.24364578 0.64450811]
-1,1_player_server_animation_issue,[3.12612042e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.14520759e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.14721179e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.15933815e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.02592512 0.97407488]
-1,1_player_server_animation_issue,[0.05138527 0.94861473]
-1,1_player_server_animation_issue,[3.18969174e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.02959869 0.97040131]
-1,1_player_server_animation_issue,[0.09164416 0.90835584]
-1,1_player_server_animation_issue,[0.14529082 0.85470918]
-1,1_player_server_animation_issue,[0.17147842 0.82852158]
-1,1_player_server_animation_issue,[0.11428149 0.88571851]
-1,1_player_server_animation_issue,[0.05655325 0.94344675]
-1,1_player_server_animation_issue,[0.06544554 0.93455446]
-1,1_player_server_animation_issue,[0.1498656 0.8501344]
-1,1_player_server_animation_issue,[0.15038761 0.84961239]
-1,1_player_server_animation_issue,[0.07597916 0.92402084]
-1,1_player_server_animation_issue,[0.06811528 0.93188472]
-1,1_player_server_animation_issue,[0.06188701 0.93811299]
-1,1_player_server_animation_issue,[0.05853258 0.94146742]
-1,1_player_server_animation_issue,[0.02032069 0.97967931]
-1,1_player_server_animation_issue,[0.02557444 0.97442556]
-0,0_issue_server_fixed_player,[1.00000000e+000 4.42861839e-309]
-0,0_issue_server_fixed_player,[1.00000000e+000 4.40632523e-309]
-0,0_issue_server_fixed_player,[1.00000000e+000 4.32575792e-309]
-0,0_issue_server_fixed_player,[1.00000000e+000 4.34335261e-309]
-1,1_player_server_animation_issue,[0.03527273 0.96472727]
-0,0_issue_server_fixed_player,[1.000000e+000 4.343563e-309]
-0,0_issue_server_fixed_player,[1.00000000e+000 4.32989092e-309]
-0,0_issue_server_fixed_player,[1.00000000e+000 4.37973012e-309]
-0,0_issue_server_fixed_player,[1.00000000e+000 4.45616372e-309]
-1,1_player_server_animation_issue,[0.05508484 0.94491516]
-1,1_player_server_animation_issue,[2.3643193e-309 1.0000000e+000]
-1,1_player_server_animation_issue,[2.35962463e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.03911962 0.96088038]
-1,1_player_server_animation_issue,[0.02110205 0.97889795]
-1,1_player_server_animation_issue,[2.36508253e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.01190475 0.98809525]
-1,1_player_server_animation_issue,[0.0107083 0.9892917]
-1,1_player_server_animation_issue,[2.22514977e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.008561 0.991439]
-1,1_player_server_animation_issue,[0.07872079 0.92127921]
-1,1_player_server_animation_issue,[0.0210264 0.9789736]
-1,1_player_server_animation_issue,[0.10535869 0.89464131]
-1,1_player_server_animation_issue,[3.13025465e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.35117859e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.35329529e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.31310466e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.15946494e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.08674635e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.294172e-309 1.000000e+000]
-1,1_player_server_animation_issue,[2.28360863e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.12094879 0.65020846]
-1,1_player_server_animation_issue,[2.33319232e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.35071644e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.11181081 0.88818919]
-1,1_player_server_animation_issue,[0.10775154 0.89224846]
-1,1_player_server_animation_issue,[0.08189028 0.91810972]
-1,1_player_server_animation_issue,[0.08255718 0.91744282]
-1,1_player_server_animation_issue,[2.95754066e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.95461377e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.11381292e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.13042763e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.96863256e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.95123959e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.04956866 0.95043134]
-1,1_player_server_animation_issue,[0.06358122 0.93641878]
-1,1_player_server_animation_issue,[0.02703887 0.97296113]
-1,1_player_server_animation_issue,[0.08255194 0.91744806]
-1,1_player_server_animation_issue,[0.09534483 0.90465517]
-1,1_player_server_animation_issue,[3.21950893e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.2387227e-309 1.0000000e+000]
-1,1_player_server_animation_issue,[0.02818264 0.97181736]
-1,1_player_server_animation_issue,[3.11992523e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.01286768 0.98713232]
-1,1_player_server_animation_issue,[1.59400415e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.60728575e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.02352917 0.97647083]
-1,1_player_server_animation_issue,[3.00846835e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.06060664e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.08218845e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.39163208e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.39609998e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.55423959e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.60703998e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.0760082 0.9239918]
-1,1_player_server_animation_issue,[0.07750115 0.92249885]
-1,1_player_server_animation_issue,[0.08901727 0.90190158]
-1,1_player_server_animation_issue,[0.01824981 0.98175019]
-1,1_player_server_animation_issue,[0.01138457 0.98861543]
-1,1_player_server_animation_issue,[0.08037836 0.91962164]
-1,1_player_server_animation_issue,[0.08521191 0.91478809]
-1,1_player_server_animation_issue,[0.05262106 0.94737894]
-1,1_player_server_animation_issue,[1.26290858e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.04027846 0.95972154]
-1,1_player_server_animation_issue,[0.0253553 0.9746447]
-1,1_player_server_animation_issue,[0.17090997 0.45861135]
-1,1_player_server_animation_issue,[0.17399327 0.45976642]
-1,1_player_server_animation_issue,[0.17385912 0.46653741]
-1,1_player_server_animation_issue,[0.17428876 0.46446083]
-1,1_player_server_animation_issue,[3.08474146e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.12437775e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.51536084e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.52545586e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.1518814 0.8481186]
-1,1_player_server_animation_issue,[0.13042887 0.86957113]
-1,1_player_server_animation_issue,[0.00858306 0.99141694]
-1,1_player_server_animation_issue,[0.00974086 0.99025914]
-1,1_player_server_animation_issue,[1.29048466e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.17042096 0.82957904]
-1,1_player_server_animation_issue,[0.17080151 0.82919849]
-1,1_player_server_animation_issue,[0.09797476 0.90202524]
-1,1_player_server_animation_issue,[0.10805659 0.89194341]
-1,1_player_server_animation_issue,[0.15475753 0.84524247]
-1,1_player_server_animation_issue,[0.14542514 0.85457486]
-1,1_player_server_animation_issue,[0.12575762 0.87424238]
-1,1_player_server_animation_issue,[0.12612886 0.87387114]
-1,1_player_server_animation_issue,[0.16693074 0.83306926]
-1,1_player_server_animation_issue,[0.1657699 0.8342301]
-1,1_player_server_animation_issue,[0.03458019 0.96541981]
-1,1_player_server_animation_issue,[1.06792341e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.07680397e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.17831857 0.82168143]
-1,1_player_server_animation_issue,[0.17483355 0.82516645]
-1,1_player_server_animation_issue,[0.16778579 0.83221421]
-1,1_player_server_animation_issue,[0.16864646 0.83135354]
-1,1_player_server_animation_issue,[0.0082096 0.9917904]
-1,1_player_server_animation_issue,[3.60501464e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.77533236e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.77199496e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.03058384 0.96941616]
-1,1_player_server_animation_issue,[0.17007647 0.82992353]
-1,1_player_server_animation_issue,[0.17033574 0.82966426]
-1,1_player_server_animation_issue,[0.23262106 0.63658088]
-1,1_player_server_animation_issue,[0.23092237 0.66211973]
-1,1_player_server_animation_issue,[0.02597626 0.97402374]
-1,1_player_server_animation_issue,[0.24011929 0.75988071]
-1,1_player_server_animation_issue,[0.23211748 0.76788252]
-1,1_player_server_animation_issue,[0.05991556 0.94008444]
-1,1_player_server_animation_issue,[0.0567203 0.9432797]
-1,1_player_server_animation_issue,[0.12626085 0.87373915]
-1,1_player_server_animation_issue,[0.1274967 0.8725033]
-1,1_player_server_animation_issue,[0.0856276 0.9143724]
-1,1_player_server_animation_issue,[0.07812886 0.92187114]
-1,1_player_server_animation_issue,[3.22184382e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.21732827e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.13363181 0.86636819]
-1,1_player_server_animation_issue,[0.13660194 0.86339806]
-1,1_player_server_animation_issue,[0.01857653 0.98142347]
-1,1_player_server_animation_issue,[0.04002576 0.95997424]
-1,1_player_server_animation_issue,[0.04044039 0.95955961]
-1,1_player_server_animation_issue,[0.25210758 0.74789242]
-1,1_player_server_animation_issue,[0.24355976 0.75644024]
-1,1_player_server_animation_issue,[0.13494113 0.86505887]
-1,1_player_server_animation_issue,[0.13348959 0.86651041]
-1,1_player_server_animation_issue,[1.16305431e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.27006672e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.00529556 0.99470444]
-1,1_player_server_animation_issue,[0.09474807 0.90525193]
-1,1_player_server_animation_issue,[0.22086852 0.77913148]
-1,1_player_server_animation_issue,[0.22705201 0.77294799]
-1,1_player_server_animation_issue,[1.61502595e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.61733967e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.01284943 0.98715057]
-1,1_player_server_animation_issue,[0.04269639 0.95730361]
-1,1_player_server_animation_issue,[0.04442457 0.95557543]
-1,1_player_server_animation_issue,[1.72754941e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.73536833e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.03394036 0.96605964]
-1,1_player_server_animation_issue,[1.19609046e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.11922535e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.72326276e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.72219614e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.09170094 0.90829906]
-1,1_player_server_animation_issue,[0.24733744 0.75266256]
-1,1_player_server_animation_issue,[0.25265083 0.74734917]
-1,1_player_server_animation_issue,[3.20056186e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.02152485 0.97847515]
-1,1_player_server_animation_issue,[0.07138204 0.92861796]
-1,1_player_server_animation_issue,[1.60755124e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.60111559e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.61202635e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.18689117 0.81310883]
-1,1_player_server_animation_issue,[0.18972535 0.81027465]
-1,1_player_server_animation_issue,[1.15005405e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.12271891 0.87728109]
-1,1_player_server_animation_issue,[0.12276432 0.87723568]
-1,1_player_server_animation_issue,[0.02281423 0.97718577]
-1,1_player_server_animation_issue,[1.64269906e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.63000242e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.6952254e-309 1.0000000e+000]
-1,1_player_server_animation_issue,[0.03105115 0.96894885]
-1,1_player_server_animation_issue,[0.06135965 0.93864035]
-1,1_player_server_animation_issue,[0.02245431 0.97754569]
-1,1_player_server_animation_issue,[0.01545912 0.98454088]
-1,1_player_server_animation_issue,[0.06932969 0.93067031]
-1,1_player_server_animation_issue,[0.06215973 0.93784027]
-1,1_player_server_animation_issue,[0.0042398 0.9957602]
-1,1_player_server_animation_issue,[1.93757092e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.00694012 0.99305988]
-1,1_player_server_animation_issue,[0.02841198 0.97158802]
-1,1_player_server_animation_issue,[0.01235353 0.98764647]
-1,1_player_server_animation_issue,[0.076615 0.923385]
-1,1_player_server_animation_issue,[0.07442389 0.92557611]
-1,1_player_server_animation_issue,[3.53661729e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.53657091e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.03364522 0.96635478]
-1,1_player_server_animation_issue,[0.01573623 0.98426377]
-1,1_player_server_animation_issue,[1.63759104e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.62921445e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.6731464e-309 1.0000000e+000]
-1,1_player_server_animation_issue,[3.67474258e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.06844232 0.93155768]
-1,1_player_server_animation_issue,[0.06877549 0.93122451]
-1,1_player_server_animation_issue,[0.15209595 0.82796152]
-1,1_player_server_animation_issue,[3.41482141e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.42862693e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.11425243 0.88574757]
-1,1_player_server_animation_issue,[0.04883504 0.95116496]
-1,1_player_server_animation_issue,[0.01246753 0.98753247]
-1,1_player_server_animation_issue,[0.12822543 0.87177457]
-1,1_player_server_animation_issue,[3.21292064e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.20087868e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.12118653e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.08423104e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.1461992 0.8538008]
-1,1_player_server_animation_issue,[0.14337153 0.85662847]
-1,1_player_server_animation_issue,[0.15925714 0.84074286]
-1,1_player_server_animation_issue,[0.14458897 0.85541103]
-1,1_player_server_animation_issue,[0.14529773 0.85470227]
-1,1_player_server_animation_issue,[0.14486115 0.85513885]
-1,1_player_server_animation_issue,[0.12457532 0.87542468]
-1,1_player_server_animation_issue,[0.06031306 0.93968694]
-1,1_player_server_animation_issue,[0.00763839 0.99236161]
-1,1_player_server_animation_issue,[0.01734134 0.98265866]
-1,1_player_server_animation_issue,[0.01626192 0.98373808]
-1,1_player_server_animation_issue,[0.06277749 0.93722251]
-1,1_player_server_animation_issue,[0.06243488 0.93756512]
-1,1_player_server_animation_issue,[1.06876051e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.00331349 0.99668651]
-1,1_player_server_animation_issue,[0.09839096 0.90160904]
-1,1_player_server_animation_issue,[0.0120901 0.9879099]
-1,1_player_server_animation_issue,[0.03534672 0.96465328]
-1,1_player_server_animation_issue,[0.02852285 0.97147715]
-1,1_player_server_animation_issue,[3.42316211e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.41797581e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.02001601 0.97998399]
-1,1_player_server_animation_issue,[0.05587708 0.94412292]
-1,1_player_server_animation_issue,[0.03708113 0.96291887]
-1,1_player_server_animation_issue,[0.03565784 0.96434216]
-1,1_player_server_animation_issue,[1.15032955e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.04547665 0.95452335]
-1,1_player_server_animation_issue,[0.0622956 0.9377044]
-1,1_player_server_animation_issue,[0.06444299 0.93555701]
-1,1_player_server_animation_issue,[0.15195575 0.84804425]
-1,1_player_server_animation_issue,[0.14820544 0.85179456]
-1,1_player_server_animation_issue,[0.05719832 0.94280168]
-1,1_player_server_animation_issue,[0.03115485 0.96884515]
-1,1_player_server_animation_issue,[0.02092387 0.97907613]
-1,1_player_server_animation_issue,[0.09126009 0.90873991]
-1,1_player_server_animation_issue,[0.06775186 0.93224814]
-1,1_player_server_animation_issue,[0.08099222 0.91900778]
-1,1_player_server_animation_issue,[0.08031558 0.88673221]
-1,1_player_server_animation_issue,[1.26350736e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.04188222 0.95811778]
-1,1_player_server_animation_issue,[2.11120504e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.13560127e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.03197648 0.96802352]
-1,1_player_server_animation_issue,[2.09710102e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.4189312e-309 1.0000000e+000]
-1,1_player_server_animation_issue,[0.01468871 0.98531129]
-0,0_issue_server_fixed_player,[1.00000000e+000 4.36179998e-309]
-0,0_issue_server_fixed_player,[1.00000000e+000 4.34408695e-309]
-1,1_player_server_animation_issue,[0.05829666 0.94170334]
-1,1_player_server_animation_issue,[0.14193405 0.85806595]
-1,1_player_server_animation_issue,[0.14479017 0.85520983]
-1,1_player_server_animation_issue,[3.8513987e-309 1.0000000e+000]
-1,1_player_server_animation_issue,[0.0141463 0.9858537]
-1,1_player_server_animation_issue,[2.08028631e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.15768784 0.84231216]
-1,1_player_server_animation_issue,[0.00287231 0.99712769]
-1,1_player_server_animation_issue,[2.07099701e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.01055215 0.98944785]
-1,1_player_server_animation_issue,[1.11929963e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.03548563 0.96451437]
-1,1_player_server_animation_issue,[0.12310372 0.87689628]
-1,1_player_server_animation_issue,[0.12514773 0.87485227]
-1,1_player_server_animation_issue,[0.01296525 0.98703475]
-1,1_player_server_animation_issue,[1.90679868e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.12400994e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.03819351 0.96180649]
-1,1_player_server_animation_issue,[0.02494078 0.97505922]
-1,1_player_server_animation_issue,[0.10731391 0.89268609]
-1,1_player_server_animation_issue,[0.10730424 0.89269576]
-1,1_player_server_animation_issue,[2.10059149e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.02720093 0.97279907]
-1,1_player_server_animation_issue,[0.12769817 0.72615783]
-1,1_player_server_animation_issue,[0.02847142 0.97152858]
-1,1_player_server_animation_issue,[1.60640842e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.61750825e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.11300581 0.88699419]
-1,1_player_server_animation_issue,[0.08426873 0.91573127]
-1,1_player_server_animation_issue,[0.08180339 0.91819661]
-1,1_player_server_animation_issue,[0.08497284 0.91502716]
-1,1_player_server_animation_issue,[0.08353918 0.91646082]
-1,1_player_server_animation_issue,[0.01369991 0.98630009]
-1,1_player_server_animation_issue,[1.12127706e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.07304385 0.92695615]
-1,1_player_server_animation_issue,[3.15680322e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[3.17402833e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[1.15943139e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[0.02946827 0.97053173]
-1,1_player_server_animation_issue,[0.03365219 0.96634781]
-1,1_player_server_animation_issue,[0.00788697 0.99211303]
-1,1_player_server_animation_issue,[0.01743794 0.98256206]
-1,1_player_server_animation_issue,[0.03084935 0.96915065]
-1,1_player_server_animation_issue,[9.48665625e-310 1.00000000e+000]
-1,1_player_server_animation_issue,[2.40078907e-309 1.00000000e+000]
-1,1_player_server_animation_issue,[2.38617852e-309 1.00000000e+000]
+7,7_player_vehicle_change_server,[1.58550990e-308 2.50023089e-308 2.65812401e-308 4.38759190e-308
+ 3.93187260e-308 1.88045085e-308 3.40651990e-308 1.00000000e+000
+ 3.41307877e-308 4.40395399e-308 3.26368479e-308 4.48739076e-308
+ 4.12352651e-308 5.36467703e-308 6.27980136e-308 2.17393583e-308
+ 2.74552683e-308]
+0,0_livonia_survival_survive_dlc,[0.34669058 0.0635859  0.02269325 0.02082268 0.02168276 0.07471017
+ 0.02640772 0.02289691 0.02053892 0.01748525 0.03183743 0.02303699
+ 0.01891342 0.0174635  0.02068235 0.05161057 0.03480901]
+7,7_player_vehicle_change_server,[0.01380212 0.02152954 0.02211533 0.03883023 0.03197714 0.01631779
+ 0.02912407 0.41453399 0.02880767 0.03511453 0.02826259 0.03800168
+ 0.03243801 0.04275991 0.04970663 0.0188867  0.02322978]
+0,0_livonia_survival_survive_dlc,[0.22490933 0.08213661 0.0286426  0.02492909 0.02669771 0.08663486
+ 0.03251562 0.02793132 0.02523942 0.02141593 0.04087    0.02884801
+ 0.02328158 0.02123636 0.0252719  0.07093757 0.04436949]
+0,0_livonia_survival_survive_dlc,[0.16059285 0.0825852  0.02759715 0.02270984 0.02568351 0.09745981
+ 0.03106972 0.02622896 0.02366347 0.02020059 0.03765845 0.02680443
+ 0.02213125 0.01983061 0.02407331 0.06395054 0.04534636]
+0,0_livonia_survival_survive_dlc,[0.23408306 0.08283147 0.02780135 0.02403418 0.02590813 0.09176601
+ 0.03182288 0.02703456 0.02450677 0.0207457  0.03899516 0.02777018
+ 0.02258722 0.02055188 0.02450792 0.06719358 0.04372735]
+0,0_livonia_survival_survive_dlc,[0.23713578 0.08038245 0.02700244 0.02323056 0.02523753 0.09497317
+ 0.03097069 0.02623176 0.023784   0.02017873 0.03724131 0.02677213
+ 0.02196356 0.01996124 0.02388086 0.06282757 0.04286017]
+0,0_livonia_survival_survive_dlc,[0.5445728  0.03229483 0.01257355 0.01177974 0.01209456 0.04103845
+ 0.01460103 0.01276818 0.01150327 0.00987978 0.01707074 0.01271022
+ 0.01060576 0.00987963 0.01162998 0.02617315 0.01886952]
+0,0_livonia_survival_survive_dlc,[0.11747643 0.08201814 0.02695065 0.02119465 0.02469927 0.09649826
+ 0.02993471 0.02488241 0.0226038  0.01929802 0.03586787 0.02560016
+ 0.02123801 0.01880352 0.02302012 0.06108345 0.04574736]
+-1,-1_player_server_vehicle_issue,[0.03765404 0.13410365 0.02120016 0.01541993 0.01781241 0.14221948
+ 0.02690285 0.01907173 0.01853158 0.01512802 0.02372126 0.01966045
+ 0.01614355 0.0144671  0.01791423 0.03425294 0.04209083]
+0,0_livonia_survival_survive_dlc,[0.24471274 0.07482977 0.0256103  0.02205764 0.02373003 0.08844668
+ 0.02934554 0.02475803 0.02266059 0.01917318 0.03509766 0.02545153
+ 0.02078228 0.01896419 0.02256199 0.05911909 0.04011305]
+0,0_livonia_survival_survive_dlc,[0.19636962 0.0838516  0.02818752 0.0241192  0.02580157 0.08691931
+ 0.0321358  0.02706827 0.02485109 0.02088046 0.03979477 0.02831474
+ 0.02267402 0.02066597 0.02448914 0.07063828 0.04376781]
+1,1_year_access_early_access_pc,[0.02778211 0.26340601 0.02040049 0.01379711 0.01648279 0.07412603
+ 0.02681075 0.017694   0.01764595 0.01399235 0.02205783 0.01872403
+ 0.01501334 0.01324851 0.01658652 0.03081014 0.04456894]
+5,5_zombie_survival_zombie_survival_best,[4.89473629e-308 7.87475115e-308 1.88337492e-308 1.52731863e-308
+ 1.65606287e-308 1.00000000e+000 2.47310258e-308 1.79255930e-308
+ 1.75755552e-308 1.40832038e-308 2.22902467e-308 1.82825450e-308
+ 1.49614822e-308 1.37512286e-308 1.65169416e-308 3.32934936e-308
+ 3.33968709e-308]
+-1,-1_player_server_vehicle_issue,[0.06382317 0.07416893 0.02406548 0.01744924 0.02124547 0.07456391
+ 0.02560544 0.02100941 0.01897995 0.01641092 0.03159593 0.02224396
+ 0.01828386 0.01582066 0.01955186 0.05512443 0.04255768]
+-1,-1_player_server_vehicle_issue,[0.05988002 0.21970508 0.03521908 0.02483246 0.02925099 0.19816213
+ 0.04324663 0.03093963 0.02983197 0.02457544 0.03947516 0.03216767
+ 0.02642095 0.02340823 0.02913846 0.05695374 0.07118632]
+-1,-1_player_server_vehicle_issue,[0.01448942 0.04685788 0.02659658 0.01069925 0.01882325 0.02193051
+ 0.02120451 0.015879   0.0149442  0.01314823 0.02127946 0.01826876
+ 0.01545343 0.01153439 0.01627755 0.02233782 0.22750577]
+0,0_livonia_survival_survive_dlc,[0.35880837 0.05260651 0.01979881 0.01789449 0.01889862 0.06751935
+ 0.02280325 0.01978819 0.01783473 0.01530791 0.02689721 0.01983897
+ 0.01647589 0.01521798 0.01809582 0.04210418 0.03036455]
+5,5_zombie_survival_zombie_survival_best,[0.0406867  0.07275137 0.01652041 0.01305531 0.01450173 0.52585643
+ 0.02123793 0.01550673 0.01508414 0.01219457 0.01947081 0.01583375
+ 0.01300971 0.01184756 0.01437298 0.0291307  0.03001304]
+-1,-1_player_server_vehicle_issue,[0.01551702 0.02503826 0.0264383  0.03227293 0.04465519 0.01857147
+ 0.03247948 0.14361669 0.0302804  0.03801215 0.03213473 0.04260776
+ 0.03816239 0.03996012 0.07243987 0.02123782 0.02824062]
+0,0_livonia_survival_survive_dlc,[0.10882873 0.07327949 0.02498017 0.02004674 0.02336213 0.08514425
+ 0.02771504 0.02354438 0.02102194 0.01809007 0.03398122 0.02397462
+ 0.01990033 0.01766693 0.02174563 0.05698967 0.0421763 ]
+0,0_livonia_survival_survive_dlc,[0.18936179 0.08422148 0.02908592 0.02465177 0.02757318 0.09761241
+ 0.03286126 0.02832683 0.02519105 0.02162182 0.04061344 0.02868617
+ 0.02362655 0.02131126 0.02589842 0.06781883 0.04713196]
+0,0_livonia_survival_survive_dlc,[0.18301975 0.05082668 0.01900418 0.01761348 0.01853026 0.05800129
+ 0.02189874 0.01951656 0.01711816 0.01474944 0.02728081 0.01943428
+ 0.01595538 0.01473681 0.01763178 0.04328255 0.02916179]
+-1,-1_player_server_vehicle_issue,[0.05562005 0.06608972 0.02088909 0.01535401 0.0184682  0.07187452
+ 0.02218196 0.01863497 0.01635066 0.01442608 0.02727897 0.0190952
+ 0.01601953 0.01390668 0.01736942 0.04683132 0.03843172]
+-1,-1_player_server_vehicle_issue,[0.01200446 0.01923546 0.02086831 0.02643447 0.03356723 0.01435742
+ 0.02458199 0.13570107 0.02355858 0.03236362 0.02430315 0.0321355
+ 0.03152152 0.03460283 0.06101344 0.01631233 0.02178459]
+-1,-1_player_server_vehicle_issue,[0.01144409 0.01838324 0.02117266 0.02316693 0.0383692  0.0137179
+ 0.02371779 0.08384534 0.02306511 0.03504556 0.02273144 0.03087562
+ 0.03459536 0.03444348 0.087324   0.01537759 0.02156718]
+0,0_livonia_survival_survive_dlc,[0.17453198 0.05780291 0.02088576 0.01896143 0.02032438 0.06774149
+ 0.02410726 0.02127526 0.01867605 0.01606969 0.02969821 0.02115487
+ 0.01743805 0.01600597 0.01927373 0.04741295 0.03272153]
+7,7_player_vehicle_change_server,[0.01545761 0.02396842 0.02434755 0.0441137  0.03562159 0.01823453
+ 0.03213597 0.39785296 0.03134311 0.03794377 0.03156297 0.04121738
+ 0.03563825 0.04632143 0.05388606 0.02112699 0.02573085]
+-1,-1_player_server_vehicle_issue,[0.01143013 0.01811135 0.02226931 0.02428779 0.03653965 0.01363838
+ 0.02295035 0.0765786  0.02400436 0.04639893 0.02208747 0.03103985
+ 0.03893937 0.04329731 0.11619738 0.01521064 0.02142534]
+-1,-1_player_server_vehicle_issue,[0.03814626 0.1101599  0.02678575 0.01907143 0.022573   0.05032368
+ 0.03006349 0.02440317 0.0213291  0.01758692 0.04580537 0.02763719
+ 0.01975837 0.01709163 0.02126142 0.10806141 0.04931475]
+0,0_livonia_survival_survive_dlc,[0.13483003 0.0694502  0.02444454 0.01996446 0.0227748  0.08478864
+ 0.02719348 0.02308418 0.02081082 0.01789405 0.03286535 0.02352935
+ 0.01959486 0.01752432 0.0213255  0.05462563 0.04004633]
+-1,-1_player_server_vehicle_issue,[0.04105114 0.09546065 0.02748646 0.02023971 0.02724862 0.05983478
+ 0.03305771 0.0265664  0.02333126 0.0189466  0.04090586 0.0277042
+ 0.0213311  0.01829213 0.0239972  0.05977641 0.05623878]
+0,0_livonia_survival_survive_dlc,[0.3742649  0.05159211 0.01940116 0.01857209 0.01895516 0.06283269
+ 0.02282853 0.02018593 0.01788215 0.01532713 0.0272127  0.01993352
+ 0.01648079 0.0153893  0.01821124 0.04190623 0.02940551]
+5,5_zombie_survival_zombie_survival_best,[0.05801818 0.06158907 0.01776654 0.01481031 0.01584328 0.35708187
+ 0.02260599 0.01706843 0.01653238 0.01349027 0.0212851  0.01729619
+ 0.01428914 0.01321557 0.01578282 0.03191451 0.03022344]
+0,0_livonia_survival_survive_dlc,[0.48622064 0.04383569 0.01625365 0.01513539 0.01536251 0.0606984
+ 0.01934229 0.01635951 0.01511202 0.01276585 0.02145199 0.0163895
+ 0.01363994 0.01276087 0.01490049 0.03290138 0.02453951]
+5,5_zombie_survival_zombie_survival_best,[0.05972131 0.06064674 0.01764774 0.0149111  0.01582437 0.35085123
+ 0.02259321 0.017116   0.01653327 0.01348199 0.02127855 0.01728309
+ 0.01427083 0.01323978 0.01578291 0.03185049 0.02985891]
+0,0_livonia_survival_survive_dlc,[0.2214787  0.05305905 0.0196556  0.01832771 0.01913388 0.06110812
+ 0.02277979 0.02020891 0.01779205 0.01528601 0.02809653 0.02011682
+ 0.01652794 0.01529202 0.01823313 0.04457945 0.03009642]
+5,5_zombie_survival_zombie_survival_best,[4.94918559e-308 7.23125038e-308 1.83682061e-308 1.53202888e-308
+ 1.61955112e-308 1.00000000e+000 2.46781343e-308 1.77610924e-308
+ 1.75751192e-308 1.39589795e-308 2.17373436e-308 1.80664672e-308
+ 1.47404996e-308 1.36970711e-308 1.62883067e-308 3.21222483e-308
+ 3.17690202e-308]
+7,7_player_vehicle_change_server,[0.01050294 0.01640904 0.0175968  0.03095635 0.02564955 0.01244077
+ 0.02274296 0.5615213  0.02334011 0.0305431  0.02116835 0.02926146
+ 0.02823858 0.03926569 0.04074158 0.01429223 0.01800517]
+1,1_year_access_early_access_pc,[0.07634239 0.17534732 0.03918797 0.02767283 0.03363442 0.13946233
+ 0.04405086 0.03451269 0.03100759 0.02627132 0.05120203 0.03611958
+ 0.02933037 0.02527051 0.03169329 0.09035014 0.0797692 ]
+0,0_livonia_survival_survive_dlc,[0.13874856 0.070452   0.02322159 0.02058667 0.0215528  0.06747727
+ 0.02682617 0.02287058 0.02072545 0.01735784 0.03414521 0.02381307
+ 0.0189043  0.01730203 0.02042268 0.06199111 0.03573272]
+0,0_livonia_survival_survive_dlc,[0.2565667  0.07941927 0.02644365 0.02327831 0.02485686 0.09136279
+ 0.03063454 0.02604155 0.02354579 0.01991873 0.0369587  0.02650519
+ 0.02166963 0.01978743 0.02356174 0.06247407 0.04157979]
+0,0_livonia_survival_survive_dlc,[0.80829944 0.01701489 0.0065678  0.00631339 0.00634319 0.02103059
+ 0.00772102 0.00676857 0.00608975 0.00520509 0.0090348  0.00672708
+ 0.00557732 0.00522965 0.00612132 0.01383689 0.00977795]
+0,0_livonia_survival_survive_dlc,[0.0969611  0.07534767 0.02218559 0.0179656  0.0203998  0.09942296
+ 0.02579367 0.02097155 0.01922254 0.016137   0.02946185 0.02145022
+ 0.01765226 0.01580351 0.01924002 0.04955826 0.03795687]
+0,0_livonia_survival_survive_dlc,[0.15348719 0.08475284 0.027859   0.02264397 0.025739   0.10488415
+ 0.03146898 0.02626044 0.02387213 0.02031495 0.03738513 0.02689679
+ 0.0222212  0.01989319 0.0241841  0.06301526 0.04628157]
+1,1_year_access_early_access_pc,[0.05429362 0.16425953 0.04268662 0.0285993  0.03555013 0.07185213
+ 0.0455439  0.03732769 0.0323748  0.02699811 0.07361752 0.04265105
+ 0.03077054 0.02603085 0.03278379 0.17348276 0.08117765]
+5,5_zombie_survival_zombie_survival_best,[5.24327831e-308 7.06247977e-308 1.82880329e-308 1.52272089e-308
+ 1.62029629e-308 1.00000000e+000 2.41268376e-308 1.76485153e-308
+ 1.72669873e-308 1.38345854e-308 2.18923302e-308 1.79282726e-308
+ 1.46736021e-308 1.35752468e-308 1.61876434e-308 3.28146694e-308
+ 3.16875995e-308]
+7,7_player_vehicle_change_server,[0.01303453 0.02172391 0.02429308 0.03281651 0.0354617  0.01563669
+ 0.03022217 0.31240585 0.02988387 0.03807097 0.02892446 0.04277088
+ 0.03986941 0.04357389 0.05241559 0.01854309 0.02452487]
+0,0_livonia_survival_survive_dlc,[0.56847821 0.03591178 0.01350043 0.01272067 0.01298419 0.04429844
+ 0.01580338 0.0137855  0.01239878 0.0105885  0.01862634 0.0137558
+ 0.0113802  0.01060754 0.01248069 0.02902039 0.02034078]
+-1,-1_player_server_vehicle_issue,[0.0114516  0.01766775 0.01850575 0.03861373 0.02455263 0.01359662
+ 0.02631083 0.16790704 0.02849093 0.03154621 0.02212633 0.03114022
+ 0.02954804 0.04690439 0.03452477 0.01542283 0.01901676]
+0,0_livonia_survival_survive_dlc,[0.63516249 0.02491574 0.00976963 0.00933594 0.00944322 0.03076551
+ 0.0114009  0.01004122 0.0090138  0.00773472 0.01343159 0.00998286
+ 0.00828603 0.00775995 0.0091053  0.02051039 0.01453581]
+-1,-1_player_server_vehicle_issue,[0.04827361 0.10916384 0.02415689 0.01733267 0.02085652 0.10320014
+ 0.02780151 0.02156133 0.01950066 0.01651379 0.03044211 0.02227803
+ 0.01826153 0.01587572 0.01992754 0.05027273 0.04926241]
+0,0_livonia_survival_survive_dlc,[0.20612717 0.08758124 0.02927316 0.02513878 0.02697923 0.08996821
+ 0.03336442 0.02826503 0.02575703 0.02169512 0.04170286 0.02943285
+ 0.02361226 0.02148778 0.02553496 0.07428152 0.04566579]
+-1,-1_player_server_vehicle_issue,[0.04167692 0.14618349 0.02184234 0.01613575 0.01871898 0.13628821
+ 0.02732986 0.01997685 0.01872382 0.0153842  0.02629014 0.02055904
+ 0.01670684 0.01482477 0.01842286 0.04043816 0.04427205]
+0,0_livonia_survival_survive_dlc,[0.17705012 0.0715722  0.0229754  0.02120433 0.02188416 0.07354023
+ 0.02724828 0.02339654 0.02091002 0.01753573 0.03367457 0.02373636
+ 0.01908135 0.01758104 0.0207972  0.05797585 0.0356744 ]
+5,5_zombie_survival_zombie_survival_best,[0.04349978 0.08983074 0.0191932  0.01522763 0.01667044 0.47869876
+ 0.02562899 0.01808657 0.01797203 0.01425631 0.02226214 0.01855207
+ 0.01510846 0.01386203 0.01671052 0.03269215 0.03474483]
+1,1_year_access_early_access_pc,[0.0390241  0.36760119 0.03627036 0.02175692 0.0276813  0.06233911
+ 0.04078029 0.02883203 0.0270055  0.02160067 0.04883757 0.03340853
+ 0.02477033 0.02054517 0.02573969 0.08788839 0.08591886]
+-1,-1_player_server_vehicle_issue,[0.0316168  0.10826276 0.02902027 0.01831728 0.0232693  0.0431665
+ 0.03065661 0.02455213 0.02157451 0.01784399 0.04839775 0.02896974
+ 0.02026836 0.01703716 0.02167004 0.09026824 0.05713142]
+5,5_zombie_survival_zombie_survival_best,[0.04080192 0.12735793 0.02138892 0.01601765 0.0182715  0.1951271
+ 0.02812728 0.01954659 0.01942952 0.01543766 0.0243202  0.02024882
+ 0.01645578 0.01485878 0.01820522 0.03542031 0.04112379]
+-1,-1_player_server_vehicle_issue,[0.03113699 0.1639146  0.02096211 0.01443389 0.01714169 0.09169849
+ 0.02686442 0.01818926 0.0181069  0.01451155 0.02292278 0.01924734
+ 0.01554063 0.01377084 0.01712485 0.03173455 0.04315078]
+1,1_year_access_early_access_pc,[0.07042455 0.19412575 0.04168626 0.0280547  0.03508313 0.13188154
+ 0.04612933 0.03541569 0.03211705 0.02718479 0.05225858 0.03724152
+ 0.03064632 0.02598866 0.03272975 0.08951985 0.08951254]
+7,7_player_vehicle_change_server,[1.61068437e-308 2.61316425e-308 2.77468924e-308 4.30945169e-308
+ 4.04232645e-308 1.92361952e-308 3.62150692e-308 1.00000000e+000
+ 3.53550432e-308 4.33115958e-308 3.44629923e-308 4.81197030e-308
+ 4.29744801e-308 5.15569630e-308 6.05340157e-308 2.25446945e-308
+ 2.87939658e-308]
+0,0_livonia_survival_survive_dlc,[0.14816047 0.05996285 0.01819882 0.01702721 0.01713246 0.06389335
+ 0.02219504 0.01856438 0.01694217 0.01398405 0.02610941 0.01891249
+ 0.01513041 0.01405934 0.01644611 0.04452255 0.02812206]
+0,0_livonia_survival_survive_dlc,[0.19497918 0.07991615 0.02642726 0.02324606 0.02432008 0.08177036
+ 0.03061543 0.02578762 0.02367718 0.01978555 0.03768982 0.02689323
+ 0.02144748 0.01967945 0.0231707  0.0666864  0.040639  ]
+7,7_player_vehicle_change_server,[1.58510530e-308 2.53430864e-308 2.70141878e-308 4.43432482e-308
+ 3.98191313e-308 1.88782550e-308 3.51622048e-308 1.00000000e+000
+ 3.47086071e-308 4.36787327e-308 3.30258690e-308 4.52214471e-308
+ 4.31721727e-308 5.36669431e-308 5.97930163e-308 2.19366732e-308
+ 2.79037733e-308]
+-1,-1_player_server_vehicle_issue,[0.02042951 0.03111475 0.0259238  0.07771698 0.03069547 0.02437318
+ 0.04743146 0.09362727 0.04209451 0.03338416 0.0357347  0.04375555
+ 0.03295471 0.04334358 0.03760861 0.02720491 0.03069486]
+-1,-1_player_server_vehicle_issue,[0.01470878 0.02197944 0.02048358 0.06212205 0.024507   0.01752377
+ 0.03445465 0.1042999  0.03480542 0.0302195  0.02601506 0.03451073
+ 0.02793539 0.0422429  0.03296679 0.01941226 0.02277253]
+5,5_zombie_survival_zombie_survival_best,[0.05149447 0.11920595 0.02352338 0.01917111 0.02051534 0.35897763
+ 0.03305053 0.02273284 0.0226951  0.0176237  0.02788795 0.02332812
+ 0.01866723 0.01725422 0.02067429 0.04099076 0.04328125]
+0,0_livonia_survival_survive_dlc,[1.00000000e+000 3.62303600e-308 1.39661529e-308 1.33658778e-308
+ 1.34575053e-308 4.54832589e-308 1.64250593e-308 1.43461821e-308
+ 1.29465677e-308 1.10593150e-308 1.90886583e-308 1.42662954e-308
+ 1.18443493e-308 1.11022473e-308 1.29948527e-308 2.91975504e-308
+ 2.08231377e-308]
+0,0_livonia_survival_survive_dlc,[1.00000000e+000 3.39989255e-308 1.35611146e-308 1.31458815e-308
+ 1.30943377e-308 4.31438330e-308 1.59546248e-308 1.39801613e-308
+ 1.26482800e-308 1.08311173e-308 1.83346828e-308 1.38516257e-308
+ 1.15690866e-308 1.08907060e-308 1.26846760e-308 2.75262194e-308
+ 1.99870674e-308]
+-1,-1_player_server_vehicle_issue,[0.02336654 0.05149312 0.02700201 0.02959709 0.02785744 0.03141949
+ 0.06595507 0.04148562 0.03651585 0.02295242 0.04251862 0.04204328
+ 0.02528387 0.02435778 0.02799624 0.03715774 0.04398081]
+-1,-1_player_server_vehicle_issue,[0.01037422 0.0200469  0.02035562 0.0165054  0.02108385 0.01369057
+ 0.03961304 0.03413354 0.03482263 0.02439176 0.01888072 0.03238413
+ 0.02185086 0.02225298 0.02949395 0.01425188 0.0237633 ]
+-1,-1_player_server_vehicle_issue,[0.01721667 0.02565118 0.02171603 0.07695464 0.02595154 0.02028253
+ 0.03722478 0.08461042 0.03371726 0.02887602 0.02986955 0.03559215
+ 0.02799574 0.03797327 0.03260905 0.02277788 0.02520112]
+0,0_livonia_survival_survive_dlc,[1.00000000e+000 3.80857449e-308 1.40025638e-308 1.35714781e-308
+ 1.33808289e-308 4.97636566e-308 1.69387706e-308 1.44730996e-308
+ 1.32686634e-308 1.11567665e-308 1.89662250e-308 1.44371449e-308
+ 1.18811019e-308 1.12296659e-308 1.30457822e-308 2.89717488e-308
+ 2.09307958e-308]
+-1,-1_player_server_vehicle_issue,[0.00942198 0.01904255 0.02484517 0.01506413 0.02641491 0.01153233
+ 0.024328   0.03409941 0.02176143 0.02046981 0.03008809 0.07863834
+ 0.02641962 0.0187546  0.02516675 0.0157612  0.02317345]
+0,0_livonia_survival_survive_dlc,[1.00000000e+000 3.74624866e-308 1.39058491e-308 1.35625680e-308
+ 1.32961538e-308 4.73933136e-308 1.67760435e-308 1.43980014e-308
+ 1.31781051e-308 1.10880694e-308 1.89635497e-308 1.43807331e-308
+ 1.18148779e-308 1.11747463e-308 1.29526710e-308 2.90478779e-308
+ 2.06513492e-308]
+-1,-1_player_server_vehicle_issue,[0.01074786 0.01828827 0.02981856 0.01956553 0.04238663 0.01291513
+ 0.02395975 0.04002603 0.02570735 0.04902926 0.02248705 0.03502088
+ 0.20758097 0.03646217 0.04530098 0.01516101 0.02325644]
+-1,-1_player_server_vehicle_issue,[0.00867772 0.01581184 0.02429154 0.01456032 0.04551913 0.01052701
+ 0.01975133 0.03735793 0.01883447 0.02753181 0.02134536 0.03300464
+ 0.04595335 0.02201597 0.04390343 0.01291203 0.02066582]
+0,0_livonia_survival_survive_dlc,[0.2982693  0.06858787 0.024221   0.02133228 0.02261976 0.08141813
+ 0.02783069 0.02369274 0.02161407 0.01833536 0.03328429 0.02422075
+ 0.01983624 0.01819436 0.02155498 0.05511924 0.03739592]
+1,1_year_access_early_access_pc,[0.04483793 0.21411442 0.04201875 0.02613497 0.0336836  0.06659699
+ 0.04598298 0.03541186 0.03146143 0.02575767 0.06442453 0.04107212
+ 0.02926571 0.02451007 0.03143306 0.10848532 0.09132439]
+0,0_livonia_survival_survive_dlc,[1.00000000e+000 3.70853310e-308 1.40451794e-308 1.31972373e-308
+ 1.33835824e-308 4.81674810e-308 1.65401432e-308 1.42411250e-308
+ 1.29953619e-308 1.10500198e-308 1.89225980e-308 1.42521735e-308
+ 1.18214082e-308 1.10599472e-308 1.29428405e-308 2.91307196e-308
+ 2.10644584e-308]
+0,0_livonia_survival_survive_dlc,[0.32644828 0.05297945 0.01849126 0.01666572 0.01726928 0.06712882
+ 0.02173241 0.01830659 0.01687342 0.01419876 0.0250544  0.01864514
+ 0.01525615 0.01413622 0.01662261 0.04048806 0.02833861]
+-1,-1_player_server_vehicle_issue,[0.08175402 0.05753738 0.01793375 0.01569943 0.01638475 0.1590622
+ 0.02253567 0.01770654 0.01671565 0.01385903 0.02245977 0.01794367
+ 0.01468579 0.01370195 0.0162266  0.03327258 0.02902445]
+7,7_player_vehicle_change_server,[1.54401328e-308 2.42505813e-308 2.63293877e-308 4.43318376e-308
+ 3.94151318e-308 1.83001115e-308 3.33167347e-308 1.00000000e+000
+ 3.38411238e-308 4.55428467e-308 3.13440519e-308 4.28570079e-308
+ 4.35782646e-308 5.75965544e-308 6.18916035e-308 2.10742111e-308
+ 2.68160119e-308]
+7,7_player_vehicle_change_server,[0.01536886 0.02462583 0.02866039 0.03855737 0.04714515 0.01823556
+ 0.03243806 0.26271496 0.03279318 0.0505688  0.03220584 0.0443515
+ 0.05246597 0.05739004 0.07729294 0.02120073 0.02820764]
+-1,-1_player_server_vehicle_issue,[0.09927878 0.06492825 0.01985005 0.01660819 0.01795733 0.11545041
+ 0.023436   0.01902518 0.01747374 0.01483388 0.02564633 0.01941589
+ 0.01595426 0.01457638 0.01748474 0.04036843 0.03260165]
+0,0_livonia_survival_survive_dlc,[0.69472331 0.03016616 0.01100313 0.01053618 0.01044037 0.03914088
+ 0.01325393 0.01125951 0.01037236 0.00870807 0.01486014 0.01129466
+ 0.00928786 0.00875117 0.01015906 0.02294938 0.01645458]
+-1,-1_player_server_vehicle_issue,[0.06849843 0.0898351  0.01998076 0.01827261 0.01755592 0.1511115
+ 0.02743181 0.02015169 0.01953025 0.01541938 0.02559364 0.02053321
+ 0.01642799 0.01549666 0.0177571  0.04071526 0.0333622 ]
+0,0_livonia_survival_survive_dlc,[0.62119485 0.04180439 0.0151927  0.01473458 0.01441521 0.05480868
+ 0.0185043  0.01562636 0.01446362 0.01208796 0.02040184 0.01563647
+ 0.01288015 0.01217822 0.01406425 0.03127866 0.02263328]
+6,6_branch_experimental_server_issue,[0.02170082 0.0426502  0.03156054 0.03648589 0.03499777 0.02844823
+ 0.08627285 0.06547917 0.0480658  0.03084911 0.04298677 0.05519394
+ 0.03334152 0.03325761 0.03829073 0.03235727 0.04439574]
+-1,-1_player_server_vehicle_issue,[0.01545888 0.02587897 0.02094331 0.03631591 0.02578634 0.0191724
+ 0.04506516 0.06228949 0.03344618 0.02386742 0.02984491 0.03742317
+ 0.02499744 0.02804921 0.02911859 0.02189916 0.02640673]
+5,5_zombie_survival_zombie_survival_best,[5.05346917e-308 7.60466599e-308 1.85130882e-308 1.57415005e-308
+ 1.63864090e-308 1.00000000e+000 2.54576831e-308 1.81681898e-308
+ 1.79389405e-308 1.40974425e-308 2.23995578e-308 1.84830028e-308
+ 1.49333397e-308 1.39107397e-308 1.64617602e-308 3.35665787e-308
+ 3.23201409e-308]
+6,6_branch_experimental_server_issue,[0.02539304 0.05949548 0.03797057 0.03302704 0.03717274 0.03505653
+ 0.11284861 0.05551414 0.05242402 0.03189759 0.04902288 0.0613551
+ 0.03440338 0.03215139 0.03948574 0.03946351 0.06273881]
+-1,-1_player_server_vehicle_issue,[0.0307996  0.22713295 0.02090603 0.01417709 0.01678737 0.08115478
+ 0.02674787 0.01800247 0.01773554 0.01410143 0.02378504 0.01934745
+ 0.01527316 0.01342019 0.01667165 0.03570463 0.04529912]
+0,0_livonia_survival_survive_dlc,[0.07159883 0.0693033  0.02298377 0.01706526 0.02058267 0.07674275
+ 0.024865   0.02038333 0.01866005 0.0159528  0.02985018 0.0212404
+ 0.01768071 0.01541064 0.01901157 0.0514003  0.04031315]
+-1,-1_player_server_vehicle_issue,[0.01994981 0.04128154 0.02417132 0.02787736 0.02560203 0.02649679
+ 0.06108035 0.04052269 0.0340788  0.02143078 0.03709743 0.03907475
+ 0.02345327 0.0229678  0.0262291  0.03092335 0.03766847]
+0,0_livonia_survival_survive_dlc,[0.60584644 0.02850071 0.01056966 0.01042861 0.01010878 0.03667469
+ 0.01288856 0.0110116  0.01012314 0.00848331 0.01433547 0.01097646
+ 0.00901226 0.00856536 0.00989229 0.02173966 0.01565641]
+-1,-1_player_server_vehicle_issue,[0.02058198 0.04942836 0.02278285 0.02357227 0.022693   0.02864192
+ 0.05750893 0.03201002 0.03036498 0.01872251 0.03456675 0.03346083
+ 0.02064388 0.0196684  0.02262245 0.03258747 0.03943908]
+6,6_branch_experimental_server_issue,[0.0259978  0.05522818 0.03804219 0.03840589 0.03900198 0.03528752
+ 0.13347258 0.06462309 0.05888153 0.03476239 0.04885163 0.06349541
+ 0.03737768 0.03640246 0.04245108 0.03892412 0.05800927]
+0,0_livonia_survival_survive_dlc,[0.28174008 0.03803757 0.01346566 0.01341407 0.01287636 0.0494626
+ 0.01678099 0.01418521 0.01308488 0.01084884 0.01837733 0.014141
+ 0.01148938 0.01097515 0.01267134 0.02789684 0.02011677]
+6,6_branch_experimental_server_issue,[1.88826032e-308 4.08066469e-308 3.05735093e-308 2.58920154e-308
+ 2.60519196e-308 2.66846726e-308 1.00000000e+000 3.75864470e-308
+ 6.73760355e-308 2.70144074e-308 3.02142905e-308 4.47110244e-308
+ 2.78601722e-308 2.73834627e-308 2.88221906e-308 2.66577718e-308
+ 4.58346311e-308]
+-1,-1_player_server_vehicle_issue,[0.01477962 0.0310393  0.02503066 0.02311069 0.02543115 0.01934215
+ 0.05904792 0.0445522  0.03868688 0.0233668  0.03240277 0.05295836
+ 0.02463002 0.02388065 0.02858294 0.02290168 0.03384808]
+7,7_player_vehicle_change_server,[0.01709795 0.02658231 0.02619105 0.05031578 0.03628541 0.02021891
+ 0.03650973 0.24588731 0.03538439 0.03942713 0.03491094 0.04600209
+ 0.03671134 0.04857193 0.05319404 0.02348691 0.02805068]
+1,1_year_access_early_access_pc,[0.04578777 0.21164542 0.04462773 0.02753505 0.03544282 0.06664553
+ 0.0487131  0.03735422 0.03325769 0.02705151 0.07053515 0.04392217
+ 0.03093631 0.02578679 0.03288852 0.12130511 0.09656512]
+-1,-1_player_server_vehicle_issue,[0.01209698 0.01809594 0.01782946 0.04190577 0.0244846  0.01416502
+ 0.02467244 0.23266723 0.02462687 0.02815861 0.02336227 0.02993441
+ 0.02555501 0.03720396 0.03604337 0.01620618 0.01893995]
+-1,-1_player_server_vehicle_issue,[0.01139961 0.01690621 0.01662675 0.04456873 0.02229805 0.01334681
+ 0.02359926 0.2541833  0.02395042 0.02674547 0.02148026 0.02757396
+ 0.02409947 0.03694227 0.03234648 0.0151599  0.01766541]
+6,6_branch_experimental_server_issue,[0.02059422 0.04577122 0.03336673 0.02943233 0.03341617 0.02727141
+ 0.079079   0.05357714 0.04589362 0.02881063 0.04579839 0.06392245
+ 0.03117788 0.02918288 0.03578811 0.03296829 0.04887148]
+7,7_player_vehicle_change_server,[1.55908471e-308 2.36143037e-308 2.41882888e-308 5.43227823e-308
+ 3.37989651e-308 1.83333854e-308 3.30882059e-308 1.00000000e+000
+ 3.39693621e-308 4.06513159e-308 3.02389283e-308 4.00638009e-308
+ 3.70451470e-308 5.57996994e-308 5.03079514e-308 2.09292915e-308
+ 2.51703419e-308]
+0,0_livonia_survival_survive_dlc,[0.15699135 0.08001534 0.02652276 0.02231513 0.0241194  0.08044864
+ 0.0300616  0.02521014 0.02317856 0.01945462 0.03751915 0.02651695
+ 0.02118252 0.01921432 0.02281962 0.06804612 0.0414821 ]
+1,1_year_access_early_access_pc,[0.03213921 0.3961294  0.03639505 0.01903122 0.02592611 0.0518459
+ 0.03697861 0.02585139 0.02463009 0.02006949 0.04208271 0.03036019
+ 0.02323779 0.01868963 0.02381595 0.06454002 0.10107117]
+5,5_zombie_survival_zombie_survival_best,[0.06009334 0.08812363 0.02044251 0.01880128 0.01853572 0.25137852
+ 0.02945613 0.02122425 0.02073912 0.01605771 0.02596224 0.02136357
+ 0.01693578 0.01608876 0.01878249 0.0387467  0.03513772]
+-1,-1_player_server_vehicle_issue,[0.01592366 0.036136   0.02183913 0.01506251 0.01579634 0.02397251
+ 0.06221742 0.01874478 0.03121713 0.01551242 0.02035058 0.02451044
+ 0.01638585 0.01513333 0.01604111 0.02226187 0.03689059]
+6,6_branch_experimental_server_issue,[0.01958728 0.0390506  0.02916964 0.0324375  0.0322191  0.02599599
+ 0.08272811 0.05844433 0.0447685  0.02850744 0.03743266 0.04813501
+ 0.03104428 0.03052266 0.03530283 0.02875766 0.04138682]
+-1,-1_player_server_vehicle_issue,[0.01346528 0.02145831 0.02041343 0.04084758 0.02586164 0.01634607
+ 0.03500298 0.11760784 0.03380797 0.029649   0.0256819  0.03616437
+ 0.02840933 0.03873479 0.03476052 0.01827988 0.02273421]
+-1,-1_player_server_vehicle_issue,[0.09404869 0.06446925 0.01770451 0.01691642 0.01680749 0.10357175
+ 0.02381653 0.01853142 0.01754452 0.01398966 0.02385412 0.01900362
+ 0.01485715 0.01409976 0.01640388 0.03628883 0.02805539]
+-1,-1_player_server_vehicle_issue,[0.01103099 0.01616343 0.01834412 0.03523591 0.02293206 0.01295388
+ 0.02370574 0.06004839 0.03099194 0.04508469 0.01919678 0.02850152
+ 0.03070834 0.14031644 0.03500843 0.01412974 0.01771   ]
+-1,-1_player_server_vehicle_issue,[0.01522912 0.04436617 0.02388026 0.01530754 0.01963614 0.0201327
+ 0.0334551  0.02323479 0.02257064 0.01546246 0.03985929 0.03610272
+ 0.01737649 0.01488308 0.01849505 0.03145448 0.04147727]
+0,0_livonia_survival_survive_dlc,[0.22462279 0.08236343 0.02846741 0.02390424 0.02644411 0.09963035
+ 0.0321739  0.0271963  0.02472782 0.02108521 0.03857744 0.02781512
+ 0.02298995 0.02076676 0.02493886 0.06469886 0.04546485]
+6,6_branch_experimental_server_issue,[0.01778221 0.03557665 0.02804286 0.02692385 0.02549388 0.02453992
+ 0.23622951 0.04025313 0.07365479 0.02788853 0.02878019 0.04548855
+ 0.02735855 0.02889001 0.02979199 0.02451079 0.03946633]
+0,0_livonia_survival_survive_dlc,[0.63710704 0.03043444 0.01236029 0.0120497  0.0118955  0.03847157
+ 0.01454445 0.01273122 0.01158099 0.0099092  0.0166117  0.01264143
+ 0.0105578  0.00997149 0.01155762 0.02477683 0.01804612]
+0,0_livonia_survival_survive_dlc,[0.12300468 0.07172138 0.0231043  0.02038465 0.02131935 0.06600752
+ 0.02676476 0.022688   0.02062666 0.01718967 0.03425549 0.02377729
+ 0.01873409 0.01713416 0.02020143 0.06367657 0.03559614]
+-1,-1_player_server_vehicle_issue,[0.01309757 0.01925288 0.02174117 0.04239045 0.02823052 0.01539407
+ 0.02930247 0.07476394 0.03798217 0.05216272 0.0229302  0.03461978
+ 0.03640246 0.14846866 0.04157545 0.01682505 0.02107321]
+-1,-1_player_server_vehicle_issue,[0.01256877 0.0221346  0.02008701 0.02817719 0.02416109 0.0159087
+ 0.04471777 0.06559976 0.03612331 0.02523666 0.02429039 0.0365747
+ 0.02544413 0.02918895 0.03015015 0.01758234 0.02394069]
+-1,-1_player_server_vehicle_issue,[0.026757   0.09402904 0.0289036  0.02083153 0.02508384 0.04772838
+ 0.05935482 0.02864509 0.03241325 0.02122567 0.0311337  0.03136145
+ 0.0224015  0.02034746 0.02538182 0.03488859 0.06837804]
+16,16_bohemia_year_bohemia_interactive_interactive,[2.66988748e-308 1.01051127e-307 5.09746512e-308 2.00802836e-308
+ 3.36984718e-308 4.02005233e-308 4.00608935e-308 3.00717695e-308
+ 2.75638827e-308 2.44431375e-308 4.13045059e-308 3.42910429e-308
+ 2.90152224e-308 2.15611900e-308 3.00800201e-308 4.37133563e-308
+ 1.00000000e+000]
+-1,-1_player_server_vehicle_issue,[0.02924534 0.10418625 0.03022797 0.01856185 0.02414856 0.04025454
+ 0.03184715 0.02554222 0.02222078 0.01833107 0.05124191 0.03052803
+ 0.02092803 0.01743715 0.02243713 0.07964409 0.0615002 ]
+7,7_player_vehicle_change_server,[0.01001927 0.01517572 0.01577521 0.0344618  0.02239164 0.01178242
+ 0.02118011 0.53489729 0.02184008 0.02715309 0.0193518  0.02559784
+ 0.02487309 0.03765878 0.03356615 0.01341586 0.01629757]
+3,3_action_animation_item_fixed,[0.01963604 0.0291419  0.02364911 0.09353017 0.02792264 0.02304091
+ 0.04218281 0.07783766 0.03756092 0.03093568 0.0326423  0.03801303
+ 0.02988406 0.04029925 0.03418738 0.02569946 0.02781935]
+1,1_year_access_early_access_pc,[0.03745281 0.35133966 0.03454193 0.02200439 0.0259874  0.06010339
+ 0.04407258 0.02851668 0.02801378 0.02121593 0.04672633 0.03381983
+ 0.0241068  0.02044952 0.02477148 0.08331575 0.08113801]
+-1,-1_player_server_vehicle_issue,[0.01902151 0.05562721 0.01975094 0.01658216 0.0187482  0.02910408
+ 0.0396567  0.02299336 0.02194375 0.01475906 0.0283123  0.02490719
+ 0.01630837 0.01478725 0.01815315 0.03044318 0.04145736]
+1,1_year_access_early_access_pc,[0.07182164 0.19331314 0.04196736 0.02802593 0.03459469 0.11592729
+ 0.04551102 0.03512777 0.03200481 0.02692717 0.05524293 0.03792832
+ 0.03044787 0.02580806 0.03214032 0.10714002 0.08607167]
+16,16_bohemia_year_bohemia_interactive_interactive,[2.66847758e-308 1.01909599e-307 5.14608713e-308 1.99497596e-308
+ 3.35674176e-308 3.97966384e-308 3.93898690e-308 2.97622451e-308
+ 2.72118928e-308 2.41827394e-308 4.18619557e-308 3.41396438e-308
+ 2.89106994e-308 2.13633275e-308 2.96603282e-308 4.45487166e-308
+ 1.00000000e+000]
+0,0_livonia_survival_survive_dlc,[0.2871962  0.04506155 0.01570676 0.01507733 0.01498009 0.06464629
+ 0.01940332 0.016303   0.01503424 0.0125275  0.02108726 0.01624166
+ 0.01327752 0.01258263 0.01470757 0.03199781 0.02399413]
+1,1_year_access_early_access_pc,[0.05369769 0.25611877 0.03973221 0.02469653 0.03151997 0.10083103
+ 0.04373196 0.03212476 0.03000564 0.02488951 0.04834803 0.03533843
+ 0.02779141 0.02348719 0.02985578 0.07995798 0.09317011]
+-1,-1_player_server_vehicle_issue,[0.03449537 0.10036387 0.02047642 0.0139807  0.01696756 0.05184838
+ 0.02258963 0.01742561 0.01571456 0.01318139 0.02783532 0.01873265
+ 0.01502875 0.01272215 0.01571719 0.05646866 0.04123157]
+1,1_year_access_early_access_pc,[3.49657030e-308 1.00000000e+000 3.01927011e-308 1.92377141e-308
+ 2.39490096e-308 7.03428249e-308 3.87385757e-308 2.55483184e-308
+ 2.46304576e-308 1.93570566e-308 3.56660664e-308 2.80615465e-308
+ 2.14795641e-308 1.83557743e-308 2.32545793e-308 5.22848673e-308
+ 7.77890062e-308]
+0,0_livonia_survival_survive_dlc,[0.32099587 0.04554105 0.01589973 0.015276   0.01518566 0.06327317
+ 0.01956051 0.01651891 0.01517609 0.01266608 0.02152078 0.01647222
+ 0.01343767 0.01272482 0.01488555 0.0328227  0.02425508]
+8,8_issue_server_fixed_experimental,[0.01289744 0.02078724 0.02196161 0.02947013 0.02167998 0.01598429
+ 0.04338445 0.0395417  0.12396269 0.03547221 0.02179428 0.04088354
+ 0.02733923 0.04384692 0.02837973 0.0170176  0.02271273]
+-1,-1_player_server_vehicle_issue,[0.01998353 0.0456075  0.01410178 0.01025539 0.01190689 0.02200259
+ 0.01484219 0.01265874 0.01085533 0.00913648 0.02680417 0.01436295
+ 0.01057604 0.00898746 0.01085406 0.23216261 0.0229871 ]
+2,2_thing_dev_time_community,[0.01260086 0.02789217 0.41661709 0.01364596 0.02977414 0.01595756
+ 0.02316759 0.02189102 0.02060652 0.02163822 0.02860209 0.03193489
+ 0.03081478 0.01718367 0.02416735 0.02141638 0.04724918]
+0,0_livonia_survival_survive_dlc,[0.45517633 0.04147663 0.01663591 0.01597612 0.01588381 0.05470328
+ 0.01964404 0.01695776 0.01557756 0.01327975 0.0219669  0.01687572
+ 0.01414323 0.01333072 0.01544914 0.03278774 0.0244434 ]
+0,0_livonia_survival_survive_dlc,[0.56525787 0.03662922 0.01471323 0.01420081 0.01409758 0.0476709
+ 0.01735816 0.0150593  0.01377462 0.01175935 0.01955968 0.01496481
+ 0.01253062 0.01181442 0.01370108 0.02920575 0.0216011 ]
+0,0_livonia_survival_survive_dlc,[0.40981131 0.04398047 0.01759557 0.01663388 0.01674694 0.05930379
+ 0.02068033 0.01780235 0.0163769  0.01397913 0.02309874 0.01775277
+ 0.01488407 0.01398998 0.01628079 0.03453725 0.02602459]
+0,0_livonia_survival_survive_dlc,[0.26779028 0.05012474 0.01784612 0.0166604  0.01671072 0.07051122
+ 0.02161263 0.01791493 0.01676688 0.01399258 0.02337021 0.01801879
+ 0.01495619 0.01401208 0.01624573 0.03610738 0.02697275]
+0,0_livonia_survival_survive_dlc,[0.45997722 0.05233707 0.02044819 0.01953947 0.01942145 0.070242
+ 0.02433038 0.02078033 0.01920268 0.01627277 0.02691399 0.02073698
+ 0.01733025 0.01632946 0.01890933 0.04045203 0.03021514]
+-1,-1_player_server_vehicle_issue,[0.01417655 0.01986964 0.0193643  0.08783817 0.02407717 0.01638626
+ 0.02825209 0.10445411 0.0307524  0.03151344 0.02421647 0.03076889
+ 0.02763646 0.04855554 0.03316058 0.01814399 0.02052931]
+-1,-1_player_server_vehicle_issue,[0.01171047 0.02394413 0.01396068 0.00956455 0.00999271 0.01728706
+ 0.02635509 0.01131974 0.01722566 0.0096631  0.01325329 0.01467398
+ 0.01023454 0.00940546 0.00992935 0.01579483 0.02203505]
+-1,-1_player_server_vehicle_issue,[0.01190136 0.02507538 0.01472537 0.00967594 0.01037012 0.01773203
+ 0.02751461 0.01163584 0.0175568  0.00991964 0.0137757  0.01518377
+ 0.01058052 0.00959265 0.0102423  0.01642293 0.02392419]
+-1,-1_player_server_vehicle_issue,[0.01171417 0.02436718 0.01439021 0.00957039 0.01017733 0.01740684
+ 0.0270803  0.01145864 0.01741039 0.00978916 0.01347219 0.01492521
+ 0.01040681 0.0094809  0.01008251 0.01601388 0.02311814]
+-1,-1_player_server_vehicle_issue,[0.01164244 0.02377648 0.01419993 0.00956482 0.01008308 0.01719751
+ 0.02668374 0.01138171 0.01739362 0.00975377 0.01329657 0.0147894
+ 0.01034194 0.00946497 0.01001171 0.01576184 0.02242521]
+-1,-1_player_server_vehicle_issue,[0.01173398 0.02420114 0.01436306 0.00962828 0.01018603 0.01740003
+ 0.02716178 0.01149415 0.01754525 0.00983246 0.0134479  0.01494885
+ 0.01043338 0.00953363 0.01010961 0.01594759 0.02289662]
+-1,-1_player_server_vehicle_issue,[0.01186994 0.02472208 0.01470287 0.00980158 0.01040341 0.01764613
+ 0.02818615 0.01174984 0.01799326 0.01003568 0.01372969 0.01531395
+ 0.0106576  0.00972336 0.01032675 0.0162232  0.02362023]
+5,5_zombie_survival_zombie_survival_best,[0.04538682 0.09734635 0.02116477 0.01780017 0.01834011 0.23294301
+ 0.03140751 0.02080467 0.02121685 0.01602213 0.02530945 0.02147872
+ 0.01693047 0.0158233  0.01861767 0.03724114 0.03886551]
+-1,-1_player_server_vehicle_issue,[0.01284276 0.02741587 0.01597328 0.01075016 0.01139669 0.01946753
+ 0.03328686 0.0130044  0.02023516 0.01103746 0.01490885 0.01687175
+ 0.0116511  0.01069169 0.01140639 0.01742666 0.02650819]
+-1,-1_player_server_vehicle_issue,[0.01045387 0.02314304 0.04467311 0.01374452 0.03192045 0.01303471
+ 0.02414226 0.0263227  0.02105494 0.02106851 0.03230174 0.05046484
+ 0.02989943 0.01744281 0.02527599 0.0182493  0.03345582]
+2,2_thing_dev_time_community,[0.01426452 0.03214987 0.12208623 0.01603218 0.03677635 0.01795183
+ 0.02688176 0.02713398 0.02372728 0.02508338 0.03741456 0.04294661
+ 0.03457574 0.02004455 0.02946707 0.02515247 0.05272953]
+-1,-1_player_server_vehicle_issue,[0.04406918 0.14519325 0.02404183 0.01776953 0.02061171 0.10077809
+ 0.03011481 0.02210065 0.02032304 0.01656173 0.0311354  0.02303044
+ 0.01831003 0.01606883 0.01990663 0.05211587 0.04922177]
+-1,-1_player_server_vehicle_issue,[0.01320895 0.01858403 0.01840909 0.07412199 0.02373036 0.01529404
+ 0.02734382 0.09444927 0.03068043 0.03085466 0.02266811 0.03000493
+ 0.02694499 0.05005497 0.03142954 0.01686791 0.01932626]
+0,0_livonia_survival_survive_dlc,[0.13840045 0.07998249 0.02732924 0.02192429 0.02525849 0.09792675
+ 0.03041059 0.0255301  0.02312822 0.01981871 0.03642256 0.0261243
+ 0.02173475 0.01935711 0.02362373 0.06095828 0.04552205]
+3,3_action_animation_item_fixed,[0.01557047 0.02174886 0.02092854 0.10845798 0.02617279 0.01797878
+ 0.03149168 0.1045736  0.03405015 0.03395579 0.02633141 0.03326304
+ 0.02966533 0.05175579 0.03550713 0.01987522 0.02234722]
+-1,-1_player_server_vehicle_issue,[0.01342401 0.01890239 0.0187072  0.07536443 0.02401962 0.01554345
+ 0.02762831 0.09734653 0.03086873 0.03122806 0.0230904  0.03031415
+ 0.02739164 0.05042389 0.03193743 0.01716165 0.01965346]
+-1,-1_player_server_vehicle_issue,[0.04141977 0.13329333 0.02808241 0.01764304 0.02231177 0.06615804
+ 0.02942996 0.02251048 0.0206725  0.01741438 0.03619976 0.02488357
+ 0.01970503 0.01653923 0.02074462 0.06913917 0.06014593]
+1,1_year_access_early_access_pc,[0.05144247 0.1403494  0.04111706 0.02753127 0.03452932 0.06502989
+ 0.04247783 0.03588441 0.03057018 0.0258536  0.07490244 0.04092278
+ 0.02974544 0.02496623 0.03143082 0.19916135 0.07573932]
+3,3_action_animation_item_fixed,[0.01667648 0.02385219 0.02301063 0.09316792 0.02958898 0.019389
+ 0.03460799 0.15885942 0.03645724 0.03701508 0.02944461 0.03750551
+ 0.0327548  0.05451013 0.04081229 0.02165697 0.02467132]
+2,2_thing_dev_time_community,[0.012623   0.02718228 0.06760887 0.01634418 0.03874437 0.01583093
+ 0.02743395 0.03075741 0.02506229 0.02806335 0.03399062 0.05314522
+ 0.03856487 0.02179574 0.03302491 0.02110655 0.04135658]
+-1,-1_player_server_vehicle_issue,[0.00997792 0.0171423  0.02338191 0.01437641 0.07861442 0.01201649
+ 0.01803368 0.03118938 0.01610737 0.02383817 0.02200507 0.02510215
+ 0.03163488 0.01920418 0.06025818 0.0141767  0.02234146]
+10,10_friend_player_head_find,[0.01487808 0.03005221 0.02635371 0.01667568 0.02573344 0.0170335
+ 0.02240192 0.02594319 0.01783826 0.01648052 0.52881375 0.0346275
+ 0.02125933 0.01596806 0.02066301 0.03543151 0.02949455]
+1,1_year_access_early_access_pc,[0.04565406 0.33844153 0.03637038 0.02326375 0.030056   0.09100182
+ 0.04256616 0.03074859 0.02821307 0.02329803 0.04359035 0.03258659
+ 0.02622064 0.02206934 0.02839482 0.06530197 0.0922229 ]
+5,5_zombie_survival_zombie_survival_best,[0.06275708 0.11067992 0.02113127 0.01785976 0.01867009 0.28258653
+ 0.02846315 0.02061346 0.02002649 0.0157681  0.02686116 0.02123553
+ 0.01692224 0.01560138 0.01845606 0.04323611 0.03711934]
+-1,-1_player_server_vehicle_issue,[0.02451445 0.23920857 0.02274415 0.01362287 0.01753263 0.04558299
+ 0.02675983 0.01837344 0.01757397 0.01411442 0.02659082 0.02067729
+ 0.01561492 0.0132226  0.01700198 0.03855837 0.05921722]
+1,1_year_access_early_access_pc,[0.05071575 0.19021771 0.04368647 0.02823461 0.03492786 0.07131665
+ 0.04802138 0.03725108 0.03347242 0.02719153 0.07084909 0.04388156
+ 0.03073871 0.02607748 0.03274658 0.14371186 0.08695924]
+1,1_year_access_early_access_pc,[0.05819296 0.22483531 0.0398467  0.02648931 0.03418241 0.12304349
+ 0.04505562 0.03444575 0.03102477 0.02646903 0.04702627 0.03541263
+ 0.02946106 0.02505487 0.03244547 0.06916867 0.09360496]
+1,1_year_access_early_access_pc,[3.43703132e-308 1.00000000e+000 3.11909403e-308 1.92998173e-308
+ 2.41468901e-308 6.23055747e-308 3.85860572e-308 2.57170816e-308
+ 2.46869942e-308 1.93368628e-308 3.88143532e-308 2.91769973e-308
+ 2.17032907e-308 1.83564819e-308 2.31282779e-308 6.04698179e-308
+ 8.13351628e-308]
+1,1_year_access_early_access_pc,[3.66085756e-308 1.00000000e+000 2.77217953e-308 1.89966008e-308
+ 2.27529329e-308 8.82372791e-308 3.75183953e-308 2.46641439e-308
+ 2.41123049e-308 1.89416722e-308 3.15159756e-308 2.61218892e-308
+ 2.05269666e-308 1.80374080e-308 2.27021053e-308 4.43516753e-308
+ 6.39066796e-308]
+1,1_year_access_early_access_pc,[0.03757319 0.19794164 0.0435409  0.02651528 0.03264317 0.05511302
+ 0.05353262 0.03642747 0.03455523 0.02614468 0.06658923 0.04615122
+ 0.02980448 0.02504358 0.03104121 0.09423265 0.10187386]
+-1,-1_player_server_vehicle_issue,[0.01423949 0.0259334  0.05469973 0.02205822 0.0585385  0.01742952
+ 0.02986693 0.04370308 0.03066336 0.05703913 0.03124343 0.05034131
+ 0.11227082 0.0365895  0.06039663 0.02089648 0.03581068]
+0,0_livonia_survival_survive_dlc,[0.09190354 0.06362229 0.02058854 0.01763301 0.01880299 0.05706294
+ 0.02351498 0.01986945 0.01811074 0.01511148 0.03053351 0.02102822
+ 0.01649449 0.01499274 0.01776342 0.05824803 0.03196946]
+-1,-1_player_server_vehicle_issue,[0.03035064 0.22636871 0.02150101 0.01553764 0.01873238 0.070105
+ 0.02843852 0.02019269 0.01860482 0.01512157 0.02550121 0.02045688
+ 0.01650532 0.01450231 0.01852461 0.03527021 0.04806072]
+-1,-1_player_server_vehicle_issue,[0.01258921 0.03432804 0.03017018 0.01489761 0.02194435 0.01770899
+ 0.05632522 0.0254014  0.03288977 0.01972401 0.0241485  0.03497221
+ 0.02191454 0.01754364 0.02256876 0.0195213  0.04954963]
+-1,-1_player_server_vehicle_issue,[0.02080904 0.1408974  0.02079739 0.01267912 0.01623623 0.04068898
+ 0.02701223 0.01731422 0.01706165 0.01348481 0.02186023 0.01881252
+ 0.01466792 0.01256439 0.01626079 0.0280061  0.05632418]
+-1,-1_player_server_vehicle_issue,[0.01872847 0.08439659 0.03599969 0.01673469 0.02401241 0.02857341
+ 0.0468569  0.02560874 0.02662369 0.01971543 0.03171064 0.03144795
+ 0.0226352  0.01787138 0.02345011 0.03109899 0.19698653]
+2,2_thing_dev_time_community,[0.01329609 0.02681532 0.07124434 0.01783708 0.04400154 0.01636326
+ 0.02744371 0.03330663 0.02626982 0.03248158 0.03551292 0.05739273
+ 0.04688635 0.0245761  0.03734911 0.02193323 0.03870085]
+-1,-1_player_server_vehicle_issue,[0.02476635 0.08786301 0.03455949 0.0232992  0.02796625 0.03818192
+ 0.0699685  0.03483071 0.03480639 0.02386614 0.03976176 0.03938678
+ 0.0265144  0.0229605  0.02889422 0.0396741  0.08845754]
+-1,-1_player_server_vehicle_issue,[0.03533247 0.09942938 0.02946257 0.01915105 0.02836645 0.061009
+ 0.0335258  0.02589291 0.02372396 0.01979139 0.03383578 0.02645325
+ 0.02216652 0.01849739 0.02514739 0.04217493 0.0710985 ]
+-1,-1_player_server_vehicle_issue,[0.01941394 0.04405943 0.02866757 0.01758504 0.02630378 0.02270796
+ 0.02580094 0.02613629 0.01945739 0.01724974 0.124239   0.03292397
+ 0.02121391 0.01654942 0.02179143 0.05408775 0.03927346]
+1,1_year_access_early_access_pc,[0.06379851 0.20751167 0.04297813 0.02722067 0.03498438 0.10742416
+ 0.04525108 0.03479477 0.03160887 0.0268679  0.05387097 0.03746339
+ 0.03060159 0.02551988 0.03223396 0.09575876 0.09538924]
+-1,-1_player_server_vehicle_issue,[0.04925768 0.16054296 0.02059653 0.01630911 0.01765848 0.11697313
+ 0.02651536 0.01938419 0.01822542 0.01464788 0.02700296 0.02024742
+ 0.01603026 0.0143951  0.01727029 0.04745115 0.03824521]
+-1,-1_player_server_vehicle_issue,[0.01116383 0.01847588 0.02737442 0.01971825 0.03813265 0.01356246
+ 0.02266259 0.04264282 0.02470588 0.07140484 0.0211836  0.03246512
+ 0.04660901 0.03811557 0.13237891 0.01494557 0.02349454]
+10,10_friend_player_head_find,[0.01828157 0.04105906 0.03305561 0.018935   0.03118915 0.02160056
+ 0.02764044 0.0302934  0.02139077 0.0195753  0.14385117 0.03985395
+ 0.02477542 0.01855101 0.02514052 0.04332755 0.04058213]
+-1,-1_player_server_vehicle_issue,[0.01130209 0.02058448 0.04534871 0.01734988 0.04573495 0.01374838
+ 0.02379339 0.03323199 0.02446592 0.0415939  0.02564404 0.04177813
+ 0.1007291  0.02811609 0.04200377 0.01687613 0.02820801]
+2,2_thing_dev_time_community,[0.01326553 0.02659102 0.06913876 0.01610737 0.0468632  0.01625757
+ 0.02384811 0.02882294 0.0218634  0.02729001 0.03510676 0.04182776
+ 0.03902924 0.02100644 0.03522962 0.02212345 0.03968362]
+1,1_year_access_early_access_pc,[0.03045324 0.23573553 0.04326822 0.02344322 0.02997069 0.04699229
+ 0.05713127 0.03320799 0.03395717 0.02462631 0.05167869 0.04301096
+ 0.02815974 0.02318326 0.02880819 0.06223954 0.13950913]
+2,2_thing_dev_time_community,[0.01269712 0.02436012 0.06389078 0.01798457 0.04639465 0.01556874
+ 0.02649465 0.03411916 0.02645071 0.03801503 0.03089479 0.05254564
+ 0.05883724 0.02674651 0.04192274 0.01987828 0.03460991]
+2,2_thing_dev_time_community,[0.01228614 0.02424951 0.07430017 0.01654564 0.04691885 0.01521836
+ 0.02520333 0.03071093 0.02415657 0.03294903 0.02948624 0.04328164
+ 0.05574528 0.02373816 0.03824447 0.01933094 0.03631766]
+2,2_thing_dev_time_community,[0.01280977 0.02747511 0.37455127 0.01484739 0.03223566 0.01624054
+ 0.02539189 0.02442982 0.02361759 0.02570975 0.02861796 0.03738019
+ 0.03640546 0.01964648 0.02757503 0.02097162 0.04504928]
+2,2_thing_dev_time_community,[0.01255208 0.0240889  0.06557041 0.01760781 0.05004541 0.01545382
+ 0.02595268 0.03340198 0.02546908 0.03751444 0.02970816 0.0461505
+ 0.06431357 0.02620447 0.04302024 0.01940629 0.03495081]
+-1,-1_player_server_vehicle_issue,[0.01082957 0.01854318 0.03024419 0.01847408 0.04821664 0.01309166
+ 0.02255736 0.0410758  0.02375623 0.05477184 0.02282896 0.03561219
+ 0.07250955 0.03378869 0.07726392 0.01515856 0.0241279 ]
+7,7_player_vehicle_change_server,[0.01545755 0.02528303 0.03016309 0.03543885 0.04814012 0.01846462
+ 0.03322562 0.17050321 0.0341452  0.05432244 0.03285196 0.04878074
+ 0.05166097 0.05589048 0.09453121 0.02143202 0.02944086]
+11,11_railway_issue_stable_branch,[0.01475126 0.02863416 0.05365847 0.02252523 0.04449137 0.01797911
+ 0.03476118 0.0447972  0.03589234 0.04231093 0.03932625 0.11188792
+ 0.05522628 0.03290173 0.04425609 0.02371336 0.03767573]
+10,10_friend_player_head_find,[0.0175536  0.04187776 0.04001783 0.01833592 0.03252681 0.02111592
+ 0.02823131 0.02947537 0.02220765 0.02040813 0.10795953 0.04270577
+ 0.02672672 0.01886418 0.02540083 0.0414687  0.04580637]
+-1,-1_player_server_vehicle_issue,[0.0133108  0.03320186 0.02894939 0.01674618 0.02152869 0.01868491
+ 0.08946179 0.02724243 0.04450334 0.02138721 0.02414727 0.03824128
+ 0.02288992 0.01967181 0.02304847 0.02002401 0.04333534]
+-1,-1_player_server_vehicle_issue,[0.01471462 0.02688663 0.04470042 0.02399966 0.04864382 0.01792856
+ 0.03278936 0.05354954 0.03523086 0.05689859 0.03445857 0.07357452
+ 0.06147442 0.03944691 0.06520958 0.02190875 0.03501247]
+-1,-1_player_server_vehicle_issue,[0.01471762 0.02636985 0.04890061 0.02373147 0.04793029 0.01797626
+ 0.03221977 0.04799681 0.03618424 0.07269538 0.03171438 0.06290012
+ 0.07346306 0.04213116 0.06650041 0.02134939 0.03493938]
+-1,-1_player_server_vehicle_issue,[0.03331496 0.20063949 0.05580845 0.02381854 0.03577466 0.0495154
+ 0.04898769 0.03417075 0.03250877 0.0269589  0.05411269 0.0414538
+ 0.03216201 0.02451475 0.03204884 0.06485832 0.20882652]
+2,2_thing_dev_time_community,[1.39799735e-308 2.97705477e-308 1.00000000e+000 1.57288983e-308
+ 3.46500022e-308 1.77082397e-308 2.64795843e-308 2.53863863e-308
+ 2.43400288e-308 2.66514202e-308 3.02812081e-308 3.67547394e-308
+ 3.85385186e-308 2.05434134e-308 2.89350258e-308 2.27710608e-308
+ 4.94318374e-308]
+12,12_dev_time_player_still,[0.01381497 0.02465149 0.05000452 0.02201909 0.05837738 0.016781
+ 0.02871231 0.04310359 0.02980216 0.05653035 0.0301285  0.04717188
+ 0.15617972 0.03711945 0.05791434 0.02015404 0.03336471]
+16,16_bohemia_year_bohemia_interactive_interactive,[2.37813392e-308 8.24568057e-308 6.75683555e-308 2.08440828e-308
+ 3.68812609e-308 3.43593579e-308 4.49980408e-308 3.26561694e-308
+ 3.11099580e-308 2.72458433e-308 4.27069836e-308 3.95881969e-308
+ 3.32087960e-308 2.34774342e-308 3.28099089e-308 3.96481554e-308
+ 1.00000000e+000]
+-1,-1_player_server_vehicle_issue,[0.01514995 0.02804477 0.05998502 0.02273264 0.04975412 0.01861068
+ 0.03258012 0.04400538 0.03488846 0.05965116 0.03362965 0.06484698
+ 0.07219676 0.03731942 0.05807737 0.02257726 0.03851349]
+-1,-1_player_server_vehicle_issue,[0.01231896 0.02267485 0.04778809 0.01853452 0.04024175 0.01512437
+ 0.02698647 0.03565422 0.0292795  0.05003333 0.02723919 0.05368443
+ 0.05801708 0.03077652 0.04733257 0.01827148 0.03096752]
+2,2_thing_dev_time_community,[0.01366978 0.02920343 0.17960196 0.01644569 0.03877346 0.01730333
+ 0.0277995  0.02827742 0.02575235 0.02933081 0.0318422  0.0430128
+ 0.04243864 0.02210371 0.03262832 0.02227484 0.04796767]
+-1,-1_player_server_vehicle_issue,[0.01133666 0.03881126 0.03759341 0.01080713 0.01888917 0.01605123
+ 0.02749242 0.0169683  0.01880114 0.01432937 0.02244929 0.02385206
+ 0.01733733 0.0123538  0.01646945 0.01949587 0.10711586]
+-1,-1_player_server_vehicle_issue,[0.01642984 0.0592441  0.04912535 0.015462   0.02601745 0.02352297
+ 0.04148598 0.02403456 0.02777378 0.02008478 0.03167724 0.03376362
+ 0.02400253 0.01747994 0.02302342 0.02827351 0.1409181 ]
+12,12_dev_time_player_still,[0.00992133 0.01707324 0.03369144 0.01584377 0.04260697 0.01185966
+ 0.01908267 0.02859903 0.01954313 0.03515969 0.02135685 0.02944117
+ 0.47994664 0.02552972 0.03605305 0.01444337 0.02250477]
+12,12_dev_time_player_still,[0.01211177 0.02077889 0.04049026 0.0192838  0.05496038 0.01443735
+ 0.02291013 0.03489875 0.02320456 0.04107411 0.02636041 0.03528186
+ 0.37414981 0.03047512 0.0441657  0.01769059 0.0273263 ]
+12,12_dev_time_player_still,[0.00894853 0.01522831 0.02945128 0.0144267  0.03757448 0.01065779
+ 0.01702987 0.02580036 0.01755558 0.0319771  0.01909217 0.02612063
+ 0.5169264  0.02336452 0.03218187 0.01296773 0.01989112]
+12,12_dev_time_player_still,[0.00922393 0.01573823 0.03102468 0.01470583 0.03803171 0.0110012
+ 0.01754456 0.02602892 0.01807726 0.03269756 0.01958687 0.02680845
+ 0.43280613 0.0237351  0.03261014 0.01337405 0.02064223]
+4,4_status_renderer_report_week,[0.01134172 0.02038951 0.03364819 0.01655017 0.1544614  0.01370781
+ 0.0218651  0.03376028 0.01965997 0.02811166 0.02655212 0.03048466
+ 0.05956454 0.02264328 0.04643188 0.01678618 0.02781119]
+4,4_status_renderer_report_week,[0.01084759 0.01961251 0.03369173 0.01580549 0.12216931 0.01313622
+ 0.02114348 0.03188    0.0191294  0.02747818 0.02535579 0.02965758
+ 0.06137551 0.02187668 0.04350751 0.0160948  0.02696191]
+12,12_dev_time_player_still,[1.29750621e-308 2.21664343e-308 4.22811703e-308 2.11729478e-308
+ 5.30922806e-308 1.55013800e-308 2.52302101e-308 3.82025909e-308
+ 2.61126561e-308 4.77825997e-308 2.74680183e-308 3.82051326e-308
+ 1.00000000e+000 3.48127952e-308 4.67188505e-308 1.87210035e-308
+ 2.89540398e-308]
+12,12_dev_time_player_still,[0.00807346 0.013897   0.02716399 0.01302724 0.03361022 0.00966544
+ 0.01575265 0.02361375 0.01626158 0.02967574 0.017237   0.02420318
+ 0.63173531 0.0213431  0.02944287 0.01170369 0.01828838]
+-1,-1_player_server_vehicle_issue,[0.03084044 0.10894496 0.02874292 0.01783346 0.02277631 0.04227542
+ 0.03018051 0.02395674 0.02122858 0.01754161 0.04646136 0.02840915
+ 0.01987929 0.01669232 0.02126623 0.08412698 0.05741993]
+1,1_year_access_early_access_pc,[0.04899107 0.18661262 0.04456235 0.027927   0.03530973 0.0690491
+ 0.04764908 0.03728359 0.03333307 0.0273131  0.07146817 0.04415189
+ 0.03093362 0.02604923 0.03300552 0.1347024  0.08953828]
+-1,-1_player_server_vehicle_issue,[0.0444283  0.11485813 0.02886096 0.01902922 0.0251819  0.07791923
+ 0.03030042 0.02469427 0.02148632 0.01891607 0.0356687  0.0253344
+ 0.02130169 0.01789911 0.0233435  0.05454581 0.06518188]
+1,1_year_access_early_access_pc,[0.06427169 0.17124818 0.04192148 0.0277565  0.03669716 0.11708388
+ 0.04452538 0.0360335  0.03151205 0.02765674 0.05106097 0.03682597
+ 0.03104779 0.02615517 0.03414876 0.07657606 0.09519088]
+-1,-1_player_server_vehicle_issue,[0.02185493 0.12312018 0.02241231 0.01294538 0.01726216 0.04228847
+ 0.02629642 0.01771959 0.0172061  0.01406978 0.02275189 0.01922252
+ 0.01542604 0.01297748 0.0170018  0.0292921  0.0644389 ]
+16,16_bohemia_year_bohemia_interactive_interactive,[2.60734686e-308 1.31090366e-307 5.25789563e-308 2.13924642e-308
+ 3.21318510e-308 3.97515787e-308 5.26534612e-308 3.20312317e-308
+ 3.25865973e-308 2.55942204e-308 4.29246990e-308 3.95632584e-308
+ 2.99305391e-308 2.29236422e-308 3.02224211e-308 4.47842864e-308
+ 1.00000000e+000]
+1,1_year_access_early_access_pc,[0.04383408 0.28079693 0.03601496 0.02480356 0.02844006 0.06527269
+ 0.04521322 0.03179421 0.02999676 0.02306557 0.05601293 0.03761943
+ 0.0259556  0.02245188 0.02721897 0.11483058 0.07477927]
+-1,-1_player_server_vehicle_issue,[0.01799861 0.05606746 0.0731493  0.01764592 0.03094092 0.02502438
+ 0.03968821 0.02812645 0.02860865 0.02433067 0.03662124 0.03824836
+ 0.03003412 0.02061661 0.02793825 0.03065342 0.16310734]
+-1,-1_player_server_vehicle_issue,[0.01715886 0.05658956 0.06122799 0.01648851 0.02936003 0.02416171
+ 0.04018032 0.02605541 0.02804829 0.02221543 0.03426108 0.03639809
+ 0.0270843  0.01901164 0.02558763 0.02931232 0.17196151]
+2,2_thing_dev_time_community,[0.01669762 0.04237114 0.13435087 0.01696668 0.03612458 0.02172845
+ 0.03092611 0.0275173  0.02536601 0.02467162 0.03924021 0.03911223
+ 0.03309493 0.02031341 0.029038   0.02967098 0.08588851]
+2,2_thing_dev_time_community,[0.01717642 0.0430239  0.14423903 0.01745916 0.03732305 0.02224563
+ 0.03142337 0.02824858 0.02594438 0.02540359 0.04068427 0.04034197
+ 0.03424311 0.02090677 0.02987437 0.03065528 0.08447633]
+2,2_thing_dev_time_community,[0.01677147 0.04273344 0.1315021  0.01826126 0.03901473 0.02213729
+ 0.03533406 0.03095558 0.02903174 0.0279059  0.03900015 0.04463638
+ 0.03675777 0.0225785  0.03261469 0.02848905 0.09034719]
+2,2_thing_dev_time_community,[0.01698579 0.0440084  0.12760782 0.01810198 0.03848702 0.02252461
+ 0.0351433  0.03038276 0.02853168 0.02726918 0.03877071 0.04284231
+ 0.03581387 0.02217848 0.03203038 0.02885959 0.09853343]
+2,2_thing_dev_time_community,[0.01740251 0.04359017 0.15077725 0.0177243  0.03777931 0.0225543
+ 0.03200884 0.02867432 0.02644076 0.02585188 0.04106871 0.04101438
+ 0.03484261 0.02125766 0.03031905 0.03098969 0.08577556]
+2,2_thing_dev_time_community,[0.01689081 0.04294177 0.1345236  0.01703516 0.03638103 0.02203529
+ 0.03110695 0.0275257  0.02538811 0.02472625 0.03892269 0.0384399
+ 0.03327043 0.02037025 0.02914821 0.02980338 0.08930927]
+2,2_thing_dev_time_community,[0.0168135  0.03565875 0.4149036  0.01922455 0.04114147 0.02152281
+ 0.03338842 0.03097907 0.03085911 0.03370579 0.0344716  0.04363818
+ 0.04828565 0.02562098 0.03555055 0.02648084 0.05978048]
+2,2_thing_dev_time_community,[0.01460781 0.03132207 0.47086488 0.01672075 0.03608243 0.01868648
+ 0.02907045 0.02717592 0.02682807 0.02913768 0.03072888 0.03909925
+ 0.04152002 0.02219898 0.03102674 0.023297   0.05286926]
+2,2_thing_dev_time_community,[0.01658436 0.03737222 0.31321371 0.01722773 0.03786564 0.02129
+ 0.0298607  0.02733358 0.02581446 0.02691451 0.03510386 0.0372981
+ 0.03777315 0.0214602  0.0306162  0.02752949 0.06825525]
+2,2_thing_dev_time_community,[0.01620274 0.0367096  0.27846906 0.01679399 0.03697007 0.02081535
+ 0.02915919 0.0266586  0.02510069 0.02608987 0.03440447 0.03628665
+ 0.0366713  0.02085875 0.02976865 0.02696706 0.0675274 ]
+12,12_dev_time_player_still,[1.28772056e-308 2.18821692e-308 4.11738302e-308 2.11673748e-308
+ 5.12575324e-308 1.53694956e-308 2.50333950e-308 3.79267119e-308
+ 2.60347954e-308 4.78880020e-308 2.69920324e-308 3.74899345e-308
+ 1.00000000e+000 3.50319345e-308 4.57460266e-308 1.84979574e-308
+ 2.84430266e-308]
+12,12_dev_time_player_still,[1.29005435e-308 2.19742402e-308 4.17564272e-308 2.10846889e-308
+ 5.16680746e-308 1.54051448e-308 2.50572358e-308 3.77519325e-308
+ 2.60098092e-308 4.76414513e-308 2.71218846e-308 3.76743543e-308
+ 1.00000000e+000 3.47539073e-308 4.58201785e-308 1.85691509e-308
+ 2.86375168e-308]
+15,15_streamer_video_sniper_stream,[3.14258548e-308 6.13448363e-308 2.75182006e-308 1.83165961e-308
+ 2.22219511e-308 3.34632246e-308 2.57888916e-308 2.28382052e-308
+ 1.96819418e-308 1.69516090e-308 5.41821559e-308 2.71700567e-308
+ 1.99194810e-308 1.64981596e-308 1.98466746e-308 1.00000000e+000
+ 4.05071093e-308]
+2,2_thing_dev_time_community,[1.43576785e-308 3.15289210e-308 1.00000000e+000 1.57567183e-308
+ 3.40167269e-308 1.83022709e-308 2.72098696e-308 2.53316946e-308
+ 2.44760534e-308 2.58662583e-308 3.12544279e-308 3.67661818e-308
+ 3.64488494e-308 2.02171847e-308 2.83809996e-308 2.37313757e-308
+ 5.40235778e-308]
+2,2_thing_dev_time_community,[1.41658862e-308 3.06835217e-308 1.00000000e+000 1.57833293e-308
+ 3.41889668e-308 1.80291675e-308 2.70837946e-308 2.54596797e-308
+ 2.46805117e-308 2.64601375e-308 3.06663891e-308 3.71311625e-308
+ 3.74682833e-308 2.04891838e-308 2.87643494e-308 2.31877808e-308
+ 5.18287705e-308]
+1,1_year_access_early_access_pc,[0.04235167 0.31047813 0.03675805 0.02501405 0.02870465 0.06477294
+ 0.04762949 0.03228637 0.03088342 0.02340368 0.05552957 0.03841111
+ 0.02637685 0.02276473 0.02755408 0.10454747 0.07971578]
+2,2_thing_dev_time_community,[0.0119214  0.02585196 0.47928885 0.01352649 0.02930545 0.01526607
+ 0.02360915 0.02208688 0.021682   0.02337798 0.02542864 0.0322109
+ 0.03265608 0.01784668 0.02520826 0.01918443 0.0441898 ]
+2,2_thing_dev_time_community,[0.01387444 0.03114887 0.43143235 0.01540816 0.03243855 0.01791565
+ 0.02784047 0.02499667 0.02490941 0.02568148 0.0295491  0.0363468
+ 0.03531132 0.01995991 0.0278286  0.02258115 0.05529915]
+10,10_friend_player_head_find,[2.03294390e-308 3.87144345e-308 3.07387091e-308 2.14030591e-308
+ 3.01881429e-308 2.27165700e-308 2.77202060e-308 3.13902974e-308
+ 2.19843334e-308 2.00050902e-308 1.00000000e+000 3.97470329e-308
+ 2.50702012e-308 1.96566427e-308 2.49372330e-308 5.22475357e-308
+ 3.60783628e-308]
+2,2_thing_dev_time_community,[0.01416402 0.03044703 0.09233286 0.01683641 0.04103684 0.01761151
+ 0.02700592 0.02954649 0.02438689 0.02728733 0.03880853 0.04819147
+ 0.03798132 0.02151502 0.03270403 0.0245916  0.04696339]
+2,2_thing_dev_time_community,[0.01336492 0.02886176 0.0909271  0.01593512 0.03830014 0.01665759
+ 0.02583488 0.02791922 0.02337652 0.02599107 0.03621875 0.04588844
+ 0.03629666 0.02044779 0.03077139 0.02314383 0.04481708]
+2,2_thing_dev_time_community,[0.01477717 0.03145858 0.50873182 0.01613142 0.03650925 0.01881104
+ 0.02711877 0.02571471 0.02427034 0.02666795 0.03058863 0.03450743
+ 0.03932376 0.02077737 0.02963342 0.02367159 0.05398939]
+2,2_thing_dev_time_community,[0.01512856 0.03256575 0.5002132  0.0166314  0.03792329 0.01932186
+ 0.02824944 0.02672972 0.02515983 0.02752211 0.03157375 0.03583234
+ 0.04071425 0.02144731 0.03070177 0.02425211 0.05679731]
+2,2_thing_dev_time_community,[0.01360059 0.02882137 0.06887971 0.01634378 0.03902099 0.01671974
+ 0.0253881  0.02882956 0.02292642 0.02551681 0.04043931 0.04912811
+ 0.03491513 0.0205207  0.03095211 0.02419011 0.04200293]
+-1,-1_player_server_vehicle_issue,[0.01824878 0.03896532 0.09389246 0.0215459  0.05052945 0.02247864
+ 0.03291347 0.03772051 0.02940223 0.03342371 0.05361841 0.06251123
+ 0.04542479 0.02690147 0.04070044 0.03255423 0.05739588]
+12,12_dev_time_player_still,[1.33098138e-308 2.27497002e-308 3.99456202e-308 2.27453215e-308
+ 5.71185635e-308 1.59458803e-308 2.67559690e-308 4.38692794e-308
+ 2.75327444e-308 5.12954737e-308 2.81322438e-308 3.93291990e-308
+ 1.00000000e+000 3.83894162e-308 5.28299194e-308 1.89903330e-308
+ 2.94751306e-308]
+12,12_dev_time_player_still,[1.32613823e-308 2.27139435e-308 4.02107854e-308 2.27485860e-308
+ 5.44083650e-308 1.59052858e-308 2.70003454e-308 4.36875066e-308
+ 2.81230653e-308 5.30640765e-308 2.79536530e-308 4.01078885e-308
+ 1.00000000e+000 3.90604953e-308 5.21776732e-308 1.89239284e-308
+ 2.94249987e-308]
+2,2_thing_dev_time_community,[0.01460188 0.03100059 0.45893866 0.01591171 0.03496582 0.01862895
+ 0.02701425 0.02515899 0.02424236 0.02640174 0.02961604 0.03384476
+ 0.03848647 0.02054845 0.02888275 0.0232226  0.05284423]
+2,2_thing_dev_time_community,[0.01471468 0.03127769 0.44046361 0.01595646 0.03506484 0.01877769
+ 0.02708593 0.02519444 0.02425199 0.02636935 0.02978908 0.03380995
+ 0.03833675 0.02055444 0.02892296 0.02341817 0.05346296]
+2,2_thing_dev_time_community,[1.42702153e-308 3.14269530e-308 1.00000000e+000 1.56910296e-308
+ 3.34615582e-308 1.83169155e-308 2.76325495e-308 2.50309982e-308
+ 2.45440298e-308 2.56666120e-308 2.98909581e-308 3.48870825e-308
+ 3.69560569e-308 2.01579107e-308 2.78583642e-308 2.31445112e-308
+ 5.47252346e-308]
+2,2_thing_dev_time_community,[0.01154555 0.02498682 0.57369219 0.01261405 0.02736115 0.01479071
+ 0.02184191 0.02000071 0.01939928 0.02067926 0.02365352 0.02705211
+ 0.03017547 0.01621406 0.02257326 0.0184939  0.04323605]
+-1,-1_player_server_vehicle_issue,[0.01138705 0.02881068 0.03935503 0.01312671 0.02891616 0.01447208
+ 0.02452787 0.02375035 0.01921019 0.01734168 0.0390513  0.03767046
+ 0.02331276 0.01507486 0.0219678  0.02152008 0.04264279]
+-1,-1_player_server_vehicle_issue,[0.01832102 0.04611918 0.06059305 0.02100313 0.04550487 0.0231931
+ 0.03763765 0.03788204 0.02949683 0.02737159 0.0652546  0.05990492
+ 0.0365891  0.02390797 0.03485637 0.03504029 0.066406  ]
+2,2_thing_dev_time_community,[0.01656461 0.04424819 0.09291069 0.01627898 0.03509484 0.02209235
+ 0.03056203 0.02654934 0.02413551 0.02332051 0.03616442 0.03493214
+ 0.03041387 0.01928502 0.02835187 0.0283777  0.11408869]
+2,2_thing_dev_time_community,[0.01767293 0.04632427 0.10344503 0.01760602 0.03904362 0.023445
+ 0.03252024 0.02900324 0.02591916 0.0254261  0.03936966 0.0381771
+ 0.0333841  0.02095049 0.03121508 0.03025072 0.11358228]
+1,1_year_access_early_access_pc,[3.22387215e-308 1.00000000e+000 3.30579059e-308 1.87661193e-308
+ 2.46654951e-308 5.42029390e-308 3.68924903e-308 2.52013988e-308
+ 2.39265277e-308 1.91736466e-308 3.98905229e-308 2.88444294e-308
+ 2.21559583e-308 1.80768925e-308 2.28326519e-308 6.29786357e-308
+ 8.83574033e-308]
+-1,-1_player_server_vehicle_issue,[0.00851309 0.01498622 0.02296395 0.01384582 0.06755446 0.01027522
+ 0.01771363 0.03079782 0.01629052 0.02439335 0.01936949 0.02424022
+ 0.05747027 0.02010662 0.03967203 0.01236437 0.01967981]
+-1,-1_player_server_vehicle_issue,[0.01123883 0.01965971 0.02960432 0.01871093 0.08251247 0.01353687
+ 0.02359881 0.04234181 0.022134   0.0327859  0.02551118 0.03226378
+ 0.07771402 0.02739889 0.05314281 0.01628012 0.0255594 ]
+-1,-1_player_server_vehicle_issue,[0.01125305 0.01963952 0.03382281 0.01966082 0.03936597 0.01363276
+ 0.02446409 0.04193966 0.02762234 0.06490263 0.02407667 0.04477877
+ 0.06914435 0.03733906 0.05933001 0.01607283 0.02545411]
+-1,-1_player_server_vehicle_issue,[0.01137716 0.01984951 0.03464005 0.01987256 0.0399928  0.01377712
+ 0.02459733 0.04189188 0.02774863 0.06577626 0.02433934 0.04502532
+ 0.07191074 0.03762951 0.05954013 0.01626785 0.02577597]
+-1,-1_player_server_vehicle_issue,[0.0264027  0.20487861 0.02491693 0.01421817 0.01927459 0.0441608
+ 0.02594379 0.01897248 0.01739194 0.0145927  0.02919412 0.02080259
+ 0.01694037 0.01370546 0.01757408 0.0456192  0.06800706]
+-1,-1_player_server_vehicle_issue,[0.01539436 0.03113696 0.13496292 0.01948534 0.04948892 0.01934117
+ 0.03081879 0.03397948 0.02902879 0.03758918 0.03428627 0.04662099
+ 0.06293946 0.02740492 0.04127674 0.02404049 0.04912954]
+-1,-1_player_server_vehicle_issue,[0.01508875 0.0306362  0.14043541 0.01887348 0.04837523 0.01897571
+ 0.03008812 0.03268885 0.0281444  0.03584059 0.03368055 0.0446982
+ 0.05997432 0.02631661 0.03962507 0.02360338 0.04876886]
+-1,-1_player_server_vehicle_issue,[0.01486226 0.0279885  0.07157545 0.02138927 0.05351798 0.01836932
+ 0.03129032 0.03963887 0.03160615 0.05072491 0.03248782 0.05184055
+ 0.09468186 0.03368147 0.05091058 0.0222134  0.04014559]
+-1,-1_player_server_vehicle_issue,[0.01508926 0.02865071 0.07661197 0.02143996 0.05467944 0.01867673
+ 0.03151882 0.03954656 0.03146452 0.04908877 0.03318769 0.0517387
+ 0.09295478 0.03316906 0.05052593 0.0226907  0.04152965]
+11,11_railway_issue_stable_branch,[1.62217882e-308 3.14343213e-308 4.09817604e-308 2.63009754e-308
+ 3.59071859e-308 1.96895488e-308 4.11452706e-308 4.99537754e-308
+ 4.26514401e-308 3.58674439e-308 4.70318970e-308 1.00000000e+000
+ 4.04448803e-308 3.32663813e-308 3.80204270e-308 2.70565936e-308
+ 3.63206155e-308]
+11,11_railway_issue_stable_branch,[1.61851202e-308 3.13854534e-308 4.13612961e-308 2.60842957e-308
+ 3.59770670e-308 1.96348221e-308 4.07592354e-308 4.93503696e-308
+ 4.22511517e-308 3.58310021e-308 4.70706552e-308 1.00000000e+000
+ 4.05359995e-308 3.30690447e-308 3.79237309e-308 2.70550058e-308
+ 3.63749193e-308]
+13,13_infected_military_server_performance,[0.01245105 0.01807953 0.02154663 0.03663915 0.02588329 0.01457453
+ 0.02585543 0.05504889 0.03521903 0.06445663 0.02104486 0.03146268
+ 0.03661707 0.46161102 0.04128809 0.01578896 0.02004931]
+13,13_infected_military_server_performance,[0.01186272 0.01724083 0.02037832 0.03553231 0.02455301 0.01390229
+ 0.02482227 0.05369764 0.03373061 0.05954831 0.02004403 0.02989403
+ 0.03449166 0.40170992 0.03924671 0.01504101 0.0190814 ]
+11,11_railway_issue_stable_branch,[0.01455553 0.0279047  0.03580625 0.02443561 0.03394666 0.01760746
+ 0.03653719 0.04936277 0.0371579  0.03277547 0.04327578 0.4736373
+ 0.03772313 0.03084418 0.03595915 0.02410722 0.03223597]
+11,11_railway_issue_stable_branch,[0.01549004 0.02928945 0.03783328 0.02650621 0.03830616 0.01863873
+ 0.03763473 0.05617131 0.03801299 0.03567321 0.04696041 0.26473962
+ 0.04188699 0.03363807 0.04033086 0.02552373 0.0339886 ]
+2,2_thing_dev_time_community,[1.37777522e-308 2.86859445e-308 1.00000000e+000 1.53178634e-308
+ 3.44853869e-308 1.74263434e-308 2.53099475e-308 2.44751895e-308
+ 2.32539573e-308 2.61438825e-308 2.86957008e-308 3.38239795e-308
+ 3.82634622e-308 2.00491394e-308 2.85829024e-308 2.19974915e-308
+ 4.75303669e-308]
+1,1_year_access_early_access_pc,[0.03343496 0.35210599 0.04188199 0.02094726 0.029163   0.05417159
+ 0.04222791 0.02884743 0.02774406 0.02250351 0.04567331 0.03399936
+ 0.0262268  0.02084018 0.02668774 0.06494132 0.12860361]
+7,7_player_vehicle_change_server,[0.01560198 0.02722737 0.04446947 0.0280045  0.05238344 0.01895591
+ 0.03462304 0.06225132 0.03935228 0.09205224 0.03308621 0.06295759
+ 0.07759072 0.05291539 0.09113374 0.0221272  0.03504566]
+-1,-1_player_server_vehicle_issue,[0.012444   0.02170653 0.03518753 0.02232393 0.04116614 0.0151289
+ 0.02742028 0.04922251 0.03111989 0.07318819 0.02627324 0.04981065
+ 0.05992547 0.04218614 0.07344255 0.01761398 0.02791597]
+13,13_infected_military_server_performance,[1.16626303e-308 1.72285964e-308 2.08765261e-308 3.25149951e-308
+ 2.51033398e-308 1.37448030e-308 2.48850172e-308 5.34867385e-308
+ 3.42037278e-308 6.97095872e-308 1.99449317e-308 3.06246899e-308
+ 3.61802356e-308 1.00000000e+000 4.15654771e-308 1.48756892e-308
+ 1.93182443e-308]
+13,13_infected_military_server_performance,[0.00818934 0.01221708 0.01488918 0.02250827 0.01807033 0.00968188
+ 0.01773322 0.03932663 0.02420273 0.05119973 0.014157   0.02192822
+ 0.02627288 0.53610496 0.03044179 0.01049716 0.01377042]
+9,9_issue_player_community_server,[0.00874177 0.01398255 0.02115372 0.01620617 0.02295983 0.01055306
+ 0.01862374 0.02900408 0.02396587 0.38499306 0.01539821 0.02566045
+ 0.03652649 0.04078884 0.04481011 0.01141778 0.01728253]
+9,9_issue_player_community_server,[0.00915598 0.01467385 0.02235163 0.0168298  0.0241216  0.0110644
+ 0.01948873 0.03003626 0.02496864 0.32217149 0.01611705 0.02680662
+ 0.03842639 0.04166461 0.04688181 0.01196259 0.01818924]
+-1,-1_player_server_vehicle_issue,[0.01537596 0.04781667 0.04203439 0.01295383 0.02439977 0.02204599
+ 0.02585806 0.02004703 0.01871068 0.01709075 0.02666506 0.02400009
+ 0.02072907 0.01459231 0.02096394 0.02481348 0.18846281]
+9,9_issue_player_community_server,[1.14806480e-308 1.81093279e-308 2.66241753e-308 2.25263216e-308
+ 2.98058003e-308 1.37765460e-308 2.44194144e-308 4.04572514e-308
+ 3.20640826e-308 1.00000000e+000 2.02786693e-308 3.36731642e-308
+ 4.90968786e-308 6.47128138e-308 5.63637673e-308 1.49750404e-308
+ 2.20255440e-308]
+9,9_issue_player_community_server,[1.14409458e-308 1.80236130e-308 2.65100847e-308 2.24455093e-308
+ 2.95713347e-308 1.37235726e-308 2.42903587e-308 4.00593501e-308
+ 3.19553285e-308 1.00000000e+000 2.01717493e-308 3.34530472e-308
+ 4.88153886e-308 6.46473779e-308 5.54864785e-308 1.49139610e-308
+ 2.19069068e-308]
+9,9_issue_player_community_server,[0.00795166 0.01266938 0.01907862 0.01484186 0.02085607 0.00958472
+ 0.01685871 0.02652614 0.02172041 0.4534263  0.0139892  0.02321881
+ 0.03320492 0.03796251 0.04077685 0.01037276 0.01561635]
+9,9_issue_player_community_server,[0.00634256 0.01006809 0.01503046 0.01196494 0.01655346 0.00763694
+ 0.0134326  0.02139166 0.01737661 0.57089372 0.01113968 0.01844802
+ 0.0263418  0.03135739 0.03241306 0.00826141 0.01236405]
+9,9_issue_player_community_server,[0.01270572 0.01994235 0.02846744 0.02525287 0.03493431 0.01520017
+ 0.02643395 0.04896238 0.03314374 0.29306334 0.02272826 0.03674246
+ 0.05224226 0.06986066 0.07899882 0.01655413 0.02420253]
+9,9_issue_player_community_server,[0.01184462 0.01865631 0.02677917 0.02340227 0.03336075 0.01417206
+ 0.02459583 0.04608516 0.03047059 0.22502024 0.02134365 0.03440738
+ 0.04975819 0.06281332 0.07763508 0.01547686 0.02272005]
+-1,-1_player_server_vehicle_issue,[0.03796869 0.1101632  0.02866652 0.0182632  0.02499633 0.06368822
+ 0.02976029 0.0241027  0.0207674  0.01831311 0.03489817 0.02459396
+ 0.02101832 0.01729303 0.02271775 0.05155557 0.06950416]
+9,9_issue_player_community_server,[1.15743067e-308 1.83160427e-308 2.70536341e-308 2.22444991e-308
+ 3.03267402e-308 1.39141153e-308 2.45279837e-308 4.02132834e-308
+ 3.18032404e-308 1.00000000e+000 2.04033903e-308 3.37775528e-308
+ 4.84494936e-308 6.05489488e-308 5.98026478e-308 1.50806128e-308
+ 2.23946483e-308]
+9,9_issue_player_community_server,[1.14615237e-308 1.78655491e-308 2.57031513e-308 2.23935901e-308
+ 2.92169677e-308 1.37368168e-308 2.39111036e-308 3.98446302e-308
+ 3.11206391e-308 1.00000000e+000 1.98532040e-308 3.21827995e-308
+ 4.50914641e-308 6.40244851e-308 5.85222537e-308 1.47845277e-308
+ 2.16287625e-308]
+11,11_railway_issue_stable_branch,[0.01211914 0.02388481 0.0271949  0.01943226 0.02296573 0.01492377
+ 0.03416402 0.03433677 0.03556706 0.02404343 0.03237084 0.40988198
+ 0.02560485 0.02320052 0.02509769 0.0200161  0.02664561]
+11,11_railway_issue_stable_branch,[1.65339370e-308 3.23576628e-308 3.91639619e-308 2.66046118e-308
+ 3.31190809e-308 2.02370154e-308 4.46185715e-308 4.80567232e-308
+ 4.69033821e-308 3.44114901e-308 4.54890803e-308 1.00000000e+000
+ 3.73005257e-308 3.26463823e-308 3.58190719e-308 2.74402190e-308
+ 3.63527840e-308]
+9,9_issue_player_community_server,[0.00943246 0.01451345 0.02031412 0.01930075 0.02345456 0.01125944
+ 0.01962809 0.03402257 0.02592081 0.42717673 0.01623884 0.02606317
+ 0.03635416 0.06312636 0.04540044 0.01211267 0.01733793]
+9,9_issue_player_community_server,[0.00997437 0.01534011 0.02149243 0.02039502 0.02490821 0.01189715
+ 0.02067917 0.03605988 0.02723678 0.44520781 0.01721116 0.02762607
+ 0.03844336 0.06624438 0.04860696 0.01281632 0.0183264 ]
+9,9_issue_player_community_server,[0.010535   0.01612947 0.02215939 0.02227567 0.02632705 0.01254218
+ 0.02187587 0.04019747 0.02877818 0.30965157 0.01825074 0.02914793
+ 0.0401866  0.07911718 0.0516912  0.01353356 0.01913849]
+9,9_issue_player_community_server,[0.0105026  0.01612676 0.02229988 0.02196123 0.02639199 0.01252145
+ 0.02186053 0.03960411 0.02867295 0.37724786 0.01817323 0.02901328
+ 0.04060471 0.07563347 0.0518961  0.01349439 0.01920011]
+8,8_issue_server_fixed_experimental,[0.01380582 0.02378164 0.02307928 0.02448746 0.02029315 0.01784848
+ 0.06263998 0.03200466 0.32936912 0.02820646 0.02202848 0.0404745
+ 0.02427679 0.03020153 0.02484176 0.01835299 0.02616396]
+14,14_item_stable_player_branch,[0.01517409 0.02387086 0.03268697 0.0306903  0.04659158 0.01813234
+ 0.030548   0.06878115 0.03507219 0.11966187 0.02777095 0.04177737
+ 0.06124262 0.07172608 0.14543403 0.01984395 0.02898448]
+-1,-1_player_server_vehicle_issue,[0.01140696 0.01798666 0.02459078 0.02298644 0.03548483 0.01363323
+ 0.02276854 0.05220021 0.02583616 0.08328742 0.02098123 0.03133045
+ 0.04594953 0.05217691 0.11687498 0.01494692 0.02186753]
+-1,-1_player_server_vehicle_issue,[0.01614335 0.04041668 0.04577733 0.01672725 0.03264274 0.01987418
+ 0.02753075 0.0272696  0.02177709 0.02004007 0.07051221 0.04201762
+ 0.0265296  0.01798475 0.02468423 0.03590763 0.05018369]
+8,8_issue_server_fixed_experimental,[0.01514802 0.02799746 0.03052729 0.02406254 0.02448362 0.01980384
+ 0.06761014 0.03490011 0.31639614 0.03452066 0.0253184  0.04910141
+ 0.03037024 0.03311775 0.02957584 0.02069607 0.03243422]
+8,8_issue_server_fixed_experimental,[0.01567957 0.02879917 0.03142653 0.02520173 0.02535798 0.02043604
+ 0.06903361 0.03642955 0.36834007 0.03601026 0.02628182 0.05136458
+ 0.03153112 0.03476568 0.03069663 0.02142242 0.03324246]
+-1,-1_player_server_vehicle_issue,[0.01411013 0.02236122 0.02931741 0.02923618 0.04557231 0.01685849
+ 0.02829417 0.0756763  0.0309236  0.07688511 0.02664391 0.03891072
+ 0.05353725 0.05971683 0.18087422 0.01864456 0.02695722]
+-1,-1_player_server_vehicle_issue,[0.01119543 0.01768758 0.02323279 0.02304446 0.03577759 0.01337346
+ 0.02235434 0.05816738 0.02453388 0.06226349 0.02097278 0.03058785
+ 0.04231223 0.04775196 0.14135914 0.01474428 0.02132367]
+6,6_branch_experimental_server_issue,[1.89821624e-308 4.22027364e-308 3.07949217e-308 2.43570847e-308
+ 2.49771690e-308 2.72141049e-308 1.00000000e+000 3.40148050e-308
+ 6.22728334e-308 2.55563556e-308 2.93343886e-308 4.15755573e-308
+ 2.67836096e-308 2.56128887e-308 2.68999053e-308 2.68590718e-308
+ 4.74955411e-308]
+6,6_branch_experimental_server_issue,[1.92031132e-308 4.32518585e-308 3.07815767e-308 2.39615221e-308
+ 2.47329319e-308 2.77401780e-308 1.00000000e+000 3.33608651e-308
+ 6.13832657e-308 2.52801700e-308 2.93136054e-308 4.14101718e-308
+ 2.63109723e-308 2.51725016e-308 2.66598264e-308 2.71416374e-308
+ 4.86294464e-308]
+8,8_issue_server_fixed_experimental,[0.01459732 0.0270595  0.02906356 0.02309492 0.02335779 0.01913875
+ 0.06723469 0.03337341 0.32087612 0.03252929 0.02427421 0.0466486
+ 0.02879731 0.03137775 0.02814849 0.01992956 0.0313145 ]
+8,8_issue_server_fixed_experimental,[0.01462125 0.02701589 0.02890288 0.02333454 0.0234308  0.01915611
+ 0.06760775 0.03378881 0.36540004 0.03275132 0.02432523 0.04689699
+ 0.02885538 0.03174734 0.02837141 0.01993546 0.03120564]
+14,14_item_stable_player_branch,[0.01418186 0.02255553 0.0315638  0.02530808 0.04782626 0.01709833
+ 0.02709744 0.05331945 0.02898183 0.08055977 0.02561373 0.03608989
+ 0.05208812 0.04770359 0.33127473 0.01847227 0.02814788]
+14,14_item_stable_player_branch,[0.01410798 0.02239207 0.03117756 0.02535443 0.04720545 0.01700015
+ 0.02699627 0.05355964 0.02894007 0.08085381 0.02542825 0.03584434
+ 0.05171597 0.04814237 0.31425432 0.01835274 0.02787625]
+8,8_issue_server_fixed_experimental,[0.01532425 0.02543668 0.02781957 0.03079825 0.02578926 0.0192132
+ 0.05390967 0.04261905 0.33473171 0.04280623 0.02578453 0.05017625
+ 0.03296401 0.04781085 0.03340571 0.02033987 0.02826809]
+8,8_issue_server_fixed_experimental,[0.01585356 0.02622349 0.028289   0.03181741 0.02614783 0.01988712
+ 0.05616783 0.04311879 0.38779285 0.04261372 0.02644383 0.05096294
+ 0.03316774 0.04792089 0.03363555 0.02099651 0.02903543]
+8,8_issue_server_fixed_experimental,[1.40744676e-308 2.41199253e-308 2.56299952e-308 2.58386823e-308
+ 2.26216556e-308 1.79586156e-308 5.59872887e-308 3.56066065e-308
+ 1.00000000e+000 3.45647425e-308 2.32705754e-308 4.49502142e-308
+ 2.83061469e-308 3.65655591e-308 2.84238937e-308 1.87836840e-308
+ 2.69838761e-308]
+8,8_issue_server_fixed_experimental,[1.40587195e-308 2.40305533e-308 2.55367458e-308 2.60060692e-308
+ 2.26139380e-308 1.79063893e-308 5.53749640e-308 3.57868880e-308
+ 1.00000000e+000 3.46355077e-308 2.33108599e-308 4.52315939e-308
+ 2.82951177e-308 3.68155221e-308 2.84452453e-308 1.87745632e-308
+ 2.68416994e-308]
+1,1_year_access_early_access_pc,[0.06665841 0.19513667 0.04326938 0.02814692 0.03656035 0.12244488
+ 0.04628097 0.03613603 0.03239003 0.02787399 0.05275976 0.03774392
+ 0.03152481 0.02643781 0.03385927 0.08499723 0.09777956]
+8,8_issue_server_fixed_experimental,[0.01547808 0.02552534 0.02787997 0.03086876 0.02567863 0.01939215
+ 0.05365344 0.04178564 0.34163328 0.04269583 0.02573391 0.04938362
+ 0.03279837 0.04783036 0.03311457 0.02044783 0.02831791]
+8,8_issue_server_fixed_experimental,[0.01561474 0.02576199 0.02809968 0.03097159 0.02580627 0.01957715
+ 0.05427064 0.04183225 0.36285139 0.04277487 0.02589737 0.04962067
+ 0.03291569 0.04777326 0.03323603 0.02061715 0.02858318]
+8,8_issue_server_fixed_experimental,[0.01472549 0.02423997 0.02658858 0.03016266 0.02489217 0.01840145
+ 0.0505846  0.04140319 0.2563049  0.04199652 0.02473616 0.04769588
+ 0.03195125 0.04776059 0.03237823 0.01948515 0.02688453]
+8,8_issue_server_fixed_experimental,[0.01462195 0.02398015 0.02633738 0.02992697 0.02463196 0.01825516
+ 0.0496628  0.04074429 0.2451463  0.04179383 0.02445649 0.04690747
+ 0.03163213 0.04766482 0.03204075 0.01930457 0.02657872]
+0,0_livonia_survival_survive_dlc,[0.34983937 0.04513551 0.01565915 0.01513155 0.01480903 0.0537624
+ 0.01903532 0.01608197 0.01481087 0.01232147 0.02164989 0.01622946
+ 0.01320599 0.01242665 0.01435832 0.03447498 0.02339328]
+4,4_status_renderer_report_week,[1.34506110e-308 2.29620509e-308 3.44398677e-308 1.89839992e-308
+ 1.00000000e+000 1.59549419e-308 2.33620338e-308 3.72348913e-308
+ 2.08868988e-308 2.99285865e-308 3.06414658e-308 3.19342026e-308
+ 5.26470712e-308 2.47505957e-308 5.57508124e-308 1.95194161e-308
+ 3.02595093e-308]
+4,4_status_renderer_report_week,[0.00619569 0.01052389 0.01582595 0.00882481 0.71158626 0.00734264
+ 0.01078141 0.01726115 0.00967259 0.01399703 0.01399036 0.01468006
+ 0.02509736 0.01157613 0.02594347 0.00895674 0.01383098]
+2,2_thing_dev_time_community,[0.01479982 0.03525251 0.19013057 0.01605439 0.03199769 0.01903241
+ 0.02949949 0.02593843 0.0256233  0.02465639 0.034814   0.04078599
+ 0.03302062 0.01992777 0.02708958 0.02591135 0.06096573]
+4,4_status_renderer_report_week,[1.35198592e-308 2.30576162e-308 3.43746636e-308 1.89879774e-308
+ 1.00000000e+000 1.60144911e-308 2.33252889e-308 3.73242016e-308
+ 2.08490153e-308 2.97909363e-308 3.10417961e-308 3.21733142e-308
+ 5.10183071e-308 2.46408352e-308 5.62548895e-308 1.96616621e-308
+ 3.03240482e-308]
+4,4_status_renderer_report_week,[1.34864640e-308 2.30217531e-308 3.46269478e-308 1.88965809e-308
+ 1.00000000e+000 1.59804864e-308 2.32740819e-308 3.70317289e-308
+ 2.08314141e-308 2.98387833e-308 3.09411447e-308 3.21571707e-308
+ 5.13045684e-308 2.45896131e-308 5.61188248e-308 1.96259973e-308
+ 3.03494878e-308]
+4,4_status_renderer_report_week,[0.01043902 0.01707687 0.02356951 0.0152475  0.42930983 0.01222268
+ 0.01752282 0.02895164 0.01561966 0.02212147 0.02270782 0.0227564
+ 0.03883486 0.01925037 0.03978651 0.01482954 0.02164388]
+4,4_status_renderer_report_week,[0.0094323  0.01544025 0.021375   0.01371055 0.52366549 0.01104837
+ 0.01580747 0.02607653 0.01409682 0.02002398 0.02052145 0.02058973
+ 0.03483139 0.01734603 0.03644581 0.01339595 0.01960818]
+12,12_dev_time_player_still,[0.00858777 0.01459688 0.02469565 0.01498655 0.03700352 0.01028338
+ 0.01735311 0.02959273 0.0178434  0.03354795 0.0180232  0.02504223
+ 0.47249593 0.0255748  0.03532195 0.01217716 0.01877907]
+12,12_dev_time_player_still,[0.00814312 0.01382996 0.02352845 0.01412915 0.03504856 0.00974692
+ 0.01636085 0.02758324 0.01679132 0.0313625  0.01706125 0.0235308
+ 0.53589078 0.02394379 0.03289154 0.01154794 0.01780426]
+6,6_branch_experimental_server_issue,[0.01988691 0.04504561 0.03030531 0.0266997  0.02892673 0.0282248
+ 0.13218882 0.0422744  0.04618007 0.02602673 0.03350238 0.04228562
+ 0.02846213 0.02657049 0.03086368 0.02882848 0.0493909 ]
+-1,-1_player_server_vehicle_issue,[0.02717854 0.20315845 0.02438392 0.01630399 0.02030951 0.05406296
+ 0.03334231 0.02196993 0.02060981 0.01627868 0.02829957 0.02296425
+ 0.0180812  0.01551413 0.01989614 0.0377563  0.06235383]
+-1,-1_player_server_vehicle_issue,[0.02738316 0.05649602 0.0182611  0.01366283 0.01568553 0.02907625
+ 0.01945889 0.01662347 0.01434687 0.01202863 0.03462275 0.01884757
+ 0.01385397 0.01187091 0.0142603  0.23454729 0.02883125]
+11,11_railway_issue_stable_branch,[0.00697941 0.01365379 0.01626209 0.01121899 0.01366182 0.00854891
+ 0.01899499 0.01993078 0.02006963 0.01428791 0.01900441 0.70096312
+ 0.01540153 0.01364389 0.01479514 0.01158234 0.01528824]
+4,4_status_renderer_report_week,[1.36974678e-308 2.30036607e-308 3.22306054e-308 1.92317121e-308
+ 1.00000000e+000 1.61593617e-308 2.31132791e-308 3.74843435e-308
+ 2.04301971e-308 2.85739985e-308 3.08246120e-308 3.07974861e-308
+ 4.75079697e-308 2.42842766e-308 5.41914673e-308 1.97414118e-308
+ 2.97380673e-308]
+4,4_status_renderer_report_week,[1.34951168e-308 2.25565613e-308 3.20101045e-308 1.92031275e-308
+ 1.00000000e+000 1.59166969e-308 2.29220275e-308 3.72848111e-308
+ 2.03776048e-308 2.89496503e-308 2.99868668e-308 3.04145864e-308
+ 4.95786678e-308 2.45425120e-308 5.44632976e-308 1.93516964e-308
+ 2.91497823e-308]
+1,1_year_access_early_access_pc,[2.96843304e-308 1.00000000e+000 3.60919892e-308 1.98396508e-308
+ 2.60518315e-308 4.89602060e-308 4.35993659e-308 2.74774520e-308
+ 2.68789329e-308 2.06601584e-308 4.24541582e-308 3.27028635e-308
+ 2.37639737e-308 1.94123837e-308 2.45428401e-308 5.84041409e-308
+ 1.21490970e-307]
+1,1_year_access_early_access_pc,[3.81129556e-308 1.00000000e+000 2.66034901e-308 2.08815556e-308
+ 2.18181069e-308 6.64674336e-308 4.03042330e-308 2.55656955e-308
+ 2.51644693e-308 1.84319957e-308 3.76485968e-308 2.85869038e-308
+ 2.04102095e-308 1.83107983e-308 2.15003086e-308 6.48645778e-308
+ 5.49832210e-308]
+5,5_zombie_survival_zombie_survival_best,[0.06095149 0.10217049 0.02132945 0.01749014 0.01881529 0.28617939
+ 0.0279387  0.0204341  0.01972962 0.0157445  0.02665065 0.02100871
+ 0.01693372 0.01547241 0.01850766 0.04253135 0.03784098]
+4,4_status_renderer_report_week,[0.01472682 0.02603181 0.03821713 0.01954569 0.33456389 0.01759669
+ 0.02524558 0.03790873 0.0219741  0.02925238 0.03491271 0.03421933
+ 0.0484833  0.02444683 0.05218451 0.02190107 0.03498578]
+4,4_status_renderer_report_week,[0.01351961 0.0235725  0.03315078 0.01800091 0.31837318 0.01611112
+ 0.02286523 0.03491581 0.01982781 0.02635901 0.03145226 0.03041102
+ 0.04270379 0.02227821 0.04810657 0.0199186  0.03124386]
+-1,-1_player_server_vehicle_issue,[0.02658563 0.10397636 0.02784689 0.01953574 0.02391718 0.0496751
+ 0.05279728 0.02653624 0.03043834 0.02024642 0.028895   0.02884493
+ 0.02129873 0.01925309 0.02411755 0.03306809 0.06520897]
+4,4_status_renderer_report_week,[0.00204638 0.00335367 0.00463685 0.00291957 0.91688414 0.00239743
+ 0.00339303 0.00554911 0.00301753 0.0042765  0.00446149 0.00443973
+ 0.00719515 0.00367884 0.00797149 0.00290795 0.00427243]
+4,4_status_renderer_report_week,[1.34150434e-308 2.19683791e-308 3.04295992e-308 1.91143956e-308
+ 1.00000000e+000 1.57126059e-308 2.22112738e-308 3.63013269e-308
+ 1.97720554e-308 2.80782761e-308 2.92268403e-308 2.91069511e-308
+ 4.70992264e-308 2.41136405e-308 5.25124093e-308 1.90535625e-308
+ 2.79944446e-308]
+4,4_status_renderer_report_week,[0.00976433 0.01757998 0.02708549 0.01503266 0.0914468  0.01186251
+ 0.01983424 0.03247726 0.01774798 0.02526819 0.02252558 0.02680934
+ 0.0547645  0.02085571 0.0414716  0.01434819 0.02358421]
+4,4_status_renderer_report_week,[0.00990529 0.01779752 0.0273725  0.01523945 0.09462335 0.01202909
+ 0.02004826 0.032824   0.01793977 0.02558534 0.02278145 0.02701549
+ 0.05540807 0.02112715 0.04214082 0.01453687 0.0238576 ]
+4,4_status_renderer_report_week,[0.01134114 0.02174064 0.03564504 0.01462471 0.07489846 0.01405169
+ 0.02145727 0.02720871 0.01816942 0.02243212 0.02542516 0.02613123
+ 0.04145403 0.01857524 0.03328679 0.01707001 0.03175713]
+4,4_status_renderer_report_week,[0.01158401 0.02215961 0.03616758 0.01495574 0.07887433 0.01433722
+ 0.02185801 0.02788329 0.01852109 0.02292578 0.02604034 0.02672145
+ 0.04233343 0.01898869 0.03421098 0.01743543 0.03228924]
+-1,-1_player_server_vehicle_issue,[0.00835702 0.01340291 0.01859151 0.01395735 0.03842381 0.0100426
+ 0.01472269 0.02965059 0.01437881 0.03026908 0.01570408 0.01950318
+ 0.03022427 0.02193512 0.32139461 0.01106832 0.0169754 ]
+14,14_item_stable_player_branch,[0.00910547 0.01461844 0.02015796 0.01536786 0.04098515 0.01094739
+ 0.01633227 0.03325981 0.01604396 0.03408788 0.01713729 0.02157385
+ 0.03304108 0.02440705 0.51114156 0.01205988 0.01846823]
+14,14_item_stable_player_branch,[1.46666314e-308 2.35790570e-308 3.12401773e-308 2.66777517e-308
+ 5.54599288e-308 1.76664185e-308 2.80208617e-308 6.34719566e-308
+ 2.83479913e-308 6.19805470e-308 2.75578384e-308 3.70022696e-308
+ 5.21948616e-308 4.52379203e-308 1.00000000e+000 1.93733900e-308
+ 2.92248729e-308]
+14,14_item_stable_player_branch,[1.45417557e-308 2.32580533e-308 3.10702070e-308 2.64295797e-308
+ 5.68644665e-308 1.74613494e-308 2.73699411e-308 6.19586298e-308
+ 2.76857780e-308 6.13206310e-308 2.73706966e-308 3.63311931e-308
+ 5.30197124e-308 4.47462797e-308 1.00000000e+000 1.92085213e-308
+ 2.88272389e-308]
+14,14_item_stable_player_branch,[0.00704436 0.01129635 0.01559659 0.01191089 0.03103697 0.00846183
+ 0.01263622 0.02582128 0.01248275 0.02676069 0.01328091 0.01684595
+ 0.02531132 0.01901626 0.64266101 0.00933239 0.01424679]
+14,14_item_stable_player_branch,[1.44374729e-308 2.30882657e-308 3.18590835e-308 2.47164241e-308
+ 6.12324293e-308 1.73347928e-308 2.60906944e-308 5.37868720e-308
+ 2.60299374e-308 5.72954723e-308 2.70940492e-308 3.48342053e-308
+ 5.22387178e-308 4.02402205e-308 1.00000000e+000 1.90798537e-308
+ 2.90276847e-308]
+-1,-1_player_server_vehicle_issue,[0.01146725 0.01886088 0.02541025 0.01836365 0.06110856 0.01381189
+ 0.02028939 0.04114429 0.01905203 0.03446523 0.02276678 0.02739773
+ 0.03941766 0.02685559 0.1539093  0.01555974 0.0239652 ]
+-1,-1_player_server_vehicle_issue,[0.01114664 0.01823782 0.02469827 0.01788575 0.05842551 0.01340583
+ 0.0196282  0.03976056 0.01855599 0.03414328 0.02200179 0.02657663
+ 0.03845508 0.0263798  0.16681149 0.01507876 0.02314003]
+1,1_year_access_early_access_pc,[0.042689   0.29958409 0.03525432 0.02299961 0.0290566  0.07769072
+ 0.04278554 0.03036058 0.02768664 0.02240598 0.04535394 0.03260243
+ 0.02556658 0.02145209 0.02721121 0.07167761 0.0851864 ]
+3,3_action_animation_item_fixed,[0.02020667 0.02722838 0.02235296 0.31692894 0.0263675  0.02251682
+ 0.03458767 0.06333676 0.03366087 0.03007982 0.03066615 0.03388042
+ 0.02823856 0.04007641 0.03193184 0.02503446 0.02528226]
+3,3_action_animation_item_fixed,[0.02042396 0.02737636 0.02255065 0.36969809 0.02661186 0.02270235
+ 0.0346132  0.06341708 0.03384604 0.03043278 0.03086303 0.03404731
+ 0.02851699 0.04059698 0.0322306  0.02522646 0.02543095]
+11,11_railway_issue_stable_branch,[0.01471395 0.02856308 0.03687085 0.02334543 0.03365162 0.01773316
+ 0.03504308 0.04496524 0.03467771 0.03085007 0.04655649 0.40656039
+ 0.03586353 0.02861783 0.0342733  0.02513174 0.03294491]
+11,11_railway_issue_stable_branch,[0.01619603 0.03142457 0.04074631 0.02546416 0.03738933 0.01947203
+ 0.03778802 0.04891279 0.03710274 0.03354197 0.052474   0.35620222
+ 0.03932761 0.03103847 0.03757826 0.02786157 0.03627923]
+-1,-1_player_server_vehicle_issue,[0.08699999 0.0746383  0.01905115 0.01745177 0.01711197 0.12623129
+ 0.02496436 0.0192025  0.01820345 0.01472747 0.02493793 0.01953348
+ 0.01571502 0.01476835 0.01707318 0.03888864 0.03054222]
+14,14_item_stable_player_branch,[0.01288999 0.02029436 0.02823774 0.02261341 0.04424095 0.01549922
+ 0.02387374 0.04663231 0.02517788 0.06667738 0.02304117 0.03144387
+ 0.04581193 0.04121144 0.38586914 0.01669374 0.02529443]
+14,14_item_stable_player_branch,[0.0126146  0.01984984 0.0275293  0.02215284 0.04330508 0.015168
+ 0.02335329 0.04577646 0.02459097 0.06464728 0.02253023 0.03067714
+ 0.04466287 0.04027281 0.38253315 0.0163283  0.02472429]
+6,6_branch_experimental_server_issue,[1.87577986e-308 3.92875594e-308 2.94733982e-308 2.60880082e-308
+ 2.52038182e-308 2.64308670e-308 1.00000000e+000 3.66139922e-308
+ 6.88740095e-308 2.65034296e-308 2.93275054e-308 4.31825732e-308
+ 2.71607624e-308 2.72054172e-308 2.79379573e-308 2.61669024e-308
+ 4.34444507e-308]
+6,6_branch_experimental_server_issue,[1.89894757e-308 4.09729973e-308 3.02299978e-308 2.61068306e-308
+ 2.58582483e-308 2.68160964e-308 1.00000000e+000 3.73123323e-308
+ 6.44411899e-308 2.64699485e-308 3.03510448e-308 4.39374066e-308
+ 2.76415473e-308 2.70732139e-308 2.82863383e-308 2.69330826e-308
+ 4.54736305e-308]
+-1,-1_player_server_vehicle_issue,[0.03040363 0.19719887 0.02730131 0.01837576 0.02331516 0.06149789
+ 0.03622272 0.02483379 0.02323955 0.01882338 0.03018482 0.02540143
+ 0.02050217 0.01777094 0.02320572 0.03740038 0.06545491]
+14,14_item_stable_player_branch,[1.40860961e-308 2.23500651e-308 3.11689306e-308 2.47219787e-308
+ 5.37914930e-308 1.68854992e-308 2.58556533e-308 5.30989704e-308
+ 2.66999667e-308 6.52514501e-308 2.60702014e-308 3.49494565e-308
+ 5.18953095e-308 4.30262126e-308 1.00000000e+000 1.84968766e-308
+ 2.79244498e-308]
+14,14_item_stable_player_branch,[1.40466498e-308 2.22307909e-308 3.10979515e-308 2.44233475e-308
+ 5.40528418e-308 1.68262620e-308 2.55171485e-308 5.17427941e-308
+ 2.62764987e-308 6.38646200e-308 2.59133192e-308 3.44303770e-308
+ 5.13579283e-308 4.21474065e-308 1.00000000e+000 1.84199430e-308
+ 2.78018812e-308]
+5,5_zombie_survival_zombie_survival_best,[0.05293726 0.06761661 0.01838021 0.01485495 0.01619094 0.38068084
+ 0.02327068 0.01732218 0.01689181 0.01375814 0.02166437 0.0176663
+ 0.01460324 0.01340584 0.01609576 0.03245811 0.03193138]
+-1,-1_player_server_vehicle_issue,[0.01240365 0.02178235 0.03293939 0.02263512 0.04069685 0.01507945
+ 0.02776301 0.05444351 0.03071059 0.0608799  0.02692227 0.05156928
+ 0.05243452 0.04073052 0.07596257 0.0176589  0.02764986]
+7,7_player_vehicle_change_server,[0.01571982 0.02757901 0.04199257 0.02868129 0.05212812 0.01910227
+ 0.03537146 0.06886766 0.03929203 0.07865546 0.03410706 0.06543072
+ 0.06757562 0.0517988  0.09654982 0.02237984 0.03504662]
+7,7_player_vehicle_change_server,[0.01507348 0.0252439  0.0368209  0.02896013 0.05060809 0.01815244
+ 0.03229902 0.07003948 0.03651867 0.09263689 0.0308346  0.05274291
+ 0.06670586 0.05773368 0.12320067 0.02077334 0.03143403]
+7,7_player_vehicle_change_server,[0.01505487 0.02513115 0.03638868 0.02902477 0.05016883 0.01812394
+ 0.03218013 0.07042829 0.03642143 0.09291096 0.03063652 0.05208928
+ 0.06549428 0.05811436 0.12569632 0.02069275 0.0312215 ]
+9,9_issue_player_community_server,[0.01212    0.01891321 0.0268056  0.02409751 0.03394287 0.01446823
+ 0.02479668 0.04719746 0.03052443 0.21377205 0.02162324 0.03415911
+ 0.04941886 0.06532827 0.08118137 0.01574201 0.02293176]
+9,9_issue_player_community_server,[0.01202718 0.01879248 0.02669285 0.02393893 0.03346487 0.01436461
+ 0.02472586 0.0466865  0.03062779 0.23177055 0.02146562 0.03413609
+ 0.04925715 0.06564848 0.07829656 0.01563332 0.0227855 ]
+-1,-1_player_server_vehicle_issue,[0.03431352 0.11567159 0.02851728 0.02292523 0.02672234 0.05891903
+ 0.04702342 0.03025324 0.02840793 0.02066252 0.03954761 0.03204706
+ 0.02285044 0.02042508 0.02543193 0.05039514 0.06219228]
+4,4_status_renderer_report_week,[0.00897435 0.01451195 0.01993849 0.01294072 0.44714427 0.01047041
+ 0.01474519 0.02413057 0.01316957 0.01872804 0.0192285  0.01908238
+ 0.03189732 0.01626047 0.03403365 0.01266133 0.01833317]
+4,4_status_renderer_report_week,[0.00919363 0.01486577 0.0203609  0.01329018 0.42683873 0.01072451
+ 0.01511941 0.02480656 0.0134962  0.01915576 0.01971972 0.01955149
+ 0.03267793 0.01667265 0.03472109 0.01297568 0.01875851]
+-1,-1_player_server_vehicle_issue,[0.01127491 0.02308771 0.04098239 0.0131387  0.04860581 0.01424988
+ 0.02109345 0.0230081  0.01753034 0.01954235 0.02469009 0.02417215
+ 0.03248032 0.01617996 0.02702952 0.01736497 0.03687067]
+-1,-1_player_server_vehicle_issue,[0.01122126 0.02299962 0.04082055 0.01306257 0.04807045 0.0141871
+ 0.02099591 0.02285458 0.01743921 0.0194119  0.0245484  0.02402084
+ 0.03223344 0.01607794 0.02681342 0.01728505 0.03676603]
+1,1_year_access_early_access_pc,[0.02644358 0.44159327 0.03402262 0.01840733 0.02379484 0.04215896
+ 0.04169615 0.02548539 0.02553472 0.01920091 0.04026464 0.03154376
+ 0.02205621 0.01805702 0.02253287 0.05447443 0.1115302 ]
+-1,-1_player_server_vehicle_issue,[0.02116877 0.17881485 0.02912329 0.01400117 0.01981385 0.03313488
+ 0.028821   0.01955098 0.01877453 0.0152299  0.03093392 0.02327633
+ 0.01789156 0.01405389 0.01806417 0.04164003 0.09711194]
+1,1_year_access_early_access_pc,[0.0677203  0.17091545 0.04200616 0.02684757 0.03417086 0.1087359
+ 0.04348357 0.03395692 0.03091122 0.02644868 0.05289127 0.0366897
+ 0.02995011 0.02512388 0.03158947 0.09661877 0.08843719]
+-1,-1_player_server_vehicle_issue,[0.02990585 0.19700613 0.03033941 0.01674546 0.02315692 0.04849076
+ 0.0304373  0.02246214 0.02051127 0.01741997 0.03433299 0.02458709
+ 0.02034063 0.0162836  0.02097766 0.05074959 0.08478456]
+-1,-1_player_server_vehicle_issue,[0.00946833 0.01785088 0.0216184  0.01478764 0.02341868 0.01221229
+ 0.02852052 0.03223183 0.02808385 0.02875099 0.01784222 0.03078869
+ 0.02434897 0.02252349 0.03698044 0.01300336 0.0227805 ]
+-1,-1_player_server_vehicle_issue,[0.009248   0.01758707 0.02129042 0.01424181 0.02268808 0.01196692
+ 0.02810262 0.03065443 0.02741536 0.02745335 0.01739038 0.0298642
+ 0.02351173 0.02148557 0.03507144 0.01272036 0.0225776 ]
+-1,-1_player_server_vehicle_issue,[0.00946114 0.01764194 0.02085535 0.01526317 0.02292834 0.01217389
+ 0.02909695 0.03392886 0.02898981 0.02886343 0.01782161 0.03115633
+ 0.02411617 0.02334563 0.03669684 0.01296444 0.02206385]
+-1,-1_player_server_vehicle_issue,[0.00947298 0.01760371 0.02084033 0.01534758 0.02292258 0.01217952
+ 0.02908989 0.03407304 0.02920155 0.02923471 0.01780403 0.03121124
+ 0.02421782 0.02361574 0.03692234 0.01296078 0.02197898]
+9,9_issue_player_community_server,[1.15030435e-308 1.79939674e-308 2.57470525e-308 2.32967263e-308
+ 2.94959180e-308 1.37784916e-308 2.44723886e-308 4.22243243e-308
+ 3.23151574e-308 1.00000000e+000 2.02247547e-308 3.32909611e-308
+ 4.77006069e-308 7.28493013e-308 5.63947729e-308 1.49414493e-308
+ 2.16860816e-308]
+9,9_issue_player_community_server,[0.00978444 0.01556574 0.02286263 0.01949909 0.02565573 0.01177238
+ 0.02132634 0.03570971 0.02812466 0.48394941 0.01745585 0.029302
+ 0.04414886 0.05730988 0.04688427 0.012835   0.01895166]
+13,13_infected_military_server_performance,[1.13862134e-308 1.67120370e-308 2.03356126e-308 3.08489442e-308
+ 2.35662986e-308 1.34153443e-308 2.41604825e-308 4.65450044e-308
+ 3.43780778e-308 6.86975892e-308 1.90899221e-308 2.94975503e-308
+ 3.41357371e-308 1.00000000e+000 3.81283704e-308 1.44261758e-308
+ 1.87021240e-308]
+13,13_infected_military_server_performance,[0.0062889  0.0092556  0.01134247 0.01671512 0.01298576 0.00741466
+ 0.01338713 0.02511719 0.01931928 0.03922888 0.01055824 0.01650522
+ 0.01892994 0.56656913 0.0209602  0.00798016 0.0103761 ]
+-1,-1_player_server_vehicle_issue,[0.01003431 0.01507591 0.0195225  0.02394137 0.02297407 0.01188854
+ 0.02074831 0.0417284  0.02811186 0.10713445 0.01718737 0.02689229
+ 0.03508051 0.15447553 0.04148972 0.01281935 0.017404  ]
+13,13_infected_military_server_performance,[0.00995366 0.01491417 0.01914918 0.02404305 0.02280548 0.01178446
+ 0.02098883 0.04140908 0.02871332 0.09765921 0.01703882 0.02680214
+ 0.0341799  0.17506954 0.04006989 0.01270555 0.01715415]
+4,4_status_renderer_report_week,[0.0127891  0.02188167 0.03458177 0.01720686 0.34225426 0.01516307
+ 0.0216057  0.03274845 0.01948445 0.02809057 0.02914816 0.03035278
+ 0.04584002 0.02252198 0.05247139 0.01870595 0.02928734]
+4,4_status_renderer_report_week,[0.01282408 0.02198139 0.03470802 0.01723553 0.34453417 0.01521381
+ 0.02169051 0.03284811 0.01954019 0.02810143 0.02927067 0.03046013
+ 0.0458068  0.02253892 0.05250554 0.01877044 0.02945122]
+1,1_year_access_early_access_pc,[0.02530737 0.18832425 0.04072489 0.01943698 0.02697385 0.04129434
+ 0.04917769 0.02816974 0.02906942 0.02189862 0.03855399 0.03443605
+ 0.02515958 0.02007595 0.02579203 0.04432407 0.28324028]
+15,15_streamer_video_sniper_stream,[0.01506753 0.02895554 0.0133171  0.00888696 0.01074668 0.01597161
+ 0.01244066 0.01107167 0.00953907 0.00822133 0.0265424  0.01323527
+ 0.00964795 0.00800367 0.00961378 0.71407129 0.01935051]
+15,15_streamer_video_sniper_stream,[3.17045206e-308 5.98578520e-308 2.71167684e-308 1.84620421e-308
+ 2.22227603e-308 3.32515130e-308 2.55720123e-308 2.29517002e-308
+ 1.96075848e-308 1.69369748e-308 5.52498435e-308 2.71861708e-308
+ 1.98489973e-308 1.65269762e-308 1.98818193e-308 1.00000000e+000
+ 3.96059564e-308]
+-1,-1_player_server_vehicle_issue,[0.01124948 0.02378248 0.04754572 0.01264245 0.04157907 0.0143315
+ 0.02106164 0.02163046 0.01749954 0.01895124 0.02438085 0.02399872
+ 0.03040577 0.01556366 0.02517338 0.01750765 0.04027261]
+-1,-1_player_server_vehicle_issue,[0.0112148  0.02368327 0.04738786 0.01255321 0.04096085 0.01429054
+ 0.02090663 0.02139342 0.01737091 0.0187912  0.02415161 0.02371957
+ 0.03007582 0.01543861 0.02490225 0.01742898 0.04011731]
+10,10_friend_player_head_find,[0.01719612 0.04453234 0.04069064 0.01944622 0.03236749 0.02163775
+ 0.03486284 0.03383448 0.02644385 0.02259584 0.06954052 0.05482863
+ 0.02782955 0.02069655 0.02835609 0.03498885 0.05083463]
+-1,-1_player_server_vehicle_issue,[0.01647527 0.04321068 0.03806046 0.01860979 0.0309807  0.02082204
+ 0.03392362 0.032499   0.02529058 0.02146237 0.06475937 0.05184209
+ 0.02636715 0.01971774 0.02707243 0.0332286  0.04895373]
+11,11_railway_issue_stable_branch,[0.01429267 0.02711249 0.04546239 0.02309547 0.03817036 0.01736151
+ 0.0351604  0.04496184 0.03908415 0.04207119 0.03712652 0.16321675
+ 0.05017655 0.03425645 0.04076015 0.0227515  0.03401648]
+-1,-1_player_server_vehicle_issue,[0.01389502 0.02621124 0.04427854 0.02254279 0.03757925 0.01686442
+ 0.03393381 0.04400148 0.03792927 0.04202454 0.03575326 0.14654062
+ 0.04995224 0.03386474 0.04039497 0.02200324 0.03294421]
+15,15_streamer_video_sniper_stream,[3.15536990e-308 6.24180858e-308 2.76505923e-308 1.87063206e-308
+ 2.24869680e-308 3.37027424e-308 2.63098101e-308 2.33787673e-308
+ 2.00667350e-308 1.71991253e-308 5.69772687e-308 2.79531972e-308
+ 2.01288992e-308 1.67741568e-308 2.01892781e-308 1.00000000e+000
+ 4.06556161e-308]
+15,15_streamer_video_sniper_stream,[3.16005675e-308 6.24626989e-308 2.77131507e-308 1.88754434e-308
+ 2.26555144e-308 3.37630336e-308 2.64754040e-308 2.36345220e-308
+ 2.02019412e-308 1.73121837e-308 5.84428333e-308 2.82743766e-308
+ 2.02365859e-308 1.68966000e-308 2.03640628e-308 1.00000000e+000
+ 4.07344216e-308]
+1,1_year_access_early_access_pc,[0.05105428 0.24557421 0.03860225 0.02400753 0.02978851 0.08478064
+ 0.04267397 0.03078842 0.02912451 0.02366795 0.04979725 0.03492673
+ 0.02676506 0.0225322  0.02795077 0.09583042 0.08351831]
+-1,-1_player_server_vehicle_issue,[0.0357831  0.12315752 0.02302823 0.01792497 0.02129106 0.06994973
+ 0.03034022 0.02299158 0.02019895 0.01658666 0.03026942 0.02288248
+ 0.01828672 0.01614981 0.0205985  0.0417673  0.04759707]
+-1,-1_player_server_vehicle_issue,[0.0419723  0.14736139 0.02693532 0.02095292 0.02472147 0.08281867
+ 0.03547418 0.0268397  0.02357432 0.01938307 0.03526311 0.02666538
+ 0.02136304 0.01887589 0.02403045 0.0490045  0.0556524 ]
+-1,-1_player_server_vehicle_issue,[0.01141912 0.01863851 0.02239018 0.02716472 0.03711427 0.01343641
+ 0.02458206 0.09893346 0.02469742 0.03322724 0.02653035 0.03750099
+ 0.04381146 0.0375577  0.04307049 0.01642673 0.02133438]
+-1,-1_player_server_vehicle_issue,[0.01445839 0.02357234 0.02840106 0.03432773 0.04740973 0.01700714
+ 0.03109786 0.12550733 0.03130246 0.0424314  0.03352576 0.04749659
+ 0.05586833 0.04785259 0.05520254 0.02077367 0.02701073]
+15,15_streamer_video_sniper_stream,[0.01706389 0.03257493 0.01502758 0.01004464 0.0121481  0.0180463
+ 0.01402896 0.01251399 0.0107683  0.00929064 0.03004325 0.01495127
+ 0.01089559 0.00904434 0.01087    0.68338097 0.02182523]
+15,15_streamer_video_sniper_stream,[0.02079696 0.04061908 0.019025   0.01262323 0.01529581 0.02223007
+ 0.01774018 0.01581161 0.01361221 0.01170512 0.03897728 0.01908514
+ 0.01373856 0.01138998 0.0136913  0.59049083 0.02745532]
+13,13_infected_military_server_performance,[1.14932870e-308 1.68980340e-308 2.05935943e-308 3.15190460e-308
+ 2.45581477e-308 1.35256412e-308 2.42306856e-308 5.01442049e-308
+ 3.34535906e-308 7.05644129e-308 1.94925023e-308 2.98380545e-308
+ 3.55200130e-308 1.00000000e+000 4.04090653e-308 1.46069639e-308
+ 1.89588712e-308]
+13,13_infected_military_server_performance,[1.14713549e-308 1.68661641e-308 2.06649300e-308 3.11218754e-308
+ 2.48602318e-308 1.34931232e-308 2.40206717e-308 5.03327894e-308
+ 3.28104511e-308 7.29362860e-308 1.94832299e-308 2.97051499e-308
+ 3.60281404e-308 1.00000000e+000 4.12661086e-308 1.45772996e-308
+ 1.89745039e-308]
+13,13_infected_military_server_performance,[0.01032197 0.01507808 0.01798161 0.03024948 0.02167882 0.01211251
+ 0.0217018  0.04703499 0.02955586 0.05449112 0.01753621 0.02637659
+ 0.03076853 0.49782101 0.03491897 0.01312177 0.01675731]
+13,13_infected_military_server_performance,[0.01279476 0.01850442 0.02189592 0.0383236  0.02630218 0.01496152
+ 0.02646946 0.05641697 0.03596338 0.06359352 0.02153184 0.03195959
+ 0.03691771 0.37310928 0.04169775 0.01619107 0.02045403]
+-1,-1_player_server_vehicle_issue,[0.02965381 0.17467815 0.02655588 0.02071923 0.02169597 0.04952449
+ 0.04759417 0.02638296 0.02684592 0.01860181 0.03619454 0.02997943
+ 0.02052202 0.01848688 0.02174118 0.04921211 0.05863292]
+-1,-1_player_server_vehicle_issue,[0.01761822 0.03417706 0.01742232 0.01119972 0.01423835 0.01888249
+ 0.01632295 0.01409532 0.01256708 0.01052051 0.03521842 0.01777108
+ 0.01241808 0.01020049 0.01225627 0.25935052 0.02436175]
+-1,-1_player_server_vehicle_issue,[0.02058448 0.04020896 0.02226112 0.01365834 0.01811602 0.02238368
+ 0.02093951 0.01735309 0.01640729 0.01307756 0.04384503 0.02231764
+ 0.01554023 0.01261199 0.01515817 0.17703839 0.0303706 ]
+6,6_branch_experimental_server_issue,[0.01959377 0.0465372  0.03254686 0.0260542  0.03160709 0.02606424
+ 0.0678089  0.04657816 0.04037343 0.02610506 0.04593014 0.05949833
+ 0.02885233 0.02593691 0.03257799 0.03268246 0.04973462]
+6,6_branch_experimental_server_issue,[0.01953759 0.04671518 0.0325028  0.02580645 0.03149788 0.02599585
+ 0.06680063 0.04605023 0.03986951 0.02587993 0.04607694 0.05901431
+ 0.02867922 0.02567815 0.03232192 0.03273946 0.04989599]
+-1,-1_player_server_vehicle_issue,[0.06823418 0.15689232 0.04329513 0.02869607 0.03572204 0.08939683
+ 0.04473437 0.03635941 0.03211879 0.02745736 0.06331742 0.04011555
+ 0.0311403  0.02632057 0.03299011 0.14011431 0.08437582]
+3,3_action_animation_item_fixed,[0.02280145 0.03338869 0.02642264 0.12165279 0.03078449 0.02659124
+ 0.0470981  0.08047042 0.04207528 0.0343033  0.03641432 0.0418302
+ 0.03289288 0.04458045 0.03753335 0.02935626 0.03124757]
+3,3_action_animation_item_fixed,[0.02319755 0.0333156  0.0263679  0.14558275 0.03062618 0.02677185
+ 0.04572118 0.07775193 0.04174728 0.03441957 0.03627384 0.04127699
+ 0.03281329 0.04500536 0.0372395  0.0295199  0.03093679]
+16,16_bohemia_year_bohemia_interactive_interactive,[2.60129701e-308 7.10073335e-308 4.83021652e-308 1.83783707e-308
+ 3.29624426e-308 3.70030899e-308 3.19596048e-308 2.69081035e-308
+ 2.36612666e-308 2.27201271e-308 3.76041960e-308 2.99010587e-308
+ 2.73321941e-308 1.98348561e-308 2.83804861e-308 4.02781069e-308
+ 1.00000000e+000]
+16,16_bohemia_year_bohemia_interactive_interactive,[2.59204781e-308 7.08056615e-308 4.88268516e-308 1.84510904e-308
+ 3.32359406e-308 3.68830519e-308 3.21793501e-308 2.70962774e-308
+ 2.38154150e-308 2.28762390e-308 3.77748212e-308 3.01373606e-308
+ 2.75338369e-308 1.99490057e-308 2.86063452e-308 4.01954776e-308
+ 1.00000000e+000]
+-1,-1_player_server_vehicle_issue,[0.01354537 0.02609342 0.04605999 0.02117664 0.03715374 0.01649159
+ 0.03344102 0.04067057 0.03608009 0.03851772 0.03556772 0.13773625
+ 0.04737494 0.03093068 0.03781556 0.02178253 0.03329047]
+-1,-1_player_server_vehicle_issue,[0.01403552 0.02698221 0.0469517  0.02207299 0.03794777 0.01707596
+ 0.03414833 0.04263146 0.03687621 0.03988962 0.03701649 0.14769782
+ 0.0489099  0.0322053  0.03933691 0.02257    0.0342909 ]
+7,7_player_vehicle_change_server,[0.0154078  0.02562303 0.02823221 0.038292   0.04369411 0.01848921
+ 0.03487925 0.2755632  0.03292897 0.04218493 0.03380532 0.04571843
+ 0.04751742 0.0479675  0.06020291 0.02185936 0.02895134]
+7,7_player_vehicle_change_server,[0.01538168 0.02559527 0.02812864 0.03817742 0.04358163 0.01846533
+ 0.03484216 0.26534262 0.03275313 0.04178855 0.03371838 0.04534954
+ 0.04727635 0.04750442 0.05961972 0.02182522 0.02890756]
+11,11_railway_issue_stable_branch,[1.59610270e-308 3.08078848e-308 4.15417238e-308 2.59208624e-308
+ 3.54627406e-308 1.94074971e-308 4.09800423e-308 4.87645124e-308
+ 4.38106589e-308 3.69199174e-308 4.44859420e-308 1.00000000e+000
+ 4.11399398e-308 3.37555794e-308 3.80444696e-308 2.63142263e-308
+ 3.59570821e-308]
+11,11_railway_issue_stable_branch,[1.57179254e-308 3.01260603e-308 4.16965855e-308 2.55452060e-308
+ 3.48584589e-308 1.90977402e-308 4.02378037e-308 4.72432787e-308
+ 4.41807769e-308 3.74280011e-308 4.27405043e-308 1.00000000e+000
+ 4.13770850e-308 3.39007725e-308 3.75889834e-308 2.57492615e-308
+ 3.53154986e-308]
+3,3_action_animation_item_fixed,[0.02131912 0.02955661 0.02377368 0.18953711 0.02785997 0.02407877
+ 0.03851013 0.06851011 0.03639271 0.03137012 0.03293875 0.03664161
+ 0.02978277 0.0413702  0.03364221 0.02681702 0.02734255]
+3,3_action_animation_item_fixed,[0.02485787 0.03480416 0.02768259 0.19917801 0.03226555 0.02819584
+ 0.04563734 0.0788294  0.0425342  0.03611143 0.03849243 0.04281162
+ 0.03446206 0.0473087  0.03883192 0.03141213 0.03207099]
+5,5_zombie_survival_zombie_survival_best,[0.04054254 0.06440638 0.01611071 0.01360773 0.01416887 0.46336768
+ 0.0223764  0.01573587 0.01576683 0.01234091 0.01893874 0.0159931
+ 0.01298378 0.0121438  0.01435625 0.02757681 0.02807073]
+-1,-1_player_server_vehicle_issue,[0.03358393 0.09885409 0.05938122 0.03294749 0.04595612 0.04291696
+ 0.05984186 0.05160342 0.04268289 0.03454672 0.11688047 0.0753192
+ 0.04091702 0.03264159 0.04236043 0.07654351 0.09563549]
+-1,-1_player_server_vehicle_issue,[0.03452486 0.10249089 0.05769408 0.03300964 0.04499568 0.04420496
+ 0.05973991 0.05091051 0.04242325 0.03410928 0.11575602 0.07303641
+ 0.04004729 0.03235501 0.04178523 0.07988908 0.09564029]
+-1,-1_player_server_vehicle_issue,[0.01499903 0.03686952 0.02909046 0.01944289 0.02684919 0.01965153
+ 0.0463891  0.03609364 0.03146108 0.02145456 0.04016458 0.05530982
+ 0.02421929 0.02049766 0.02681546 0.02598156 0.0414431 ]
+-1,-1_player_server_vehicle_issue,[0.01480277 0.03608851 0.0291682  0.01928537 0.02662902 0.01930899
+ 0.04538176 0.0357479  0.03145467 0.02144234 0.04033561 0.05775243
+ 0.0241659  0.02044203 0.02661542 0.02573022 0.04059231]
+-1,-1_player_server_vehicle_issue,[0.01210061 0.03093028 0.03602896 0.01337466 0.02609019 0.0151826
+ 0.02432384 0.02299177 0.01915041 0.0166437  0.04787235 0.03906417
+ 0.02136941 0.01478152 0.0206041  0.02482883 0.04005924]
+-1,-1_player_server_vehicle_issue,[0.01262795 0.03294744 0.03733102 0.01364992 0.02649588 0.01589261
+ 0.02470104 0.02317216 0.0193267  0.01688366 0.04921026 0.03851189
+ 0.02164002 0.01500462 0.02086202 0.02626692 0.04271957]
+-1,-1_player_server_vehicle_issue,[0.02769237 0.33154431 0.01370489 0.01088292 0.01148564 0.05389252
+ 0.01854564 0.01291751 0.01240347 0.00962883 0.01859042 0.01386698
+ 0.01060258 0.00952544 0.0112414  0.03450237 0.02609887]
+4,4_status_renderer_report_week,[0.01209672 0.02084626 0.0339937  0.01614401 0.24092774 0.01436695
+ 0.02051334 0.03055534 0.01855048 0.02673642 0.02773385 0.02910759
+ 0.04381082 0.0212355  0.04879782 0.01780239 0.02814144]
+4,4_status_renderer_report_week,[0.01202841 0.02085765 0.03397239 0.01572178 0.1857169  0.01429889
+ 0.02019507 0.02956291 0.01817629 0.02571406 0.02779076 0.02871312
+ 0.04087204 0.02045512 0.04650464 0.01781376 0.02830003]
+3,3_action_animation_item_fixed,[0.01858286 0.02539255 0.02048255 0.18941097 0.02393257 0.02080973
+ 0.03245839 0.05709329 0.03106522 0.02706079 0.02835458 0.03131727
+ 0.02561142 0.03570385 0.02881508 0.02321005 0.02340568]
+3,3_action_animation_item_fixed,[0.02351646 0.03352125 0.02694519 0.16682257 0.03160666 0.0270869
+ 0.04601712 0.0829355  0.04268765 0.035799   0.03688622 0.04219355
+ 0.03387691 0.04727364 0.03875071 0.02982405 0.03137965]
+3,3_action_animation_item_fixed,[0.0246585  0.0353004  0.02796248 0.16191259 0.03259216 0.02837457
+ 0.04798455 0.0824305  0.04379584 0.03641933 0.03865693 0.04366486
+ 0.03483414 0.04758432 0.03947804 0.03140752 0.032748  ]
+-1,-1_player_server_vehicle_issue,[0.03522456 0.14373467 0.0431991  0.02719181 0.03362739 0.04832642
+ 0.05287047 0.03833139 0.03450701 0.02643153 0.07484596 0.04873788
+ 0.03043213 0.02548294 0.03184561 0.08987453 0.09339393]
+-1,-1_player_server_vehicle_issue,[0.02502193 0.10513513 0.03070301 0.01956007 0.02376314 0.03530927
+ 0.0394542  0.02748737 0.02530491 0.01896952 0.05131797 0.03524848
+ 0.02171918 0.01832791 0.02272054 0.06136716 0.067432  ]
+1,1_year_access_early_access_pc,[0.03002287 0.30350946 0.03914422 0.02192562 0.02854201 0.05044115
+ 0.05404529 0.03103441 0.03106212 0.02312593 0.04306242 0.03639747
+ 0.02638384 0.02172091 0.02755183 0.05293488 0.15494135]
+-1,-1_player_server_vehicle_issue,[0.01976268 0.05790008 0.04835676 0.01597424 0.03197087 0.02804041
+ 0.03105627 0.02449157 0.02281851 0.02067771 0.03342177 0.02911974
+ 0.02521057 0.0177536  0.02593019 0.03170525 0.18892818]
+-1,-1_player_server_vehicle_issue,[0.01637892 0.04671562 0.03894467 0.01307232 0.02551963 0.02309884
+ 0.02411284 0.01996296 0.01782835 0.01682871 0.02751981 0.02323381
+ 0.02056759 0.01447248 0.02121581 0.02623681 0.18172067]
+-1,-1_player_server_vehicle_issue,[0.02038971 0.06269874 0.03050268 0.01856622 0.024402   0.0264199
+ 0.03496071 0.02755156 0.02441968 0.01860214 0.06031854 0.03955057
+ 0.02143777 0.01781041 0.02255365 0.04870019 0.05370543]
+-1,-1_player_server_vehicle_issue,[0.02155942 0.06693768 0.03167032 0.01937681 0.02499451 0.02799055
+ 0.03587061 0.02862229 0.02500368 0.01934967 0.06252904 0.040056
+ 0.02227438 0.01853691 0.02347053 0.05188186 0.05643603]
+-1,-1_player_server_vehicle_issue,[0.03391471 0.22602691 0.05094715 0.02317373 0.03375639 0.0511365
+ 0.04684813 0.03266639 0.03109112 0.02567317 0.05236977 0.03923055
+ 0.03032225 0.02351268 0.03049424 0.06673616 0.17420466]
+-1,-1_player_server_vehicle_issue,[0.03838177 0.16318416 0.02475844 0.0176029  0.02095424 0.0697836
+ 0.03039017 0.0224158  0.02029537 0.01647688 0.03409681 0.02393042
+ 0.01848134 0.01595915 0.01992227 0.06059849 0.05239927]
+5,5_zombie_survival_zombie_survival_best,[0.06764928 0.11799427 0.02351262 0.02107414 0.02086419 0.26995886
+ 0.03376086 0.02377498 0.02356562 0.01806616 0.02992591 0.02438374
+ 0.01921142 0.01808254 0.02095701 0.04653261 0.04075297]
+-1,-1_player_server_vehicle_issue,[0.0228931  0.06958634 0.03082975 0.01936861 0.02442466 0.02952317
+ 0.03467871 0.02781289 0.0243504  0.01900249 0.06291743 0.03786236
+ 0.02175217 0.01826886 0.02297642 0.0587201  0.05499024]
+-1,-1_player_server_vehicle_issue,[0.03996749 0.11746032 0.0507317  0.03246848 0.04012592 0.05119181
+ 0.05649172 0.04587341 0.03993643 0.03152876 0.10437395 0.06112087
+ 0.03594172 0.03037639 0.03805689 0.10653771 0.0900973 ]
+-1,-1_player_server_vehicle_issue,[0.0273757  0.09388565 0.02584745 0.02342327 0.02408681 0.04047564
+ 0.05336011 0.03007223 0.03043721 0.01939999 0.03986432 0.033669
+ 0.02155367 0.01985032 0.02311863 0.04652529 0.05013609]
+3,3_action_animation_item_fixed,[0.02092088 0.03048288 0.02374329 0.10794264 0.02737159 0.02432777
+ 0.04242676 0.06860418 0.03784616 0.03055116 0.03271132 0.03730512
+ 0.0292543  0.03953724 0.03321855 0.02673939 0.02818829]
+3,3_action_animation_item_fixed,[0.02224718 0.03270995 0.02563835 0.11182883 0.02971246 0.02599516
+ 0.04621807 0.07630036 0.04088838 0.03301861 0.03535478 0.04054251
+ 0.03172062 0.04269388 0.03613496 0.02864442 0.03047856]
+-1,-1_player_server_vehicle_issue,[0.01254358 0.02034635 0.02598599 0.02372851 0.0460766  0.0151277
+ 0.02459599 0.06248134 0.02453089 0.04946832 0.02400261 0.03238417
+ 0.04357336 0.03933335 0.33047053 0.01669597 0.02496019]
+14,14_item_stable_player_branch,[0.01273011 0.02060389 0.02634483 0.02417547 0.04761408 0.01531793
+ 0.02497619 0.06415429 0.02497294 0.0499695  0.02451435 0.03306692
+ 0.04465693 0.04002798 0.32366689 0.01697354 0.02523156]
+10,10_friend_player_head_find,[0.02223608 0.0487165  0.03461882 0.02151194 0.03201751 0.0257965
+ 0.03089653 0.03231568 0.0236641  0.02103653 0.22677342 0.04129428
+ 0.0261583  0.02026814 0.02648155 0.05991086 0.04471689]
+1,1_year_access_early_access_pc,[0.02921014 0.16955617 0.04801837 0.02469237 0.0329829  0.04619314
+ 0.07023313 0.03653783 0.03833084 0.02736039 0.048089   0.04553855
+ 0.03135412 0.02539091 0.03222184 0.05139691 0.21873916]
+1,1_year_access_early_access_pc,[0.03113379 0.20166225 0.04474036 0.02533901 0.0328779  0.04780722
+ 0.06178196 0.03703287 0.03602416 0.02638789 0.05597694 0.0463814
+ 0.03035418 0.0249531  0.03161923 0.06193035 0.14272083]
+-1,-1_player_server_vehicle_issue,[0.02006515 0.13394922 0.02988328 0.01634397 0.02144823 0.03027817
+ 0.04035523 0.02391418 0.02348881 0.01724599 0.03595656 0.03016021
+ 0.01990445 0.01623366 0.02057218 0.03973986 0.10219973]
+-1,-1_player_server_vehicle_issue,[0.00929686 0.015232   0.01856308 0.02185785 0.03112626 0.01093597
+ 0.02049822 0.07503895 0.0207461  0.02748482 0.02184017 0.03147233
+ 0.0367889  0.03073881 0.03502228 0.0134329  0.01749307]
+-1,-1_player_server_vehicle_issue,[0.00925361 0.01514994 0.01847692 0.0217614  0.0310227  0.0108823
+ 0.02040448 0.07463184 0.02066702 0.02741478 0.02172167 0.03128456
+ 0.03668567 0.03065991 0.03493505 0.0133645  0.01740042]
+1,1_year_access_early_access_pc,[0.03258243 0.59742731 0.0170016  0.0137078  0.01422728 0.0618594
+ 0.02380102 0.01623714 0.01574724 0.01200648 0.02341474 0.017579
+ 0.01320029 0.01192478 0.01398102 0.04319872 0.03252924]
+-1,-1_player_server_vehicle_issue,[0.02941129 0.08211021 0.08046143 0.03022792 0.05261355 0.03736099
+ 0.05309275 0.04974992 0.04062936 0.03632967 0.10884108 0.07709546
+ 0.04589403 0.03258118 0.04446749 0.06367256 0.10194761]
+-1,-1_player_server_vehicle_issue,[0.03067462 0.0892258  0.07983024 0.03044316 0.05199786 0.03921785
+ 0.05409488 0.04941249 0.04090128 0.03614301 0.10828047 0.07459465
+ 0.04534207 0.03252023 0.04418024 0.06754233 0.1082112 ]
+5,5_zombie_survival_zombie_survival_best,[0.05207734 0.08887007 0.01936549 0.01675329 0.01718946 0.54999751
+ 0.0273098  0.01930081 0.01903941 0.0147846  0.02398997 0.01968842
+ 0.01568222 0.01465791 0.01728267 0.03636658 0.03419957]
+6,6_branch_experimental_server_issue,[0.02213308 0.04975576 0.03317086 0.02931264 0.02994361 0.03157566
+ 0.2567025  0.04407533 0.05945716 0.02884262 0.03623025 0.04966919
+ 0.03023076 0.02938191 0.03275377 0.03189555 0.05408417]
+6,6_branch_experimental_server_issue,[0.0221289  0.05048557 0.03270421 0.02863775 0.02945663 0.03172977
+ 0.22258785 0.04291557 0.05695565 0.02809671 0.03609153 0.04876744
+ 0.02947003 0.02852878 0.03206662 0.03202723 0.05451989]
+2,2_thing_dev_time_community,[0.01218356 0.02326419 0.04761017 0.0172222  0.04935542 0.01475582
+ 0.02400622 0.03421776 0.0230009  0.03166249 0.03327215 0.05141802
+ 0.04533173 0.02400308 0.0408138  0.01965869 0.03196625]
+-1,-1_player_server_vehicle_issue,[0.01320524 0.02510634 0.0486774  0.01868058 0.05445374 0.01596105
+ 0.02572303 0.03760247 0.02440968 0.03378584 0.03670072 0.05620872
+ 0.04770673 0.0258637  0.04466006 0.02130638 0.03418877]
+3,3_action_animation_item_fixed,[0.02222553 0.03283279 0.02617262 0.11050309 0.03081304 0.02597454
+ 0.04649714 0.08314394 0.04111346 0.03383866 0.03651737 0.04189406
+ 0.03270075 0.04378719 0.03750804 0.02897871 0.03095589]
+2,2_thing_dev_time_community,[0.0129815  0.02481946 0.05552579 0.018098   0.04951969 0.01572846
+ 0.02547703 0.0348822  0.02466658 0.03377104 0.0349453  0.05468613
+ 0.04867667 0.02532824 0.04161804 0.02101688 0.03429439]
+2,2_thing_dev_time_community,[0.01283338 0.02424909 0.05339979 0.01806446 0.05192016 0.01553142
+ 0.02503417 0.03515111 0.02429718 0.0345416  0.03385877 0.0520461
+ 0.05034331 0.0255927  0.04358559 0.02051712 0.03345776]
+-1,-1_player_server_vehicle_issue,[0.01015593 0.01881521 0.03508739 0.01432193 0.05409769 0.012166
+ 0.01949197 0.02885161 0.01822015 0.02515406 0.0280996  0.03768228
+ 0.0382064  0.0195297  0.03645656 0.0162165  0.02544975]
+-1,-1_player_server_vehicle_issue,[0.00994748 0.01841053 0.03430744 0.01397887 0.0538273  0.01190796
+ 0.01913705 0.02807337 0.01784506 0.02441406 0.02755125 0.03638669
+ 0.03727223 0.01899621 0.03555788 0.0158908  0.02490991]
+-1,-1_player_server_vehicle_issue,[0.02369593 0.08331739 0.03765294 0.01977597 0.03083084 0.03068282
+ 0.03615816 0.02936047 0.02537552 0.02039918 0.07239697 0.03806555
+ 0.02500492 0.01922517 0.02522157 0.06337062 0.06944962]
+2,2_thing_dev_time_community,[0.01489704 0.03769312 0.09925579 0.01647997 0.0356292  0.01972225
+ 0.03222951 0.02846132 0.02644722 0.02560466 0.03443782 0.04075405
+ 0.03329436 0.0205642  0.03028356 0.0249052  0.07924047]
+2,2_thing_dev_time_community,[0.01423901 0.03588636 0.09083542 0.01585205 0.03450961 0.01883202
+ 0.03095654 0.02755357 0.025408   0.02469861 0.03311758 0.03947215
+ 0.03212742 0.01981683 0.02935333 0.02377081 0.0745298 ]
+-1,-1_player_server_vehicle_issue,[0.04452645 0.17167726 0.02026741 0.01556127 0.01719862 0.08972037
+ 0.02550859 0.01868285 0.01748383 0.01409967 0.02684669 0.01970629
+ 0.01556631 0.01381176 0.01664312 0.04918591 0.03819465]
+5,5_zombie_survival_zombie_survival_best,[4.86899865e-308 7.66032258e-308 1.86540620e-308 1.54203257e-308
+ 1.64075072e-308 1.00000000e+000 2.50844707e-308 1.79654935e-308
+ 1.77623446e-308 1.40875913e-308 2.21005097e-308 1.83085336e-308
+ 1.49128394e-308 1.38090285e-308 1.64635470e-308 3.28070640e-308
+ 3.26211349e-308]
+-1,-1_player_server_vehicle_issue,[0.01390748 0.0347285  0.02304015 0.00934066 0.01727896 0.01948656
+ 0.01657434 0.0133161  0.01245023 0.01134554 0.0187791  0.01509137
+ 0.01357878 0.00996842 0.01411043 0.02059791 0.16446204]
+-1,-1_player_server_vehicle_issue,[0.02086479 0.05167694 0.03685781 0.01428008 0.02657055 0.02910867
+ 0.02521851 0.02039348 0.01903744 0.01758516 0.02861146 0.02335302
+ 0.021087   0.01536932 0.02173235 0.03100428 0.25036752]
+13,13_infected_military_server_performance,[0.00685981 0.01001714 0.01219288 0.01837641 0.01399759 0.00807396
+ 0.01442055 0.02691381 0.02063253 0.04109691 0.0113894  0.01753255
+ 0.02019412 0.56505342 0.0225178  0.00865477 0.01119739]
+13,13_infected_military_server_performance,[1.13853078e-308 1.66924205e-308 2.03521376e-308 3.10097905e-308
+ 2.38833852e-308 1.33931703e-308 2.39602422e-308 4.75156212e-308
+ 3.35798285e-308 6.92170148e-308 1.91740191e-308 2.94452230e-308
+ 3.45908381e-308 1.00000000e+000 3.88008773e-308 1.44385576e-308
+ 1.86965484e-308]
+7,7_player_vehicle_change_server,[0.01529412 0.02553979 0.03445024 0.03126712 0.05283612 0.01833694
+ 0.03278669 0.09277868 0.0354386  0.0695748  0.03261435 0.05331155
+ 0.06226842 0.05713231 0.12377399 0.02131135 0.03106303]
+-1,-1_player_server_vehicle_issue,[0.01103844 0.0183922  0.02433238 0.02225136 0.0383994  0.01322049
+ 0.02344272 0.0700253  0.0248948  0.04560306 0.02366682 0.03748679
+ 0.04464038 0.03968756 0.08383603 0.01540073 0.02223855]
+-1,-1_player_server_vehicle_issue,[0.02156559 0.08493321 0.02765397 0.01680941 0.02253435 0.03520878
+ 0.04067789 0.0246643  0.02447523 0.01813798 0.03060195 0.02848546
+ 0.01972024 0.01688934 0.02239143 0.03295747 0.07973594]
+-1,-1_player_server_vehicle_issue,[0.0264882  0.10119872 0.03373884 0.02068125 0.02814849 0.04315015
+ 0.05048174 0.03037104 0.0305838  0.02231641 0.03745888 0.03527541
+ 0.02416702 0.02077899 0.02760384 0.04017044 0.09430779]
+-1,-1_player_server_vehicle_issue,[0.01370761 0.02278076 0.02994013 0.02777074 0.04473332 0.01637376
+ 0.02940971 0.08551899 0.03218675 0.05730892 0.02987191 0.05010153
+ 0.05293231 0.05043527 0.08911922 0.01920611 0.02730459]
+-1,-1_player_server_vehicle_issue,[0.01180744 0.01957799 0.02613256 0.0245902  0.03927454 0.01412265
+ 0.0251002  0.07381528 0.02741028 0.05367954 0.025134   0.04126761
+ 0.04722971 0.04568979 0.08896104 0.01642936 0.02361083]
+-1,-1_player_server_vehicle_issue,[0.01390117 0.03493184 0.02298124 0.00931467 0.01717019 0.01950733
+ 0.01656813 0.01326871 0.01243401 0.01130583 0.01874556 0.01506318
+ 0.01351919 0.00993643 0.01403981 0.02062286 0.16479588]
+-1,-1_player_server_vehicle_issue,[0.0139702  0.03515306 0.02253083 0.00931627 0.01716886 0.01964771
+ 0.01651941 0.01328657 0.01237527 0.01125405 0.01878034 0.01500041
+ 0.01344187 0.00990802 0.01404213 0.02068008 0.16464996]
+-1,-1_player_server_vehicle_issue,[0.03401514 0.14053264 0.05048667 0.02953326 0.03856424 0.05393106
+ 0.08408475 0.04415869 0.04444262 0.03221125 0.05117066 0.04956368
+ 0.0361091  0.03013351 0.03903377 0.05316491 0.16729233]
+3,3_action_animation_item_fixed,[0.00496885 0.00651451 0.00560503 0.79701978 0.00669654 0.00550217
+ 0.00827494 0.01628753 0.00846069 0.00798551 0.00741543 0.00834632
+ 0.00725124 0.01097728 0.00832041 0.00603258 0.00617783]
+3,3_action_animation_item_fixed,[1.40218684e-308 1.85136274e-308 1.60126373e-308 1.00000000e+000
+ 1.92332346e-308 1.56080202e-308 2.38298582e-308 4.85333776e-308
+ 2.43869953e-308 2.30351048e-308 2.11218060e-308 2.39789119e-308
+ 2.08503680e-308 3.19091978e-308 2.40744494e-308 1.70839026e-308
+ 1.76562354e-308]
+-1,-1_player_server_vehicle_issue,[0.01544327 0.06143875 0.04191754 0.01352641 0.02208681 0.02232341
+ 0.03156246 0.02060428 0.02113938 0.0170648  0.0289377  0.02721731
+ 0.02049855 0.01495369 0.01986477 0.02731517 0.16593541]
+3,3_action_animation_item_fixed,[0.02011077 0.02700681 0.02227897 0.34052358 0.02626876 0.02232941
+ 0.03407906 0.06284049 0.0334064  0.03000609 0.03069685 0.03389287
+ 0.02813249 0.0399866  0.03179732 0.02496848 0.02508851]
+-1,-1_player_server_vehicle_issue,[0.03100206 0.16510053 0.04223713 0.02581562 0.03153556 0.04695724
+ 0.06810115 0.03709733 0.0372076  0.02617334 0.0527712  0.04598694
+ 0.02982864 0.02507412 0.03101284 0.05899479 0.12345057]
+3,3_action_animation_item_fixed,[0.01717158 0.0239695  0.02198053 0.12763286 0.02786016 0.01972924
+ 0.03352625 0.10903606 0.03417573 0.03335544 0.02904113 0.03506619
+ 0.03004235 0.0474911  0.03682387 0.02194402 0.02409527]
+3,3_action_animation_item_fixed,[1.40649163e-308 1.84837647e-308 1.59794354e-308 1.00000000e+000
+ 1.94383823e-308 1.56383556e-308 2.36278743e-308 4.89919823e-308
+ 2.38965739e-308 2.29564084e-308 2.10895693e-308 2.36372311e-308
+ 2.09088165e-308 3.16907277e-308 2.42461356e-308 1.70702393e-308
+ 1.76418785e-308]
+3,3_action_animation_item_fixed,[0.00613693 0.00805287 0.00692173 0.75697551 0.00842716 0.00681644
+ 0.01024316 0.02098342 0.01028438 0.00987117 0.00916007 0.0101946
+ 0.00903623 0.01355224 0.01046051 0.00743643 0.00766257]
+10,10_friend_player_head_find,[1.93249039e-308 3.74338119e-308 3.25759166e-308 2.17066503e-308
+ 3.22123399e-308 2.18276697e-308 2.81859169e-308 3.30332361e-308
+ 2.26486602e-308 2.09604299e-308 1.00000000e+000 4.35594338e-308
+ 2.67893801e-308 2.04675196e-308 2.61500236e-308 4.64307409e-308
+ 3.61463864e-308]
+10,10_friend_player_head_find,[1.98236043e-308 3.82674615e-308 3.17154028e-308 2.15781377e-308
+ 3.12661201e-308 2.23009198e-308 2.80557464e-308 3.22381227e-308
+ 2.23277031e-308 2.04650612e-308 1.00000000e+000 4.14514877e-308
+ 2.59825612e-308 2.00589331e-308 2.55253662e-308 4.92556341e-308
+ 3.63004401e-308]
+3,3_action_animation_item_fixed,[0.01476311 0.01870576 0.0156256  0.37068112 0.01844219 0.01599393
+ 0.02240491 0.03911259 0.02240395 0.02126034 0.02093466 0.02240476
+ 0.01969118 0.02813042 0.02218948 0.01752011 0.01731061]
+3,3_action_animation_item_fixed,[0.01459265 0.0185424  0.01548417 0.44135344 0.0182971  0.01583794
+ 0.02229437 0.03920399 0.02228733 0.02111138 0.0207523  0.0222721
+ 0.01953135 0.02798605 0.02206299 0.01734124 0.01717184]
+3,3_action_animation_item_fixed,[0.01454905 0.0185274  0.01551657 0.45128541 0.01831129 0.01580103
+ 0.02233151 0.03927466 0.02236934 0.02116822 0.02077819 0.02234929
+ 0.01960032 0.02810349 0.02206639 0.0173376  0.01717999]
+3,3_action_animation_item_fixed,[0.01546686 0.01950371 0.01640876 0.27919206 0.01933739 0.01672101
+ 0.023309   0.04055231 0.02346587 0.02241829 0.02185907 0.02342427
+ 0.02070849 0.02969439 0.02327682 0.01831059 0.01809188]
+3,3_action_animation_item_fixed,[1.41714236e-308 1.83163293e-308 1.51679956e-308 1.00000000e+000
+ 1.79601688e-308 1.54886862e-308 2.22861224e-308 3.96616407e-308
+ 2.19990642e-308 2.05161362e-308 2.05514335e-308 2.20983874e-308
+ 1.91505057e-308 2.72037578e-308 2.16000173e-308 1.70602596e-308
+ 1.69409633e-308]
+3,3_action_animation_item_fixed,[0.00871706 0.01123017 0.00921779 0.64615783 0.01090286 0.00950107
+ 0.01353185 0.02361632 0.01324157 0.01233028 0.01255809 0.01335282
+ 0.01158125 0.01622805 0.0130222  0.01047054 0.01033018]
+-1,-1_player_server_vehicle_issue,[0.01432614 0.03282044 0.06987151 0.01506977 0.04145938 0.01862126
+ 0.02690365 0.02504123 0.02188995 0.02204257 0.03052354 0.02958857
+ 0.03267304 0.01819803 0.02803126 0.02286416 0.06336383]
+-1,-1_player_server_vehicle_issue,[0.02248821 0.17585842 0.01608621 0.01290782 0.0133673  0.0418228
+ 0.02627042 0.01595895 0.01581722 0.01146309 0.02164064 0.01739859
+ 0.01253345 0.01138719 0.01344974 0.03285019 0.03437394]
+6,6_branch_experimental_server_issue,[0.01531769 0.03107009 0.02398492 0.02249641 0.02088745 0.02127127
+ 0.51731357 0.03118642 0.05915551 0.02227946 0.02424602 0.03608066
+ 0.02281643 0.02323768 0.02321092 0.0213523  0.03404705]
+6,6_branch_experimental_server_issue,[0.01625473 0.03270358 0.02538307 0.02418075 0.0222192  0.02250116
+ 0.46128278 0.03344849 0.06381856 0.02382202 0.02577891 0.03855685
+ 0.024323   0.02493648 0.02475987 0.02263052 0.03576323]
+5,5_zombie_survival_zombie_survival_best,[0.05049445 0.08597638 0.01956568 0.01773711 0.01758396 0.22936811
+ 0.02890985 0.02021279 0.02000177 0.0152958  0.02448134 0.0204157
+ 0.01612705 0.01529581 0.01787451 0.03609249 0.03436388]
+6,6_branch_experimental_server_issue,[0.02397341 0.04823492 0.0343945  0.03049493 0.02856204 0.03449927
+ 0.30840474 0.03972892 0.08201972 0.0307241  0.03372873 0.04801988
+ 0.03048805 0.03127422 0.03177095 0.03203238 0.05193001]
+6,6_branch_experimental_server_issue,[0.02413442 0.04890911 0.03476598 0.03069347 0.02887458 0.0347548
+ 0.33658546 0.04016777 0.08194621 0.03092834 0.03413355 0.04853647
+ 0.03078986 0.03146719 0.03206393 0.03236743 0.0527195 ]
+0,0_livonia_survival_survive_dlc,[0.08807154 0.076141   0.02542396 0.01931437 0.02314492 0.09198176
+ 0.02790647 0.02303592 0.02094713 0.01794596 0.03306678 0.02372494
+ 0.01979253 0.0173686  0.02149693 0.05519082 0.04459564]
+11,11_railway_issue_stable_branch,[0.0126713  0.02511958 0.028552   0.02006799 0.02363298 0.01561365
+ 0.03576868 0.03474482 0.03714566 0.02465918 0.03388266 0.35756183
+ 0.02644    0.02379383 0.02557079 0.0210819  0.02800364]
+-1,-1_player_server_vehicle_issue,[0.03892052 0.11101021 0.02963711 0.02134564 0.0244968  0.04605938
+ 0.03259595 0.02659353 0.02334011 0.01908153 0.05596957 0.03087285
+ 0.021998   0.01877239 0.02258136 0.30807916 0.05050211]
+1,1_year_access_early_access_pc,[0.03873904 0.40706197 0.03296483 0.0206407  0.02535815 0.0832986
+ 0.04219415 0.02707732 0.02709872 0.02114448 0.03669524 0.03009312
+ 0.02313751 0.01993655 0.02500711 0.0534857  0.08233011]
+1,1_year_access_early_access_pc,[0.05612365 0.35801806 0.02834004 0.02190273 0.0238865  0.12666992
+ 0.03771775 0.0264058  0.02518859 0.01979507 0.03726508 0.02802067
+ 0.02179175 0.01943713 0.02330472 0.06590164 0.05541905]
+3,3_action_animation_item_fixed,[0.01793096 0.02449628 0.02178668 0.23000152 0.02719165 0.02023243
+ 0.03253862 0.08432304 0.03280677 0.03168303 0.02952021 0.03403675
+ 0.02912981 0.04418263 0.03444291 0.02271364 0.02394626]
+3,3_action_animation_item_fixed,[1.39756759e-308 1.84344408e-308 1.61278542e-308 1.00000000e+000
+ 1.95972422e-308 1.55567896e-308 2.37426808e-308 5.07393164e-308
+ 2.43669475e-308 2.34637862e-308 2.12656499e-308 2.41528674e-308
+ 2.11875332e-308 3.27084177e-308 2.46539228e-308 1.70634029e-308
+ 1.76984199e-308]
+3,3_action_animation_item_fixed,[0.00756347 0.00996981 0.00858489 0.77278507 0.01031452 0.00839553
+ 0.01272504 0.02567523 0.0129482  0.0122333  0.01140664 0.01284386
+ 0.0111424  0.01683485 0.01282436 0.0092281  0.00947477]
+1,1_year_access_early_access_pc,[4.50906783e-308 1.00000000e+000 2.46494375e-308 1.93689805e-308
+ 2.05484673e-308 8.57766505e-308 3.40185426e-308 2.32401375e-308
+ 2.24215590e-308 1.71779900e-308 3.39260719e-308 2.52321002e-308
+ 1.89575661e-308 1.69878889e-308 2.00857637e-308 6.31059128e-308
+ 4.82213256e-308]
+-1,-1_player_server_vehicle_issue,[0.02555469 0.19351425 0.02451487 0.0152216  0.01924322 0.051904
+ 0.03225269 0.02061637 0.02046581 0.0161007  0.0258637  0.02235795
+ 0.01741586 0.01503213 0.01935978 0.03363598 0.06388082]
+-1,-1_player_server_vehicle_issue,[0.04240072 0.11302997 0.03094909 0.02036413 0.02883493 0.0751866
+ 0.03416282 0.02684896 0.02415817 0.02063943 0.03655983 0.02789181
+ 0.02311823 0.01940894 0.02579647 0.04914088 0.07158275]
+-1,-1_player_server_vehicle_issue,[0.03545776 0.09562989 0.02558044 0.0168355  0.02320239 0.06334921
+ 0.02772156 0.02214887 0.01957415 0.01702251 0.03035547 0.02277939
+ 0.01906604 0.01602136 0.02122517 0.04127612 0.05912011]
+1,1_year_access_early_access_pc,[0.03815068 0.49595993 0.02346335 0.01879507 0.01947525 0.07138586
+ 0.03486211 0.02261697 0.02219158 0.01649475 0.03240235 0.02474375
+ 0.01817873 0.01640212 0.01922252 0.05660203 0.04706601]
+-1,-1_player_server_vehicle_issue,[0.01074214 0.03477178 0.0234836  0.00845382 0.0159004  0.01577352
+ 0.0173871  0.01281699 0.01236496 0.01068812 0.01728694 0.0151315
+ 0.01279137 0.00927636 0.01323111 0.01712826 0.18372306]
+6,6_branch_experimental_server_issue,[0.02311179 0.04548875 0.03413013 0.03039397 0.02826918 0.03284952
+ 0.26444619 0.03957227 0.09051725 0.03126105 0.03280241 0.04804435
+ 0.03065512 0.03184835 0.0317663  0.03071912 0.04949708]
+6,6_branch_experimental_server_issue,[0.02382645 0.04726761 0.0353022  0.03130798 0.02924852 0.03389466
+ 0.29752201 0.04097911 0.0923706  0.03218375 0.0340204  0.04981601
+ 0.03166395 0.03276982 0.03281452 0.03180635 0.05147793]
+3,3_action_animation_item_fixed,[0.0139699  0.01778248 0.01485169 0.4332804  0.01751753 0.01516106
+ 0.02137889 0.03738919 0.02135475 0.0201826  0.01993093 0.02136871
+ 0.01873198 0.02673199 0.02106007 0.01664687 0.0164616 ]
+3,3_action_animation_item_fixed,[0.01572662 0.01988259 0.01664913 0.36471079 0.01970471 0.01703938
+ 0.02383286 0.04199054 0.02389006 0.02278049 0.02224391 0.02385389
+ 0.02101315 0.03020337 0.02379926 0.01861109 0.01843162]
+-1,-1_player_server_vehicle_issue,[0.02730207 0.08889728 0.03087454 0.02433843 0.02692229 0.04207164
+ 0.06791083 0.03334619 0.03469334 0.0222202  0.04173464 0.03901268
+ 0.0246276  0.02215667 0.02639701 0.04555882 0.06824141]
+8,8_issue_server_fixed_experimental,[1.46172110e-308 2.60350531e-308 2.67517313e-308 2.45843561e-308
+ 2.26531827e-308 1.90314028e-308 6.72360430e-308 3.41125651e-308
+ 1.00000000e+000 3.20980450e-308 2.37560433e-308 4.47385399e-308
+ 2.76980182e-308 3.26421281e-308 2.77416728e-308 1.96163943e-308
+ 2.94179329e-308]
+1,1_year_access_early_access_pc,[0.03853813 0.35340638 0.03342434 0.02316454 0.02596918 0.06566542
+ 0.04859855 0.02954889 0.02951717 0.02164134 0.04481378 0.03417438
+ 0.02436948 0.0211317  0.02520615 0.07402828 0.07778571]
+-1,-1_player_server_vehicle_issue,[0.04238385 0.2864401  0.03547968 0.02865344 0.02956536 0.06712375
+ 0.0586615  0.03611325 0.0348659  0.02496852 0.05237543 0.04044067
+ 0.02775901 0.02498586 0.02942013 0.07620957 0.07422552]
+-1,-1_player_server_vehicle_issue,[0.02922362 0.1179744  0.02925621 0.02323471 0.02476708 0.04740114
+ 0.06298826 0.030141   0.03286522 0.02096835 0.03864951 0.03561226
+ 0.02297428 0.02091566 0.02441193 0.04705603 0.06435789]
+-1,-1_player_server_vehicle_issue,[0.02082703 0.05049805 0.03388537 0.01394836 0.02588582 0.02917613
+ 0.0247525  0.0198782  0.01877811 0.01696104 0.02769657 0.02234348
+ 0.02025082 0.01489357 0.02118468 0.03028255 0.22006429]
+-1,-1_player_server_vehicle_issue,[0.02072002 0.05155158 0.03363614 0.01379093 0.02536902 0.02906601
+ 0.02462756 0.01961915 0.01854897 0.01670788 0.02769736 0.02221512
+ 0.01993835 0.01469241 0.02077721 0.03055253 0.22897629]
+1,1_year_access_early_access_pc,[0.03542665 0.35213766 0.03739932 0.02160479 0.02722323 0.05777498
+ 0.04439807 0.02895179 0.02837238 0.02188734 0.04708845 0.034725
+ 0.02492616 0.02072455 0.02575763 0.07503085 0.10018574]
+-1,-1_player_server_vehicle_issue,[0.0321284  0.18366976 0.05793788 0.02384577 0.03553892 0.04677728
+ 0.04964231 0.03427359 0.03318181 0.02717347 0.05580199 0.0432259
+ 0.03234258 0.02466332 0.03197172 0.06484529 0.19543669]
+10,10_friend_player_head_find,[0.01741692 0.03572213 0.03144102 0.01904761 0.02976691 0.01996959
+ 0.02598522 0.02946517 0.02071764 0.01910914 0.44744007 0.04003287
+ 0.02462342 0.0183922  0.02383823 0.04251749 0.03515001]
+-1,-1_player_server_vehicle_issue,[0.04825779 0.16109535 0.01941276 0.01688911 0.01670913 0.10293375
+ 0.02747142 0.01930848 0.01870858 0.01440774 0.02606689 0.02025146
+ 0.01557198 0.01443111 0.01671278 0.04463294 0.03481223]
+1,1_year_access_early_access_pc,[4.38002860e-308 1.00000000e+000 2.52318628e-308 1.91891578e-308
+ 2.08109729e-308 8.09070183e-308 3.39676120e-308 2.32561099e-308
+ 2.23843658e-308 1.72502038e-308 3.46209531e-308 2.54320580e-308
+ 1.91505690e-308 1.69812177e-308 2.01884761e-308 6.59784187e-308
+ 5.01671204e-308]
+10,10_friend_player_head_find,[1.99906290e-308 3.69141892e-308 3.01226076e-308 2.16091419e-308
+ 3.01836702e-308 2.21625213e-308 2.71909029e-308 3.15689316e-308
+ 2.17654925e-308 1.99924889e-308 1.00000000e+000 3.96555840e-308
+ 2.51173046e-308 1.97383306e-308 2.49046699e-308 4.98892859e-308
+ 3.45980600e-308]
+3,3_action_animation_item_fixed,[1.40051022e-308 1.83893037e-308 1.57461593e-308 1.00000000e+000
+ 1.87894947e-308 1.55094152e-308 2.33318722e-308 4.55267771e-308
+ 2.37394933e-308 2.22950246e-308 2.08999011e-308 2.34563505e-308
+ 2.03220270e-308 3.05394065e-308 2.32693144e-308 1.70213605e-308
+ 1.73969837e-308]
+3,3_action_animation_item_fixed,[0.00584512 0.00766221 0.00658154 0.79206389 0.00788748 0.00647531
+ 0.00972887 0.019208   0.00989984 0.00936476 0.00870824 0.00976907
+ 0.00852307 0.01285932 0.00978871 0.00708951 0.00726486]
+8,8_issue_server_fixed_experimental,[1.42287224e-308 2.43830510e-308 2.53021000e-308 2.57293795e-308
+ 2.21059906e-308 1.81829768e-308 5.75021502e-308 3.45633954e-308
+ 1.00000000e+000 3.26962933e-308 2.33349146e-308 4.48313505e-308
+ 2.72751420e-308 3.47056126e-308 2.74081022e-308 1.90156166e-308
+ 2.71061928e-308]
+8,8_issue_server_fixed_experimental,[1.44125492e-308 2.50867161e-308 2.58818810e-308 2.53438928e-308
+ 2.22790176e-308 1.85175076e-308 6.07666548e-308 3.44250982e-308
+ 1.00000000e+000 3.22027766e-308 2.37233567e-308 4.58806638e-308
+ 2.73337867e-308 3.36227459e-308 2.74005069e-308 1.93810744e-308
+ 2.79912042e-308]
+3,3_action_animation_item_fixed,[0.01758305 0.02367372 0.02145318 0.24791268 0.02687802 0.0198901
+ 0.03179362 0.08416478 0.03293926 0.03275379 0.02790629 0.03275275
+ 0.02906771 0.04708634 0.03511983 0.02177285 0.0233914 ]
+-1,-1_player_server_vehicle_issue,[0.01492388 0.01882349 0.01574828 0.28942535 0.01828302 0.01612608
+ 0.02204125 0.03895545 0.02199681 0.02148778 0.02101732 0.02229361
+ 0.019802   0.02839052 0.0223723  0.01766048 0.01740012]
+3,3_action_animation_item_fixed,[0.01488627 0.01879095 0.01569084 0.30335023 0.01848596 0.01609207
+ 0.02240275 0.03875944 0.02241658 0.02130364 0.02101213 0.02242505
+ 0.01973532 0.02812048 0.02220444 0.01762432 0.01736881]
+3,3_action_animation_item_fixed,[0.01759106 0.02342386 0.0210813  0.35859821 0.02602036 0.01980476
+ 0.03114642 0.07531999 0.03261309 0.03215947 0.02721759 0.03188785
+ 0.02829    0.04623838 0.03390321 0.02153266 0.02297258]
+3,3_action_animation_item_fixed,[0.01818456 0.02432032 0.02172643 0.48919259 0.0267101  0.02045937
+ 0.03227791 0.07662213 0.0335245  0.03261325 0.02833077 0.03302379
+ 0.02903727 0.04650616 0.03441014 0.02238686 0.02374399]
+10,10_friend_player_head_find,[0.00564194 0.01033167 0.00844843 0.00608611 0.0084526  0.00623482
+ 0.00761551 0.00883936 0.00611099 0.00561666 0.81679677 0.01110391
+ 0.00705028 0.00554946 0.00698065 0.01414284 0.00967161]
+3,3_action_animation_item_fixed,[0.01731851 0.02428733 0.02249521 0.11808834 0.02873377 0.0199484
+ 0.0342046  0.12025715 0.03483125 0.03432227 0.02968105 0.03602454
+ 0.03099162 0.04891068 0.03815919 0.02224887 0.02459118]
+5,5_zombie_survival_zombie_survival_best,[0.0704825  0.11497504 0.02324918 0.02100196 0.02055185 0.20353394
+ 0.03311924 0.02342152 0.02329601 0.01785124 0.02971873 0.02411701
+ 0.01902354 0.01791763 0.02058731 0.04689077 0.03959366]
+10,10_friend_player_head_find,[2.00590415e-308 3.80784671e-308 3.10398067e-308 2.13905859e-308
+ 3.06807691e-308 2.24038895e-308 2.75432426e-308 3.15970371e-308
+ 2.19563643e-308 2.01526658e-308 1.00000000e+000 4.01764485e-308
+ 2.53915253e-308 1.97645558e-308 2.51562713e-308 5.06474859e-308
+ 3.58015137e-308]
+5,5_zombie_survival_zombie_survival_best,[0.0721655  0.08745873 0.02068244 0.01904259 0.01849221 0.17936671
+ 0.02889541 0.02099464 0.02073593 0.01611607 0.02622359 0.02138091
+ 0.01708893 0.01619224 0.01857982 0.04053811 0.03427692]
+-1,-1_player_server_vehicle_issue,[0.06835249 0.08662087 0.01980196 0.01816962 0.01741929 0.15376411
+ 0.02724035 0.02002105 0.01942934 0.01533963 0.0252803  0.02037268
+ 0.01630627 0.01541764 0.01766079 0.03990109 0.03299396]
+-1,-1_player_server_vehicle_issue,[0.02716156 0.24455583 0.01813382 0.01511248 0.01525436 0.04957842
+ 0.02942569 0.01829787 0.01803283 0.01307808 0.02504753 0.01982829
+ 0.01432469 0.0130925  0.01529284 0.03952157 0.03696537]
+3,3_action_animation_item_fixed,[0.01851031 0.02595546 0.02442668 0.14127316 0.03037864 0.02136383
+ 0.03738672 0.11987741 0.03973958 0.03847304 0.03133451 0.03931206
+ 0.0339236  0.05699278 0.04082553 0.02368201 0.02640135]
+3,3_action_animation_item_fixed,[0.02231549 0.03074781 0.02814312 0.25169236 0.03491229 0.02549932
+ 0.04273809 0.12001583 0.04469316 0.04318769 0.03659483 0.04432379
+ 0.03833794 0.06271167 0.04599891 0.02814299 0.03066942]
+1,1_year_access_early_access_pc,[3.72056581e-308 1.00000000e+000 2.81073451e-308 1.96683494e-308
+ 2.22065742e-308 6.16623076e-308 3.72093895e-308 2.46782687e-308
+ 2.39330092e-308 1.82015856e-308 3.92482074e-308 2.81843550e-308
+ 2.05207704e-308 1.77695277e-308 2.12828618e-308 7.58169638e-308
+ 6.03601600e-308]
+2,2_thing_dev_time_community,[0.0160989  0.04153584 0.11559951 0.01605677 0.03391931 0.02105886
+ 0.02949573 0.02585246 0.0238852  0.02307135 0.03694803 0.0359599
+ 0.03082564 0.01908454 0.02724018 0.02854811 0.08795097]
+10,10_friend_player_head_find,[0.00703523 0.01287243 0.01060901 0.00770606 0.01069156 0.00778563
+ 0.00960346 0.01124542 0.00771546 0.00709932 0.79161585 0.01412277
+ 0.00892245 0.00702444 0.00883412 0.01734564 0.01209416]
+1,1_year_access_early_access_pc,[0.04523497 0.2222029  0.03599761 0.02474281 0.02876168 0.06219277
+ 0.04197269 0.03139345 0.02875426 0.02277813 0.05959155 0.03679665
+ 0.02602467 0.02221806 0.02690625 0.16215161 0.06925378]
+-1,-1_player_server_vehicle_issue,[0.05239978 0.16851571 0.04117646 0.02672501 0.03237749 0.06526659
+ 0.04294042 0.03379761 0.03048979 0.02521777 0.06579503 0.03933728
+ 0.02909388 0.02436048 0.02971671 0.2112603  0.07414832]
+15,15_streamer_video_sniper_stream,[3.50426510e-308 7.68607698e-308 2.69337901e-308 1.95308289e-308
+ 2.27309201e-308 3.82593821e-308 2.78697835e-308 2.41832900e-308
+ 2.06224071e-308 1.73533077e-308 5.50450562e-308 2.78792920e-308
+ 2.02162702e-308 1.70988674e-308 2.05714681e-308 1.00000000e+000
+ 4.23483032e-308]
+15,15_streamer_video_sniper_stream,[0.01991689 0.04451688 0.01483348 0.01078947 0.01254647 0.02185798
+ 0.01549168 0.01334979 0.01140959 0.00958636 0.02961353 0.01529711
+ 0.0111395  0.00944261 0.01138042 0.65985631 0.02365495]
+10,10_friend_player_head_find,[0.01145156 0.02052993 0.01674952 0.01250574 0.01711328 0.01259223
+ 0.01533948 0.01811259 0.01234089 0.01137957 0.55882362 0.02234193
+ 0.01423019 0.01129738 0.01420018 0.02801905 0.01919252]
+1,1_year_access_early_access_pc,[0.05044979 0.30719417 0.03537595 0.02461073 0.02829716 0.09777048
+ 0.04690807 0.03113225 0.03027166 0.0233391  0.04589733 0.03463362
+ 0.02584539 0.02257841 0.02753499 0.07926334 0.07874126]
+-1,-1_player_server_vehicle_issue,[0.03328365 0.14399804 0.0496677  0.02796988 0.03677549 0.05370268
+ 0.07877292 0.04141793 0.04283123 0.03111312 0.04869587 0.04757813
+ 0.0344599  0.02882194 0.03738652 0.05149634 0.17950354]
+1,1_year_access_early_access_pc,[0.04079803 0.41123894 0.03087603 0.02123779 0.02437872 0.06589825
+ 0.03935091 0.02696872 0.02586304 0.0199078  0.04418176 0.03116592
+ 0.02227092 0.01932157 0.02343898 0.08702275 0.06607984]
+8,8_issue_server_fixed_experimental,[0.00922745 0.01590492 0.01614517 0.01628229 0.01392247 0.01183932
+ 0.0385157  0.0214987  0.57679098 0.01991863 0.01500722 0.02850398
+ 0.01698775 0.02106373 0.01701087 0.01236237 0.01761678]
+8,8_issue_server_fixed_experimental,[0.01009647 0.01746544 0.01751409 0.01786032 0.01519817 0.01298899
+ 0.04361234 0.0236943  0.54260986 0.02153599 0.01641289 0.03108194
+ 0.01843947 0.02280318 0.0185966  0.01352746 0.01933177]
+-1,-1_player_server_vehicle_issue,[0.03683119 0.08786226 0.03052806 0.02248307 0.02606139 0.04160987
+ 0.03253695 0.02824814 0.02369571 0.01979394 0.06659003 0.03251703
+ 0.0231257  0.01957448 0.02365184 0.40289678 0.048797  ]
+-1,-1_player_server_vehicle_issue,[0.01508775 0.025901   0.02196162 0.02650738 0.02034584 0.01995514
+ 0.08543237 0.03348594 0.09287339 0.02551759 0.02276959 0.03733079
+ 0.02287211 0.02808125 0.02469213 0.01965653 0.02772383]
+-1,-1_player_server_vehicle_issue,[0.01534351 0.02634129 0.02218791 0.0267246  0.02057462 0.02036688
+ 0.08890096 0.03368195 0.09133481 0.02568523 0.02292836 0.03709688
+ 0.02307908 0.02822343 0.0249414  0.01990112 0.02819592]
+-1,-1_player_server_vehicle_issue,[0.01518879 0.02603261 0.02182473 0.02660258 0.02033784 0.02014615
+ 0.08712175 0.03352869 0.08726439 0.02530184 0.02273157 0.03673642
+ 0.02273733 0.02787488 0.02468206 0.0197064  0.02780546]
+-1,-1_player_server_vehicle_issue,[0.01534392 0.02634444 0.02204551 0.02682535 0.02054292 0.02036721
+ 0.08903341 0.03385613 0.08758125 0.02549497 0.02297171 0.03707504
+ 0.02295368 0.02807353 0.02490723 0.01992026 0.02813985]
+10,10_friend_player_head_find,[0.01400795 0.02609773 0.01999264 0.01452899 0.01974818 0.01553981
+ 0.0185938  0.02089028 0.01467703 0.01324824 0.53565718 0.02586255
+ 0.01648148 0.01311015 0.01648269 0.03663186 0.02393972]
+5,5_zombie_survival_zombie_survival_best,[0.06121887 0.12346983 0.02138229 0.0191968  0.01883376 0.15070838
+ 0.03066839 0.02153517 0.02136506 0.01626355 0.02794765 0.02237221
+ 0.01741273 0.01633325 0.01878885 0.0453317  0.03696819]
+-1,-1_player_server_vehicle_issue,[0.04725784 0.18335289 0.03831604 0.02815244 0.03143674 0.06068209
+ 0.04634779 0.03541197 0.03173551 0.02498254 0.06970267 0.04137396
+ 0.0286097  0.02468464 0.02955218 0.18642854 0.07012754]
+3,3_action_animation_item_fixed,[0.00907451 0.01182639 0.01024771 0.65649188 0.01264283 0.01007646
+ 0.01500427 0.03157514 0.01504211 0.01477552 0.01345114 0.01489782
+ 0.013497   0.02034756 0.01575805 0.01092237 0.01131462]
+3,3_action_animation_item_fixed,[1.40389822e-308 1.83942165e-308 1.59712360e-308 1.00000000e+000
+ 1.95857324e-308 1.56126331e-308 2.34962531e-308 4.96988331e-308
+ 2.37309051e-308 2.30926317e-308 2.09996040e-308 2.34795637e-308
+ 2.10058244e-308 3.19449075e-308 2.45015938e-308 1.69860345e-308
+ 1.76128604e-308]
+1,1_year_access_early_access_pc,[4.16244791e-308 1.00000000e+000 2.54084623e-308 1.97603272e-308
+ 2.08453942e-308 7.36421180e-308 3.58292921e-308 2.38199813e-308
+ 2.32586175e-308 1.75087273e-308 3.55078437e-308 2.63876543e-308
+ 1.93982923e-308 1.73378668e-308 2.03724712e-308 6.67664384e-308
+ 5.04507337e-308]
+-1,-1_player_server_vehicle_issue,[0.0145797  0.02339136 0.01979126 0.04192436 0.02246522 0.01809713
+ 0.0479133  0.05444429 0.04300636 0.02548487 0.02474799 0.03537547
+ 0.02438859 0.03232029 0.02704192 0.01942935 0.02387025]
+-1,-1_player_server_vehicle_issue,[0.01549486 0.02468697 0.02077924 0.04590004 0.02379468 0.01916599
+ 0.04923308 0.05883729 0.04439959 0.02687821 0.02618506 0.03699306
+ 0.02566395 0.03426381 0.02866285 0.02056593 0.02504775]
+3,3_action_animation_item_fixed,[0.01722953 0.02297735 0.02064108 0.45238208 0.02535186 0.0193613
+ 0.03045661 0.0723184  0.03188192 0.03119964 0.02681733 0.03135233
+ 0.02763694 0.04470527 0.03275722 0.021184   0.02247186]
+3,3_action_animation_item_fixed,[0.01799886 0.02411193 0.02166039 0.40269003 0.02670148 0.02027359
+ 0.03212251 0.07810069 0.03347876 0.03272595 0.02820115 0.03301803
+ 0.02905745 0.04687913 0.03454944 0.02220153 0.02362299]
+0,0_livonia_survival_survive_dlc,[0.11429109 0.08166718 0.02296705 0.01928612 0.02106483 0.07985975
+ 0.02680646 0.02208166 0.02016701 0.01676099 0.03273122 0.02296919
+ 0.01837453 0.01657718 0.01984205 0.06062787 0.03752239]
+0,0_livonia_survival_survive_dlc,[0.30739495 0.03854349 0.01413304 0.01405644 0.01348633 0.05151493
+ 0.01753128 0.01482758 0.01374683 0.01143099 0.01901319 0.01478013
+ 0.01206615 0.01155167 0.01331083 0.02847213 0.02097142]
+2,2_thing_dev_time_community,[0.01319821 0.02575306 0.06741689 0.01633476 0.05192498 0.01611115
+ 0.02354442 0.02941913 0.02178561 0.02863413 0.03378817 0.04041905
+ 0.04256021 0.02169249 0.03777379 0.02150737 0.03811412]
+-1,-1_player_server_vehicle_issue,[0.01751    0.03406764 0.08803902 0.02151544 0.0677208  0.02135217
+ 0.03025777 0.03860666 0.02783598 0.0375682  0.04463612 0.05231303
+ 0.05569461 0.0284969  0.04974418 0.0285282  0.05035109]

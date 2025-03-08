@@ -27,7 +27,7 @@ umap_module.spectral_layout = patched_spectral_layout
 
 # Set your APP_ID and return_all flag
 APP_ID = 221100
-RETURN_ALL = True
+RETURN_ALL = False
 
 # Load preprocessed notes
 processed_docs = load_preprocessed_notes(return_all=RETURN_ALL) if RETURN_ALL else load_preprocessed_notes(appid=APP_ID)
@@ -38,28 +38,30 @@ if not processed_docs:
     exit(1)
 
 # Initialize embedding model
-embedding_model = SentenceTransformer("sentence-transformers/all-mpnet-base-v2", device="cuda" if gpu_available else "cpu")
+embedding_model = SentenceTransformer("sentence-transformers/all-mpnet-base-v2", device="cuda")
 
-# Initialize BERTopic with appropriate UMAP and HDBSCAN
+# Initialize BERTopic with appropriate UMAP and HDBSCAN models
 if gpu_available:
     print("cuML is available. Using GPU-accelerated UMAP and HDBSCAN.")
-    custom_umap = cumlUMAP(n_neighbors=2, n_components=2, metric="cosine", init="random", random_state=42)
-    custom_hdbscan = cumlHDBSCAN(min_samples=10, gen_min_span_tree=True, prediction_data=True)
+    custom_umap = cumlUMAP(n_neighbors=50, n_components=5, metric="cosine", init="random", random_state=42)
+    custom_hdbscan = cumlHDBSCAN(min_samples=20, gen_min_span_tree=True, prediction_data=True)
 else:
-    print("cuML is not available. Using CPU-based UMAP and HDBSCAN.")
-    custom_umap = umap.UMAP(n_neighbors=2, n_components=2, metric="cosine", init="random", random_state=42)
+    print("cuML is not available. Using CPU-based UMAP and HDBSCAN with CPU parallelization.")
+    custom_umap = umap.UMAP(n_neighbors=50, n_components=5, metric="cosine", init="random", random_state=42)
     from hdbscan import HDBSCAN
-    custom_hdbscan = HDBSCAN(min_samples=10, gen_min_span_tree=True, prediction_data=True)
+    # Enable parallel computation of core distances by setting core_dist_n_jobs=-1
+    custom_hdbscan = HDBSCAN(min_samples=20, gen_min_span_tree=True, prediction_data=True, core_dist_n_jobs=5)
 
 topic_model = BERTopic(
     embedding_model=embedding_model,
     umap_model=custom_umap,
     hdbscan_model=custom_hdbscan,
     language="english",
-    nr_topics=8,
+    nr_topics=None,
     calculate_probabilities=True,
-    verbose=True
+    verbose=True,
 )
+
 topics, probabilities = topic_model.fit_transform(processed_docs)
 
 # Save results to CSV
