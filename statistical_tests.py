@@ -33,23 +33,49 @@ ts = ts.dropna()
 # ------------------------------
 # 2. Apply Detrending Transformations
 # ------------------------------
+
+# plot the detrended time series
+plt.figure(figsize=(12, 6))
+plt.plot(ts, label='Detrended Series')
+plt.xlabel("Date")
+plt.ylabel("Detrended Value (%)")
+plt.title("Inital raw Time Series")
+plt.show()
+
 rolling_window = 24  # 24-month rolling window for smoothing
 rolling_mean = ts.rolling(rolling_window, center=True).mean()
 ts_detrended = ts - rolling_mean
 ts_detrended = ts_detrended.dropna()
 
+# plot the detrended time series
+plt.figure(figsize=(12, 6))
+plt.plot(ts_detrended, label='Detrended Series')
+plt.xlabel("Date")
+plt.ylabel("Detrended Value (%)")
+plt.title("Detrended Time Series with Rolling Mean")
+plt.show()
+
 decomposition = seasonal_decompose(ts_detrended, model='additive', period=12)
 ts_detrended = ts_detrended - decomposition.trend - decomposition.seasonal
 ts_detrended = ts_detrended.dropna()
 
+# plot the detrended time series
+plt.figure(figsize=(12, 6))
+plt.plot(ts_detrended.index, ts_detrended, label='Detrended Series')
+plt.xlabel("Date")
+plt.ylabel("Detrended Value (%)")
+plt.title("Detrended Time Series with Seasonal Adjustment")
+plt.show()
+
+
 print(ts_detrended.describe())
 stat, p_value = shapiro(ts_detrended)
-print(f"Shapiro-Wilk Test: p-value = {p_value:.4f}")
+print(f"Shapiro-Wilk Test: p-value = {p_value:.8f}")
 
 # ------------------------------
 # 3. Extract Update Dates from JSON Files and Filter
 # ------------------------------
-patch_folder = os.path.join(os.path.dirname(__file__), "patch_notes")
+patch_folder = os.path.join(os.path.dirname(__file__), "datasets/patch_notes")
 pattern = os.path.join(patch_folder, f"{game_id_to_use}_patch_notes.json")
 extracted_events = []
 for file in glob.glob(pattern):
@@ -60,6 +86,7 @@ for file in glob.glob(pattern):
             # Initially assign a temporary type (0)
             extracted_events.append({"date": update_date.strftime("%Y-%m-%d"), "type": 0})
 
+# ~~~ REPLACE WITH ACTUAL BURT TOPICS HERE ~~~~
 # Randomly assign only 3 events to type 1, and all others to type 2.
 if len(extracted_events) >= 3:
     type1_indices = set(random.sample(range(len(extracted_events)), 3))
@@ -71,6 +98,8 @@ for i, event in enumerate(extracted_events):
         event['type'] = 1
     else:
         event['type'] = 2
+
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # Only keep events that occur after the start of our analysis period
 detrended_start = ts_detrended.index.min()
@@ -157,6 +186,30 @@ if results_by_type:
     plt.title("Aggregated Post-Event vs. Baseline Differences by Event Type")
     plt.show()
 
+
+
+# --------------------------------------------
+# 5. Plot Time Series with Events and Confidence Intervals
+# --------------------------------------------
+
+plt.figure(figsize=(12, 6))
+plt.plot(ts_detrended.index, ts_detrended, label='Detrended Series', color='blue', alpha=0.6)
+plt.xlabel("Date")
+plt.ylabel("Detrended Value (%)")
+plt.title("Time Series with Events and Confidence Intervals")
+
+# Plot events with confidence intervals
+for event in events:
+    event_date = pd.to_datetime(event["date"])
+    etype = event["type"]
+    if etype in results_by_type:
+        ci_lower, ci_upper = results_by_type[etype]['ci_lower'], results_by_type[etype]['ci_upper']
+        plt.axvline(event_date, color='red' if etype == 1 else 'green', linestyle='dashed', alpha=0.8)
+        plt.fill_betweenx([-10, 10], event_date, event_date + pd.DateOffset(months=window_months), 
+                          color='red' if etype == 1 else 'green', alpha=0.2, label=f"Event Type {etype}")
+
+plt.legend()
+plt.show()
 # # Window size for ITS regression (used earlier)
 # window_size = 3
 

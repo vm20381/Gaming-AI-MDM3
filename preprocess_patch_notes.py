@@ -1,10 +1,6 @@
 import os
 import json
-import nltk
-from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
-from nltk.stem import WordNetLemmatizer
-from nltk import ngrams
 
 CUSTOM_IGNORE_WORDS = [
     'steamdb', 'store', 'storeparser', 'storeparsercom', 'storeparsercomsteamdb',
@@ -16,13 +12,6 @@ CUSTOM_IGNORE_WORDS = [
     'rainbow', 'six', 'siege', 'delta', 'force', 'x', 'marvel', 'rivals',
     'released', 'encouraged', 'automatically'
 ]
-
-nltk.download('punkt')
-nltk.download('stopwords')
-nltk.download('wordnet')
-
-stop_words = set(stopwords.words('english')).union(set(CUSTOM_IGNORE_WORDS))
-lemmatizer = WordNetLemmatizer()
 
 def load_preprocessed_notes(directory="preprocessed_patch_notes", appid=None, return_all=False):
     base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -55,16 +44,10 @@ def preprocess_doc(doc):
     else:
         text = doc
     tokens = word_tokenize(text.lower())
-    tokens = [word for word in tokens if word.isalpha() and word not in stop_words]
-    tokens = [lemmatizer.lemmatize(token) for token in tokens]
-    bigrams = ['_'.join(gram) for gram in ngrams(tokens, 2)]
-    all_tokens = tokens + bigrams
-    return " ".join(all_tokens)
+    return " ".join(tokens)
 
-RAW_DIR = "patch_notes"
-PREPROCESSED_DIR = "preprocessed_patch_notes"
-
-os.makedirs(PREPROCESSED_DIR, exist_ok=True)
+RAW_DIR = "datasets/patch_notes"
+PREPROCESSED_DIR = "datasets/preprocessed_patch_notes"
 
 for filename in os.listdir(RAW_DIR):
     if filename.endswith("_patch_notes.json"):
