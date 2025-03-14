@@ -5,10 +5,5 @@ __pycache__/
 # Ignore virtual environments
 venv/
 env/
-
-# Ignore log files
-*.log
-
-# Ignore custom configuration files
-config.json
-secret_settings.py
+saved_bertopic_model
+saved_embeddings.pkl
