@@ -2,6 +2,7 @@ import os
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import get_games as scrape
 
 def get_steam_app_id(game_name):
     search_url = f"https://steamcommunity.com/actions/SearchApps/{game_name}"
@@ -24,10 +25,13 @@ def get_steam_tags(game_id):
         game_name_tag = soup.find("div", class_="apphub_AppName")
         game_name = game_name_tag.text.strip() if game_name_tag else f"Unknown ({game_id})"
         tags = [tag.text.strip() for tag in soup.find_all("a", class_="app_tag")]
-        return game_name, ", ".join(tags)
+        multiplayer = any("multiplayer" in tag.lower() for tag in tags)
+        if multiplayer:
+            return game_name, ", ".join(tags)
+        else:
+            return None, None
     else:
-        print(f"Failed to fetch Steam tags for {game_id}")
-        return f"Unknown ({game_id})", "N/A"
+        return None,None
     
 def get_steamcharts_data(game_id):
     url = f"https://steamcharts.com/app/{game_id}#All"
@@ -56,6 +60,8 @@ def get_steamcharts_data(game_id):
             
             # Convert data into DataFrame
             df = pd.DataFrame(data, columns=headers)
+            if "Last 30 Days" in df['Month'].values:
+                df.loc[df['Month'] == "Last 30 Days", 'Month'] = "March 2025"
             return df
         else:
             print(f"Could not find the data table for game {game_id}.")
@@ -64,13 +70,13 @@ def get_steamcharts_data(game_id):
         print(f"Failed to fetch SteamCharts data for {game_id}: {response.status_code}")
         return None
 
-def save_game_data(game_name):
-    game_id = get_steam_app_id(game_name) 
-    if not game_id:
-        return
-    
+def save_game_data(game_id):
     game_name, tags = get_steam_tags(game_id) 
     steamcharts_data = get_steamcharts_data(game_id) 
+
+    if game_name is None or tags is None:
+        print(f"Skipping game {game_id}, not multiplayer or failed to fetch data.")
+        return
 
     if steamcharts_data is not None:
         # Add metadata columns
@@ -88,7 +94,6 @@ def save_game_data(game_name):
         print(f"Skipping {game_name}, no SteamCharts data available.")
 
 if __name__ == "__main__":
-    game_names = ["Counter-Strike 2","PUBG: BATTLEGROUNDS","Dota 2","NARAKA: BLADEPOINT","Marvel Rivals","Apex Legends","Delta Force","War Thunder","Crab Game","Team Fortress 2","VRChat","Once Human",
-                  "Path of Exile","Yu-Gi-Oh! Master Duel","Destiny 2","Overwatch 2","Russian Fishing 4","MIR4","Eternal Return","Unturned"] # "THRONE AND LIBERTY","Lost Ark","Warframe" perms error
-    for game in game_names:
-        save_game_data(game)
+    games = scrape.get_free_to_play_games()
+    for game in games:
+        save_game_data(game['id'])
