@@ -66,7 +66,7 @@ if __name__ == "__main__":
         Run with skip_tag_listing false to select groups
         rewrite selection in group_input above and change skip_tag_listing to true to run the same groups without need for inputs
     '''
-    dataset = pd.read_csv("C:/Uni/MDM3/gaming/datasets/game_data.csv")
+    dataset = pd.read_csv(r"C:\Users\Orlan\Documents\MDM3\Gaming-AI\Gaming-AI-MDM3\game_data.csv")
     skip_tag_listing = True  # Set to False to list all tags 
     save = True # Set to True to save the created groups
  

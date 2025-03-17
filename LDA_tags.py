@@ -76,7 +76,7 @@ def apply_pca(lda_model, corpus):
     print("Explained Variance by PCA Components:", pca.explained_variance_ratio_)
 
 if __name__ == "__main__":
-    dataset = load_game_tags("C:/Uni/MDM3/gaming/datasets/game_data.csv")
+    dataset = load_game_tags("C:/Uni/MDM3/gaming/game_data.csv")
     processed_docs = process_game_tags(dataset)
     lda_model, corpus, dictionary = train_lda(processed_docs)
     visualize_lda(lda_model, corpus, dictionary)

@@ -7,3 +7,4 @@ venv/
 env/
 saved_bertopic_model
 saved_embeddings.pkl
+all_patch_notes.json
